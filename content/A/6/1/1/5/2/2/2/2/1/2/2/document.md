@@ -1,5 +1,5 @@
 ---
-id: 2dcc5cd2-5936-4779-8ff6-072ad863756f
+id: e5477d87-ecc4-4eab-9e11-fe8d76791048
 docNo: A.6.1.1.5.2.2.2.2.1.2.2
 name: Non-Routine Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.2.2.2.1.2.2 - Non-Routine Protocol [Core]
 
-The documents herein define the process for using the Root Edit Primitive to update the Obex Agent Artifact in non-routine conditions.
+The documents herein define the process for using the Root Edit Primitive to update the Skybase Agent Artifact in non-routine conditions.

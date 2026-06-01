@@ -1,5 +1,5 @@
 ---
-id: 1108297e-9d69-4468-859e-2d26a42c27af
+id: a954b3b9-4230-448e-b926-e7daaad542c5
 docNo: A.6.1.1.6.2.1.4.2.1.1.4
 name: Token Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.1.4.2.1.1.4 - Token Address [Core]
 
-The address of PATTERN will be specified in a future iteration of the Pattern Artifact.
+The address of OBEX will be specified in a future iteration of the Obex Artifact.

@@ -1,5 +1,5 @@
 ---
-id: 49588342-eebf-41e2-89eb-eb4f94ba5f36
+id: 567e4905-2b05-493e-95ac-8a4d20afed2b
 docNo: A.6.1.1.2.2.6.1.2.1.2.2.2.1
 name: Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.2.1.2.2.2.1 - Address [Core]
 
-The address of the Prime Secondary Relayer Multisig is `0x9187807e07112359C481870feB58f0c117a29179`.
+The address of the Core Operator Relayer Multisig on the Ethereum Mainnet, Base, and Arbitrum is `0x8Cc0Cb0cfB6B7e548cfd395B833c05C346534795`.

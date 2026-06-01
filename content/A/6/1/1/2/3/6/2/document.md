@@ -1,12 +1,12 @@
 ---
-id: 9629b16e-4f11-49bc-80be-6c85d711716c
+id: 0eb2eb16-7306-4410-a596-8c2ff371598a
 docNo: A.6.1.1.2.3.6.2
-name: Onboard With Ethena
+name: Current Strategic Investments
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.6.2 - Onboard With Ethena [Core]
+###### A.6.1.1.2.3.6.2 - Current Strategic Investments [Core]
 
-On October 23, 2025, Grove agreed to a DAO Resolution authorizing Bamboo Grove to onboard with Ethena. See [https://ipfs.io/ipfs/bafkreic5vspzukckcgnx5ykwj2inqidvbfcknafa56jqgo25cveqyi565q](https://ipfs.io/ipfs/bafkreic5vspzukckcgnx5ykwj2inqidvbfcknafa56jqgo25cveqyi565q). The DAO Resolution makes reference to a Deed Poll that is approved as part of the DAO Resolution. See [https://ipfs.io/ipfs/bafkreibvyodjaosdfdzsrqjtuohwte46pol4zzmchky4t5xejaltonzi24](https://ipfs.io/ipfs/bafkreibvyodjaosdfdzsrqjtuohwte46pol4zzmchky4t5xejaltonzi24).
+The documents herein provide details on each Strategic Investment undertaken by Spark.

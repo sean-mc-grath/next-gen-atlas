@@ -1,12 +1,12 @@
 ---
-id: 50ef16ee-1309-4172-befa-186529eb91c3
+id: be75c381-80e1-4c95-8b8b-e990f00a178e
 docNo: A.6.1.1.3.2.6.1.2.1.2.2.3
-name: Freezer Multisig
+name: Core Operator Relayer Multisig
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.2.2.3 - Freezer Multisig [Core]
+###### A.6.1.1.3.2.6.1.2.1.2.2.3 - Core Operator Relayer Multisig [Core]
 
-The Freezer Multisig has the `FREEZER_ROLE` as defined in [A.6.1.1.3.2.6.1.2.2.1.1.1.4 - Freezer Role](45b602fb-9427-4555-a3f7-8ad5b17a1cf2).
+The Core Operator Relayer Multisig has the `RELAYER_ROLE` as defined in [A.6.1.1.3.2.6.1.2.2.1.1.2 - Relayer Role](4639e60c-111f-4018-bc8d-501b88c20edd), and is controlled by Operational GovOps Soter Labs.

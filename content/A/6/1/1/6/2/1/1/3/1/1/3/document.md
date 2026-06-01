@@ -1,5 +1,5 @@
 ---
-id: 16b680a4-27f8-457a-acb5-f6c6e8d29d4d
+id: 509c948c-1ddd-4bd2-8343-357f7981d296
 docNo: A.6.1.1.6.2.1.1.3.1.1.3
 name: StarGuard Contract
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.1.1.3.1.1.3 - StarGuard Contract [Core]
 
-The address of Pattern's StarGuard contract on the Ethereum Mainnet is `0x2fb18b28fB39Ec3b26C3B5AF5222e2ca3B8B2269`.
+The address of Obex’s StarGuard contract on the Ethereum Mainnet is `0x987f1C31f9935e9926555BcFB76516bb2EcEccaD`.

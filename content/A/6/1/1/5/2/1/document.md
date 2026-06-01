@@ -1,5 +1,5 @@
 ---
-id: d5354d3f-8281-49e2-9ff6-c36091afa18a
+id: f08231e6-caa9-490d-9d7f-4f65f9076084
 docNo: A.6.1.1.5.2.1
 name: Genesis Primitives
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.1 - Genesis Primitives [Core]
 
-The documents herein implement the Genesis Primitives for Obex. See [A.2.2.4 - Genesis Primitives](3d5e3668-8333-4908-adcc-5784cfe7f6b5).
+The documents herein implement the Genesis Primitives for Skybase. See [A.2.2.4 - Genesis Primitives](3d5e3668-8333-4908-adcc-5784cfe7f6b5).

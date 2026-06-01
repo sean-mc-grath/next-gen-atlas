@@ -1,12 +1,12 @@
 ---
-id: 0ca77e89-5598-46f6-a829-ff85c8c41e5e
+id: 4d77a9ba-d186-48e8-a70d-53aa66e01c65
 docNo: A.6.1.1.3.2.6.1.2.2.1.2
-name: Non-Routine Protocol
+name: Controller Functions
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.2.1.2 - Non-Routine Protocol [Core]
+###### A.6.1.1.3.2.6.1.2.2.1.2 - Controller Functions [Core]
 
-The documents herein define the process for non-routine ongoing management of the Keel Liquidity Layer and its active Instances on Ethereum Mainnet.
+The documents herein describe the purpose and operational use of key functions within the Grove Liquidity Layer `MainnetController` contracts: USDS management (mint/burn USDS), Asset Transfer Management (direct transfers, protocol deposits/withdrawals), Cross-chain Operations (CCTP bridging).

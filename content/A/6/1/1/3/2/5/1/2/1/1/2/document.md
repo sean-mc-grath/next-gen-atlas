@@ -1,5 +1,5 @@
 ---
-id: 78ced90e-697d-408e-b301-e22740d650dc
+id: 78948530-a5e9-456f-bcaf-f74a70bdc0b8
 docNo: A.6.1.1.3.2.5.1.2.1.1.2
 name: Tracking Methodology
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.5.1.2.1.1.2 - Tracking Methodology [Core]
 
-Synthetic tagging of deposits and withdrawals from the LayerZero contract on Ethereum (`0x1e1D42781FC170EF9da004Fb735f56F0276d01B8`) minus the running balances already attributed to a Distribution Reward Instance.
+This Instance uses the Tracking Methodology specified in [A.2.2.8.1.2.1.2.2.1 - Ethereum Mainnet General Tracking Methodology](87fd6861-ba8a-4bde-945e-ee9ad37ae3e2).

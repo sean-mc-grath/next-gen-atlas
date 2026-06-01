@@ -1,12 +1,12 @@
 ---
-id: 931d7521-9740-4913-8f36-52bbb856dca2
+id: 93f2939e-b2d2-4c2e-b74d-8af8b9fbf12e
 docNo: A.6.1.1.2.2.6.1.3.1.9.1.2.2.1
-name: Token Address (Avalanche)
+name: Token Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.9.1.2.2.1 - Token Address (Avalanche) [Core]
+###### A.6.1.1.2.2.6.1.3.1.9.1.2.2.1 - Token Address [Core]
 
-`0x2C0aDFF8e114f3cA106051144353aC703D24B901`
+`0xfE6eb3b609a7C8352A241f7F3A21CEA4e9209B8f`

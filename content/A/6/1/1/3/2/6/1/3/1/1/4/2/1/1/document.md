@@ -1,5 +1,5 @@
 ---
-id: f2493a5e-7bd7-42f3-8f8a-9e8d2f526d71
+id: ebe72c81-05ca-4dda-9e91-177ebcd1d83e
 docNo: A.6.1.1.3.2.6.1.3.1.1.4.2.1.1
 name: Network
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.3.1.1.4.2.1.1 - Network [Core]
 
-Solana
+Ethereum Mainnet

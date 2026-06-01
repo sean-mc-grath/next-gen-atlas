@@ -1,5 +1,5 @@
 ---
-id: 70804058-8a1b-45ee-bf21-b09a5daefdb9
+id: 1889a2a0-7378-487a-a278-aabe3177efff
 docNo: A.6.1.1.4.3.1
 name: Governance Information Unrelated To Root Edit Primitive
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.3.1 - Governance Information Unrelated To Root Edit Primitive [Core]
 
-The documents herein specify Skybase governance information that is unrelated to the use of the Root Edit Primitive. The governance process for updating the Skybase Artifact is specified in the Root Edit Primitive above at [A.6.1.1.4.2.2.2 - Root Edit Primitive](24517c43-dec9-44ec-bc03-e76671dc2e74).
+The documents herein specify Keel governance information that is unrelated to the use of the Root Edit Primitive. The governance process for updating the Keel Artifact is specified in the Root Edit Primitive above at [A.6.1.1.4.2.2.2 - Root Edit Primitive](3d02dcbc-6a31-4f63-b464-c8c3ecebb744).

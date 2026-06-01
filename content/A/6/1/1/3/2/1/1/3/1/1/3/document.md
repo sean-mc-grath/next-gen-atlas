@@ -1,5 +1,5 @@
 ---
-id: 79ef290b-94c8-420b-9e05-dbfa4156c5b4
+id: 9f6f0416-1efa-4986-aec9-0ee66cd13758
 docNo: A.6.1.1.3.2.1.1.3.1.1.3
 name: Genesis Account
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.1.1.3.1.1.3 - Genesis Account [Core]
 
-The address of Keel’s Genesis Account will be specified in a future iteration of the Keel Artifact.
+The address of Grove’s Genesis Account will be specified in a future iteration of the Grove Artifact.

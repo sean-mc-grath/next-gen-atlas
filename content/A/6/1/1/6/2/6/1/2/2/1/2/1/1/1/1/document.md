@@ -1,5 +1,5 @@
 ---
-id: 929818fb-10b0-4520-ba00-5bc2f46815ed
+id: 05134536-1b5a-488f-8c82-a9a1aa6ea836
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.1.1.1
 name: Call setMintRecipient Function
 type: Core

@@ -1,5 +1,5 @@
 ---
-id: 388c4c85-a228-4722-8001-02040cbb36ff
+id: ad535f1f-c7f0-4cd8-aca0-5a447dc2622b
 docNo: A.6.1.1.8.2.5.3
 name: Pioneer Chain Primitive
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.5.3 - Pioneer Chain Primitive [Core]
 
-The documents herein contain all data and specifications for Launch Agent 7's Instances of the Pioneer Chain Primitive. See [A.2.2.8.3 - Pioneer Chain Primitive](4c7be4c6-44b5-407a-94ae-3d7ca7e8039c).
+The documents herein contain all data and specifications for Osero's Instances of the Pioneer Chain Primitive. See [A.2.2.8.3 - Pioneer Chain Primitive](4c7be4c6-44b5-407a-94ae-3d7ca7e8039c).

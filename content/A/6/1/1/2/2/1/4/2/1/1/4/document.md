@@ -1,5 +1,5 @@
 ---
-id: 1e92dae7-7e0a-4392-bcbe-3458082eb2ca
+id: 6ade0500-77d0-4d54-9bc3-0f6bad64f35f
 docNo: A.6.1.1.2.2.1.4.2.1.1.4
 name: Token Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.1.4.2.1.1.4 - Token Address [Core]
 
-The address of GROVE on the Ethereum Mainnet is `0xB30FE1Cf884B48a22a50D22a9282004F2c5E9406`.
+The address of SPK on the Ethereum Mainnet is `0xc20059e0317DE91738d13af027DfC4a50781b066`. The address of SPK on Base is `0x24327d9138F9f3fc77BEcB10d9BDc2ABb324EE50`.

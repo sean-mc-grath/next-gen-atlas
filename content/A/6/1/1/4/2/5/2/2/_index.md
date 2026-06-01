@@ -1,11 +1,12 @@
 ---
 type: index
 path: content/A/6/1/1/4/2/5/2/2
-childCount: 3
+childCount: 4
 ---
 
 # Contents
 
-- [A.6.1.1.4.2.5.2.2.1 - Euler Instance Configuration Document](1/document.md)
-- [A.6.1.1.4.2.5.2.2.2 - Curve Instance Configuration Document](2/document.md)
-- [A.6.1.1.4.2.5.2.2.3 - Morpho Instance Configuration Document](3/document.md)
+- [A.6.1.1.4.2.5.2.2.1 - Kamino Instance Configuration Document](1/document.md)
+- [A.6.1.1.4.2.5.2.2.2 - Drift Instance Configuration Document](2/document.md)
+- [A.6.1.1.4.2.5.2.2.3 - Save Instance Configuration Document](3/document.md)
+- [A.6.1.1.4.2.5.2.2.4 - Lifinity Instance Configuration Document](4/document.md)

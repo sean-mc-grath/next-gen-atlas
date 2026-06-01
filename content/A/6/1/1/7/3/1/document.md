@@ -1,5 +1,5 @@
 ---
-id: a472d201-3dfd-4939-9789-5cedce9ea37a
+id: df8e7155-ba1f-4606-8a4a-0619c06da12b
 docNo: A.6.1.1.7.3.1
 name: Governance Information Unrelated To Root Edit Primitive
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.3.1 - Governance Information Unrelated To Root Edit Primitive [Core]
 
-The documents herein specify Osero governance information that is unrelated to the use of the Root Edit Primitive. The governance process for updating the Osero Artifact is specified in the Root Edit Primitive above at [A.6.1.1.7.2.2.2 - Root Edit Primitive](6c61b3d8-6cc8-4250-8173-eee8396a4ef4).
+The documents herein specify Pattern governance information that is unrelated to the use of the Root Edit Primitive. The governance process for updating the Pattern Artifact is specified in the Root Edit Primitive above at [A.6.1.1.7.2.2.2 - Root Edit Primitive](e30f2e01-78c1-4286-a80a-0df31923303f).

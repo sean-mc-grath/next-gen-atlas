@@ -1,12 +1,12 @@
 ---
-id: 9dacb60c-fa1c-48cf-94c7-6b25cfbf9b28
+id: c95f4d5b-a056-40ef-bf18-c5753c6f7182
 docNo: A.6.1.1.2.2.6.1.3.1.12.2.2.2.1
-name: Underlying Asset Address (USDC)
+name: Token Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.12.2.2.2.1 - Underlying Asset Address (USDC) [Core]
+###### A.6.1.1.2.2.6.1.3.1.12.2.2.2.1 - Token Address [Core]
 
-`0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48`
+`0x6c3ea9036406852006290770bedfcaba0e23a0e8`

@@ -1,5 +1,5 @@
 ---
-id: 9693a23e-9116-43d3-87ae-5036fa0fb4d1
+id: c1ba86c9-f638-4ebe-9346-e22377841c2c
 docNo: A.6.1.1.7.2.3.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.3.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Upkeep Rebate Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Upkeep Rebate Primitive.

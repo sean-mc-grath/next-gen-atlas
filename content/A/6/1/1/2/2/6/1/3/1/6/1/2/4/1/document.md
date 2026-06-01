@@ -1,15 +1,15 @@
 ---
-id: 172836ec-2f76-4e64-96db-fb60c9885d12
+id: 04975455-99e4-447b-8629-0a6088174e69
 docNo: A.6.1.1.2.2.6.1.3.1.6.1.2.4.1
-name: Deposit Rate Limits
+name: Inflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.6.1.2.4.1 - Deposit Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.1.6.1.2.4.1 - Inflow Rate Limits [Core]
 
-The deposit rate limits are:
+The inflow rate limits are:
 
-- `maxAmount`: N/A - swap only
-- `slope`: N/A - swap only
+- `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
+- `slope`: This parameter will be specified in a future iteration of the Spark Artifact.

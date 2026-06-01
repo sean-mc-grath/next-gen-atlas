@@ -1,5 +1,5 @@
 ---
-id: b971db81-6c85-4e95-9fb1-4556cd05e988
+id: 804821a4-0344-4642-9575-8bde38f8edef
 docNo: A.6.1.1.6.2.6.3.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.3.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Pattern's usage of the Asset Liability Management Rental Primitive.
+The documents herein organize all base information relevant to Obex's usage of the Asset Liability Management Rental Primitive.

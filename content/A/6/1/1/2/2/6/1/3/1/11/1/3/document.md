@@ -1,5 +1,5 @@
 ---
-id: 3b346059-5587-43d2-addd-92e12f26f83a
+id: c8bfb680-b56f-4cd2-835c-4fdec23be484
 docNo: A.6.1.1.2.2.6.1.3.1.11.1.3
 name: Instance-specific Operational Processes
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.11.1.3 - Instance-specific Operational Processes [Core]
 
-The documents herein contain operational procedures or monitoring requirements unique to this Instance that deviate from or otherwise supplement the general Grove Liquidity Layer processes.
+The documents herein contain operational procedures or monitoring requirements unique to this Instance that deviate from or otherwise supplement the general Spark Liquidity Layer processes.

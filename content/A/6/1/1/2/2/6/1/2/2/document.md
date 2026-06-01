@@ -1,12 +1,12 @@
 ---
-id: e5d30bed-ae48-459e-92f1-2a97f21855b7
+id: f6c90935-4266-4987-9060-d1f1675ff24b
 docNo: A.6.1.1.2.2.6.1.2.2
-name: Grove Liquidity Layer Operational Processes
+name: Spark Liquidity Layer Operational Processes
 type: Core
 depth: 10
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.2 - Grove Liquidity Layer Operational Processes [Core]
+###### A.6.1.1.2.2.6.1.2.2 - Spark Liquidity Layer Operational Processes [Core]
 
-The documents herein describe common operational procedures for the Grove Liquidity Layer applicable across multiple Instances.
+The documents herein describe common operational procedures for the Spark Liquidity Layer applicable across multiple Instances.

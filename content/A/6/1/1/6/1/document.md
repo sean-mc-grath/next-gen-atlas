@@ -1,5 +1,5 @@
 ---
-id: b137d591-a3a2-482a-a18e-d4ff447964cf
+id: e395a323-3c53-4154-a7e6-d54c363f56f2
 docNo: A.6.1.1.6.1
 name: Introduction
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.1 - Introduction [Core]
 
-Pattern is an Agent providing on-chain liquidity to on-chain and off-chain credit opportunities. Pattern will support new Halo projects focused on both traditional credit and decentralized lending.
+Obex is an 'incubator' Agent operationalizing a turnkey solution for the Sky Ecosystem's development and deployment of Prime and Halo Agents. This will give Agent founders a streamlined pathway to establish, build, operationalize, fundraise, and launch new Agents. The overall goal of the Obex Agent is to produce Agents for the Sky Ecosystem at scale, supporting cohorts of new Agent founders through leveraging rich content, workstreams and turnkey services for legal, risk, tech, and operational requirements.

@@ -1,5 +1,5 @@
 ---
-id: b198cdd7-92c2-4ff5-9f10-b0d315ed5f00
+id: 343708ad-a3ea-4044-b56a-055d3ffc388e
 docNo: A.6.1.1.4.2.5.1.2.2.3
 name: Data Repository
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.1.2.2.3 - Data Repository [Core]
 
-The documents herein contain data relevant to the Sky.money Open Source Widgets Instance of the Distribution Reward Primitive.
+The documents herein contain data relevant to the 1inch Instance of the Distribution Reward Primitive.

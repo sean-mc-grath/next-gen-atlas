@@ -1,5 +1,5 @@
 ---
-id: fcfbc136-69fe-48aa-986e-b0cc5eea9590
+id: d4a7f9b4-7ee0-4f99-a9b9-eebe0219fa8c
 docNo: A.6.1.1.4.2.6.1.2
 name: Multi-Instance Coordinator Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.6.1.2 - Multi-Instance Coordinator Document [Core]
 
-The documents herein specify the logic for coordinating multiple Instances of the Allocation System Primitive. In the future, additional logic will be added herein regarding how capital is allocated between different Instances of the Allocation System Primitive.
+The documents herein provide general specifications of the Keel Liquidity Layer and define Keel’s overarching strategy and operational framework for managing across all Instances.

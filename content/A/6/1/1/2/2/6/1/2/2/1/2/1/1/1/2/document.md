@@ -1,5 +1,5 @@
 ---
-id: c639083a-417f-45c8-ba94-c0713d1539ac
+id: 0d7bbcaf-477f-4b07-bb8b-fca7cf316f57
 docNo: A.6.1.1.2.2.6.1.2.2.1.2.1.1.1.2
 name: Associate Mint Recipient With Domain
 type: Core

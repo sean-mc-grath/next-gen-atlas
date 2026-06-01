@@ -1,5 +1,5 @@
 ---
-id: 0d3a94a6-7e10-426a-8542-585120e4a77d
+id: 319b996c-7563-4d56-a7b2-4302cebc91f5
 docNo: A.6.1.1.6.2.6.1.2.1.1.2.1.1
 name: Minimum Operation Size Ethereum Mainnet
 type: Core
@@ -11,4 +11,4 @@ childType: sections_and_primary_docs
 
 The minimum transaction size for operations on Ethereum Mainnet is (`MAINNET_MIN_OPERATION_SIZE`):
 
-- This parameter will be specified in a future iteration of the Pattern Artifact.
+- This parameter will be specified in a future iteration of the Obex Artifact.

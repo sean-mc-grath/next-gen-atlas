@@ -1,5 +1,5 @@
 ---
-id: dfc76ebc-2a7e-453f-8d9f-e2c380af3083
+id: 4d4dd524-bad6-424b-9d39-0e35f8f889b4
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.2
 name: ERC-20 Functions
 type: Core

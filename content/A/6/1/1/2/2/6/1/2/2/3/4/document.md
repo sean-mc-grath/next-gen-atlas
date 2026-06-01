@@ -1,16 +1,12 @@
 ---
-id: c0bc880f-818c-44cc-a02a-d66c01443a39
+id: 77067d73-922a-45e1-9f74-2b6947108d3b
 docNo: A.6.1.1.2.2.6.1.2.2.3.4
-name: USDS Burn Action
+name: Redeem All Mainnet Positions
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.2.3.4 - USDS Burn Action [Core]
+###### A.6.1.1.2.2.6.1.2.2.3.4 - Redeem All Mainnet Positions [Core]
 
-This document defines the action that should be performed if there is a need to repay and then burn Grove’s USDS debt.
-
-`mainnetController.burnUSDS(usds.balanceOf(address(proxy))
-`
-More detailed instructions on the code to execute this, see [A.6.1.1.2.2.6.1.2.2.1.2.1.2.1.2 - Burn USDS](25706c25-2b74-486e-8234-c45f6630f379).
+The documents herein define the actions that should be performed by an operator if there is a need to recover the liquidity from Mainnet Protocols and centralize it in the Mainnet Spark ALM Proxy.

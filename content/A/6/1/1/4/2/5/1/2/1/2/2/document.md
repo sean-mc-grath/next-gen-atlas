@@ -1,5 +1,5 @@
 ---
-id: eff49ccd-5874-41d9-aff0-3e3e2a348336
+id: ece7350a-4588-4c4e-8bdc-d21f539582f5
 docNo: A.6.1.1.4.2.5.1.2.1.2.2
 name: Non-Routine Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.1.2.1.2.2 - Non-Routine Protocol [Core]
 
-The documents herein define the protocol for non-routine ongoing management of the Sky.money App Instance of this Distribution Reward Primitive.
+The documents herein define the protocol for non-routine ongoing management of the Solana Bridge Instance of this Distribution Reward Primitive.

@@ -1,5 +1,5 @@
 ---
-id: 25fe7f58-6025-4498-8847-5ac6330e8b2c
+id: cce62366-93d3-4856-9dcb-d700695a8a96
 docNo: A.6.1.1.2.2.6.1.3.1
 name: Ethereum Mainnet Instances
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1 - Ethereum Mainnet Instances [Core]
 
-The Ethereum Mainnet Instances of the Grove Liquidity Layer with `Active` Status are stored herein and are organized by target protocol.
+The Ethereum Mainnet Instances of the Spark Liquidity Layer with `Active` Status are stored herein and are organized by target protocol.

@@ -1,5 +1,5 @@
 ---
-id: c3a2a1c7-7e09-49f6-9789-8fb62412b9ad
+id: 1e92dae7-7e0a-4392-bcbe-3458082eb2ca
 docNo: A.6.1.1.3.2.1.4.2.1.1.4
 name: Token Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.1.4.2.1.1.4 - Token Address [Core]
 
-The address of KEEL will be specified in a future iteration of the Keel Artifact.
+The address of GROVE on the Ethereum Mainnet is `0xB30FE1Cf884B48a22a50D22a9282004F2c5E9406`.

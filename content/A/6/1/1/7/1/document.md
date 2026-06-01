@@ -1,5 +1,5 @@
 ---
-id: 963a72da-503f-4150-922e-94155924be8d
+id: b137d591-a3a2-482a-a18e-d4ff447964cf
 docNo: A.6.1.1.7.1
 name: Introduction
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.1 - Introduction [Core]
 
-Osero is an Agent focused on building credit infrastructure for onchain and traditional finance, with a focus on USD₮ liquidity. In addition to allocating capital to scale Sky's collateral portfolio, Osero serves as a platform enabling stablecoin distribution hubs—including exchanges, wallets, and neobanks—to access institutional grade lending infrastructure underpinning USDS through a suite of products.
+Pattern is an Agent providing on-chain liquidity to on-chain and off-chain credit opportunities. Pattern will support new Halo projects focused on both traditional credit and decentralized lending.

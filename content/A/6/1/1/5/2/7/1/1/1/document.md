@@ -1,5 +1,5 @@
 ---
-id: a5f4abc0-9d2f-4356-9977-919fcf8ca427
+id: 3c76baaa-df7f-464e-80ed-6b48eefbea7f
 docNo: A.6.1.1.5.2.7.1.1.1
 name: Global Activation Status
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.7.1.1.1 - Global Activation Status [Core]
 
-`Inactive`
+`Active`

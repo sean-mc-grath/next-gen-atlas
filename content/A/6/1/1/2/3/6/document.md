@@ -1,12 +1,12 @@
 ---
-id: c9c04069-134f-4ab3-b99c-e922edb1cde8
+id: a05cc5db-64e5-4279-84ed-e93d4aa67c38
 docNo: A.6.1.1.2.3.6
-name: DAO Resolutions
+name: Strategic Investments
 type: Core
 depth: 7
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.6 - DAO Resolutions [Core]
+###### A.6.1.1.2.3.6 - Strategic Investments [Core]
 
-Grove has formally agreed to the DAO Resolutions recorded herein.
+The documents herein specify Spark's operational processes for undertaking and managing strategic investments, alongside details of existing strategic investments.

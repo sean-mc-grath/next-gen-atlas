@@ -1,5 +1,5 @@
 ---
-id: 41c58fff-ec4b-4bd1-bcb7-7bec6c9141b5
+id: c4aa4ea7-8dfe-411e-9ab8-2c6ace976a78
 docNo: A.6.1.1.3.2.1.4.2.1.1.2
 name: Token Symbol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.1.4.2.1.1.2 - Token Symbol [Core]
 
-The symbol of Keel’s token is KEEL.
+The symbol of Grove’s token is GROVE.

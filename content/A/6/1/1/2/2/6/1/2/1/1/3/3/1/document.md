@@ -1,15 +1,15 @@
 ---
-id: dba2c846-ecbe-4227-abfc-63dbd654af48
+id: ffbc3f81-fd95-4a38-9f95-6c834d01212a
 docNo: A.6.1.1.2.2.6.1.2.1.1.3.3.1
-name: USDC Base ALM Proxy Maximum
+name: Arbitrum USDC Deposit Maximum
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.3.3.1 - USDC Base ALM Proxy Maximum [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.3.3.1 - Arbitrum USDC Deposit Maximum [Core]
 
-The maximum amount of USDC that can be sent to the Base ALM Proxy (`LIMIT_USDC_TO_DOMAIN`, hashed with Base domain) is specified in the document herein.
+The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
 
-- `maxAmount`: This parameter will be specified in a future iteration of the Grove Artifact.
-- `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
+- `maxAmount` (USDC): This parameter will be specified in a future iteration of the Spark Artifact.
+- `slope` (USDC/ day): This parameter will be specified in a future iteration of the Spark Artifact.

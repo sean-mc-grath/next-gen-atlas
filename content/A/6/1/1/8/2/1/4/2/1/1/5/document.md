@@ -1,5 +1,5 @@
 ---
-id: 76bec570-320e-4590-91ba-0ebd7307742f
+id: 1863bfd0-8b9f-4c76-8748-c9262f6245a9
 docNo: A.6.1.1.8.2.1.4.2.1.1.5
 name: Token Admin
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.4.2.1.1.5 - Token Admin [Core]
 
-The token Admin will be specified in a future iteration of the Launch Agent 7 Artifact.
+The token Admin will be specified in a future iteration of the Osero Artifact.

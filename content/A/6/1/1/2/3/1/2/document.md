@@ -1,12 +1,12 @@
 ---
-id: 33bf516a-c9e1-4ee0-8a09-69b1f2bb5604
+id: e7118615-bbaa-4a3d-b395-407244cc0969
 docNo: A.6.1.1.2.3.1.2
-name: Sky Ecosystem Emergency Response
+name: Discord
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.1.2 - Sky Ecosystem Emergency Response [Core]
+###### A.6.1.1.2.3.1.2 - Discord [Core]
 
-The documents herein specify Grove’s emergency response protocol in situations that impact the entire Sky Ecosystem. This protocol will be specified in a future iteration of the Grove Artifact.
+Spark also uses Discord for more immediate communication. The Spark Discord is located at [https://t.co/v6zG0MZtak](https://t.co/v6zG0MZtak).

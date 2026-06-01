@@ -1,5 +1,5 @@
 ---
-id: 48ae657d-86c0-4254-8202-da1564cb347a
+id: ce435a87-211f-45df-ac38-66c816796fe9
 docNo: A.6.1.1.4.2.5.2.2.2.1.1
 name: Integration Partner Name
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.2.2.2.1.1 - Integration Partner Name [Core]
 
-The partner for the Curve Integration Boost is Curve.
+The partner for the Drift Integration Boost is Drift.

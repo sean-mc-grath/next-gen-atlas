@@ -1,12 +1,12 @@
 ---
-id: 228514c4-9a74-4324-b93a-4c10025d4bc7
+id: 5147079e-3ff5-44c5-8039-5b1d3895ceec
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.2.2.3
-name: ALM Freezer Multisig (Avalanche) Address
+name: ALM Freezer Multisig (Base) Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.2.2.3 - ALM Freezer Multisig (Avalanche) Address [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.2.2.3 - ALM Freezer Multisig (Base) Address [Core]
 
-The address of the Multisig that has the Freezer Role is: `0xB0113804960345fd0a245788b3423319c86940e5`.
+The address of the Multisig that has the Freezer Role is specified in [A.6.1.1.2.2.6.1.2.1.2.2.3.1 - Address](51777bdd-df5f-4a6e-93f5-8163d981f595).

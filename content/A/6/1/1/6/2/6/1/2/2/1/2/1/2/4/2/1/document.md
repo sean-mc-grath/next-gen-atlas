@@ -1,5 +1,5 @@
 ---
-id: e637cc53-2243-483f-afa2-d3e92a3365fd
+id: bd723808-6f03-41ed-9b19-72672d38dc36
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.4.2.1
 name: Call requestRedeemERC7540 Function
 type: Core
@@ -17,4 +17,4 @@ Only an operator with the relayer role can request the redemption of shares from
 
 The function call is as follows:
 
-`function requestRedeemERC7540(address token, uint256 shares) external`
+`function requestRedeemERC7540(address token, uint256 amount) external`

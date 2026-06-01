@@ -1,5 +1,5 @@
 ---
-id: b6b85415-c331-41b9-847e-4c5173528ca8
+id: 21b5e889-c9f9-45e7-becb-fde3e070e063
 docNo: A.6.1.1.3.2.5.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.5.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Keel’s usage of the Distribution Reward Primitive.
+The documents herein organize all base information relevant to Groves usage of the Distribution Reward Primitive.

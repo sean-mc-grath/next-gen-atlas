@@ -1,5 +1,5 @@
 ---
-id: e5261fd0-16b6-4c94-a101-e311e858ba92
+id: b5b1f4eb-10a3-472b-b675-008ef0cee259
 docNo: A.6.1.1.3.2.5.1.2.1.1.1
 name: Reward Code
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.5.1.2.1.1.1 - Reward Code [Core]
 
-`4001`.
+`2002`.

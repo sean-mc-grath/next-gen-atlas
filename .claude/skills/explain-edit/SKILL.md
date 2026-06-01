@@ -102,7 +102,7 @@ End with a brief summary:
 
 ## Guidelines
 
-- **Plain language over precision.** "This changes who can approve SparkLend parameter updates" is better than "This modifies the Active Data Controller governing the approval workflow specified in A.6.1.1.1.3.2.1.2.1."
+- **Plain language over precision.** "This changes who can approve SparkLend parameter updates" is better than "This modifies the Active Data Controller governing the approval workflow specified in A.6.1.1.2.3.2.1.2.1."
 - **Highlight what matters.** Not all changes are equal. A new enforcement mechanism matters more than a renumbered cross-reference. Lead with impact.
 - **Be honest about uncertainty.** If you're not sure why a change was made, say so. Don't invent justifications.
 - **Don't editorialize.** Explain what the proposal does, not whether it's good or bad. The community makes that judgment.

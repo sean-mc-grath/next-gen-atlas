@@ -1,5 +1,5 @@
 ---
-id: 18b6c02a-45bc-419d-bcb6-acbbd44f75c0
+id: 4413579c-6ca5-4ff5-9dd5-ff669606eeb7
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.3.2
 name: Set A Delegated Signer In The EthenaMinter Contract
 type: Core

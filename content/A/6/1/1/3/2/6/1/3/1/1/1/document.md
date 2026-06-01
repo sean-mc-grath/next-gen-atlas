@@ -1,12 +1,12 @@
 ---
-id: fa6f6aa7-410e-4515-8458-9f3efb30c942
+id: 292d1098-9fe4-481f-a3e7-72e345bdca81
 docNo: A.6.1.1.3.2.6.1.3.1.1.1
-name: Solana - Kamino USDS Instance Configuration Document
+name: Ethereum Mainnet - Centrifuge JTRSY Instance Configuration Document
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.1.1 - Solana - Kamino USDS Instance Configuration Document [Core]
+###### A.6.1.1.3.2.6.1.3.1.1.1 - Ethereum Mainnet - Centrifuge JTRSY Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Kamino USDS Instance.
+The documents herein contain the Instance Configuration Document for the Centrifuge JTRSY Instance.

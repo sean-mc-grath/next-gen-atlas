@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.2.2.3.2 - Core GovOps Outputs [Core]
 
-After the prospective Agent founder deploys the required startup capital and pays the Agent creation fee, Core GovOps creates a Proto-Agent and sets up a Scaffold Agent Artifact.
+After the prospective Agent founder deploys the required startup capital and pays the Agent creation fee, Core GovOps creates a [A.0.1.1.48 - Proto-Agent](10362c8d-5789-4018-baf6-dc1834e1297d) and sets up a Scaffold Agent Artifact.

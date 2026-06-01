@@ -1,12 +1,12 @@
 ---
-id: 812bd84c-3826-4cda-9897-a6a50050494f
+id: 0704f4b5-ee5c-455c-932f-94591b8a6594
 docNo: A.6.1.1.3.2.6.1.2.1.1.1.2.2.5
-name: Solana ALM Controller’s USDC TokenAccount Address
+name: ALM Proxy (Avalanche) Contract
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.1.2.2.5 - Solana ALM Controller’s USDC TokenAccount Address [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.1.2.2.5 - ALM Proxy (Avalanche) Contract [Core]
 
-The Instance’s USDC TokenAccount Address is `4UA2CC9fQDTbX1SnJcanYn2QU5PtyB1MGfezDvGFPVwd`.
+The address of the ALM_PROXY contract is: `0x7107DD8F56642327945294a18A4280C78e153644`

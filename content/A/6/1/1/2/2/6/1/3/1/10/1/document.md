@@ -1,12 +1,12 @@
 ---
-id: 2e28c162-c608-452c-b796-4654ac1139d8
+id: 4bb58af1-fc25-442f-83a9-dd40989a7d37
 docNo: A.6.1.1.2.2.6.1.3.1.10.1
-name: Ethereum Mainnet - Ripple RLUSD Instance Configuration Document
+name: Ethereum Mainnet - Arkis Instance Configuration Document
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.10.1 - Ethereum Mainnet - Ripple RLUSD Instance Configuration Document [Core]
+###### A.6.1.1.2.2.6.1.3.1.10.1 - Ethereum Mainnet - Arkis Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Ripple RLUSD Instance.
+The documents herein contain the Instance Configuration Document for the Arkis Instance.

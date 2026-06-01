@@ -1,5 +1,5 @@
 ---
-id: a5890268-5a4c-4b8c-890a-6db09c71aced
+id: 9502a517-1323-4f1a-9038-8314b4704ff1
 docNo: A.6.1.1.4.2.5.3.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.3.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Skybase's usage of the Pioneer Chain Primitive.
+The documents herein organize all base information relevant to Keel’s usage of the Pioneer Chain Primitive.

@@ -1,5 +1,5 @@
 ---
-id: a3d5bf7f-19fd-47d8-8815-6eb03b9bee1d
+id: ae98d071-3e9e-4f8c-9573-f5d113596d15
 docNo: A.6.1.1.3.2.7.1
 name: Core Governance Reward Primitive
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.7.1 - Core Governance Reward Primitive [Core]
 
-The documents herein contain all data and specifications for Keel’s Instances of the Core Governance Reward Primitive. See [A.2.2.10.1 - Core Governance Reward Primitive](b22d1c08-042a-4466-94fe-9d28951e4d4a).
+The documents herein contain all data and specifications for Grove’s Instances of the Core Governance Reward Primitive. See [A.2.2.10.1 - Core Governance Reward Primitive](b22d1c08-042a-4466-94fe-9d28951e4d4a).

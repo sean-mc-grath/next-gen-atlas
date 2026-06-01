@@ -1,5 +1,5 @@
 ---
-id: 5660ebf4-dc55-4f91-b5f7-d735195c62a3
+id: b14ad946-9e1c-494a-8849-45c30d625e3d
 docNo: A.6.1.1.6.2.6.1.2.1.2.2.1.3
 name: Signers
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.2.2.1.3 - Signers [Core]
 
-The signers of the Relayer Multisig are three (3) addresses controlled by Operational GovOps Soter Labs.
+The signers of the Prime Relayer Multisig are seven (7) addresses controlled by Obex.

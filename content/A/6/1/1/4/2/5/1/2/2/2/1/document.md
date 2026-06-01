@@ -1,5 +1,5 @@
 ---
-id: 461e8506-cc90-4c8d-9927-153ee996c432
+id: 147799a6-7bc3-45c1-8e15-f9d6377d3b52
 docNo: A.6.1.1.4.2.5.1.2.2.2.1
 name: Routine Protocol
 type: Core
@@ -9,6 +9,6 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.1.2.2.2.1 - Routine Protocol [Core]
 
-This document defines the protocol for routine ongoing management of the Sky.money Frontend Open Source Widgets Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.1.2.4.1 - Routine Protocol](c2abdd22-fe0f-489e-b281-450e066db701), subject to the qualifications specified in [A.2.2.8.1.2.1.5.3.1 - Near-Term Process](05fb732b-de55-4886-81a7-7c5d4c13d2d2).
+This document defines the protocol for routine ongoing management of the 1inch Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.1.2.4.1 - Routine Protocol](c2abdd22-fe0f-489e-b281-450e066db701), subject to the qualifications specified in [A.2.2.8.1.2.1.5.3.1 - Near-Term Process](05fb732b-de55-4886-81a7-7c5d4c13d2d2).
 
-Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Skybase Artifact, a version of the full process definition customized to Skybase will be included herein.
+Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Keel Artifact, a version of the full process definition customized to Keel will be included herein.

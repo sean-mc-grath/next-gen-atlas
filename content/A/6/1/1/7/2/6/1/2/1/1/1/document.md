@@ -1,12 +1,12 @@
 ---
-id: 4148f5dc-ec79-4e4e-96ea-debf17e8bc28
+id: 440cb15b-0421-444a-aa3b-fc14a3f11026
 docNo: A.6.1.1.7.2.6.1.2.1.1.1
-name: Osero Liquidity Layer Addresses
+name: Pattern Liquidity Layer Addresses
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.7.2.6.1.2.1.1.1 - Osero Liquidity Layer Addresses [Core]
+###### A.6.1.1.7.2.6.1.2.1.1.1 - Pattern Liquidity Layer Addresses [Core]
 
-The subdocuments herein provide the addresses of the Osero Liquidity Layer's constituent contracts.
+The subdocuments herein provide the addresses of the Pattern Liquidity Layer’s constituent contracts.

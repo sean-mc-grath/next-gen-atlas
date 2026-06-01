@@ -1,5 +1,5 @@
 ---
-id: 39071e33-187b-46e3-b1dc-54c70e98e742
+id: e7fd4b6e-94a8-4078-ab32-4a4c719d033c
 docNo: A.6.1.1.2.2.6.1.3.1.9.2.2.1.2
 name: Target Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.9.2.2.1.2 - Target Protocol [Core]
 
-Galaxy
+Spark Savings Protocol

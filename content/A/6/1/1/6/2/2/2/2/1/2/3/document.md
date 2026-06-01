@@ -1,5 +1,5 @@
 ---
-id: fbd6606d-dfe5-4816-bb90-f555c13323b1
+id: d12b8cf2-2668-4466-ac2e-7404fce6c718
 docNo: A.6.1.1.6.2.2.2.2.1.2.3
 name: Emergency Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.2.2.2.1.2.3 - Emergency Protocol [Core]
 
-The documents herein define the process for using the Root Edit Primitive to update the Pattern Agent Artifact in emergency situations.
+The documents herein define the process for using the Root Edit Primitive to update the Obex Agent Artifact in emergency situations.

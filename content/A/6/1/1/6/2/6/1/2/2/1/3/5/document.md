@@ -1,5 +1,5 @@
 ---
-id: 9f76a9bc-5451-4ff7-8dcd-153e4c47fe72
+id: 2fc640dc-1f48-4167-a700-cb54f2cb1097
 docNo: A.6.1.1.6.2.6.1.2.2.1.3.5
 name: Trigger Rate Limit Decrease
 type: Core

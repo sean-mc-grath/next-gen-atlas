@@ -1,12 +1,12 @@
 ---
-id: 2d984fe4-c1d7-4ac3-835b-19f19a3a5505
+id: 2a440474-20d1-4703-a57b-35e0cebb881c
 docNo: A.0.1.1.50
-name: Operational Executor Facilitator
+name: Core Council Executor Agent
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.50 - Operational Executor Facilitator [Core]
+###### A.0.1.1.50 - Core Council Executor Agent [Core]
 
-Operational Executor Facilitators are Facilitators that interpret Artifacts and the Atlas on behalf of Operational Executor Agents.
+Core Council Executor Agents ("Core Executor Agents") are Executor Agents who serve on the Core Council and act as checks on Operational Executor Agents.

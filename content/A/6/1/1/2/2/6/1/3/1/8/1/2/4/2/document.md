@@ -1,14 +1,15 @@
 ---
-id: 3cafebb2-cf4d-4830-9787-1c2d7d7da030
+id: 5cbdb15a-3a5b-4ea3-9fc2-4098f512712c
 docNo: A.6.1.1.2.2.6.1.3.1.8.1.2.4.2
-name: Withdrawal Rate Limits
+name: Outflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.8.1.2.4.2 - Withdrawal Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.1.8.1.2.4.2 - Outflow Rate Limits [Core]
 
-The withdrawal rate limits are:
+The outflow rate limits are:
 
-- `maxAmount`: Unlimited
+- `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
+- `slope`: This parameter will be specified in a future iteration of the Spark Artifact.

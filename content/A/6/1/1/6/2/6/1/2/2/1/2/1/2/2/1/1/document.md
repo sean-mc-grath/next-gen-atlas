@@ -1,5 +1,5 @@
 ---
-id: 530a40e2-8322-44ff-b2ce-4ea0821a8b80
+id: 77447d4a-137b-4b1c-b266-02ca8c678f61
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.2.1.1
 name: Call transferAsset Function
 type: Core

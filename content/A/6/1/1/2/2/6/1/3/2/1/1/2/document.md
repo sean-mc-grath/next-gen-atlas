@@ -1,5 +1,5 @@
 ---
-id: 5bc93313-446b-4dc2-a964-c565ee7718cf
+id: c0b80ed0-dda1-4efd-9899-d35ecf5b2ab4
 docNo: A.6.1.1.2.2.6.1.3.2.1.1.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.2.1.1.2 - Parameters [Core]
 
-The documents herein define the parameters of the Centrifuge JTRSY Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Morpho Blue USDC ERC4626 Vault Instance of the Allocation System Primitive.

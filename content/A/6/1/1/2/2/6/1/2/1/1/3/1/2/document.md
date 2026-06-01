@@ -1,5 +1,5 @@
 ---
-id: cf829503-02cf-4b84-8c04-7d05de1d82dd
+id: 85d01cb5-2bbf-4df9-998c-63131d83d9db
 docNo: A.6.1.1.2.2.6.1.2.1.1.3.1.2
 name: USDS Burn Maximum
 type: Core
@@ -9,7 +9,7 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3.1.2 - USDS Burn Maximum [Core]
 
-The maximum amount of USDS that can be burned within the Grove Liquidity Layer (`LIMIT_USDS_BURN`) is specified in the document herein.
+The maximum amount of USDS that can be burned within the Spark Liquidity Layer (`LIMIT_USDS_BURN`) is specified in the document herein.
 
-- `maxAmount` (USDS): This parameter will be specified in a future iteration of the Grove Artifact.
-- `slope` (USDS/ day): This parameter will be specified in a future iteration of the Grove Artifact.
+- `maxAmount` (USDS): 0
+- `slope` (USDS/ day): 0

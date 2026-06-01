@@ -1,14 +1,15 @@
 ---
-id: 09c83fd0-73ec-482b-8c87-bee7c0e5e57b
+id: 0b80d875-47a9-4863-8cf9-7a564e49d7ff
 docNo: A.6.1.1.3.2.6.1.3.1.2.1.2.4.2
-name: Withdrawal Rate Limits
+name: Outflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.2.1.2.4.2 - Withdrawal Rate Limits [Core]
+###### A.6.1.1.3.2.6.1.3.1.2.1.2.4.2 - Outflow Rate Limits [Core]
 
-The withdrawal rate limits are:
+The outflow rate limits are:
 
 - `maxAmount`: Unlimited
+- `slope`: This parameter will be specified in a future iteration of the Grove Artifact.

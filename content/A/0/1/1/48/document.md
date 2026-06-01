@@ -1,12 +1,12 @@
 ---
-id: 80c7e2e1-a2af-47dd-80c7-aee6823cca91
+id: 10362c8d-5789-4018-baf6-dc1834e1297d
 docNo: A.0.1.1.48
-name: Operational Executor GovOps
+name: Proto-Agent
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.48 - Operational Executor GovOps [Core]
+###### A.0.1.1.48 - Proto-Agent [Core]
 
-Operational Executor GovOps ("Operational GovOps") actors are GovOps actors that operate within Operational Executor Agents. Operational GovOps play a crucial role in implementing Prime Agent strategies, doing so by executing the technical specifications outlined in Primitive Configuration Documents of Agent Artifacts.
+The formal definition of Proto-Agent will be specified in a future iteration of the Atlas.

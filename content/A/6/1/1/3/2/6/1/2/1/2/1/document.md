@@ -1,5 +1,5 @@
 ---
-id: ca0026a1-a4d2-4ebd-a99a-0a089dea8c82
+id: edf44383-44e6-4aaa-972a-7dfdaee0998d
 docNo: A.6.1.1.3.2.6.1.2.1.2.1
 name: Invoking New Instances
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.2.1.2.1 - Invoking New Instances [Core]
 
-The governance process to invoke a new Instance of the Allocation System Primitive follows the Root Edit process see [A.6.1.1.3.2.2.2.2.1.2 - Operational Process Definition](53987e91-b86c-42be-bb4b-20af084d622d).
+The governance process to invoke a new Instance of the Allocation System Primitive follows the Root Edit process see [A.6.1.1.3.2.2.2.2.1.2 - Operational Process Definition](40826926-adb2-4de3-936d-702e2d8cb3b9).

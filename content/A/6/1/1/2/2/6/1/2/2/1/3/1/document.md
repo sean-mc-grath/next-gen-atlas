@@ -1,5 +1,5 @@
 ---
-id: 5aea6114-5e7e-4bb1-86fa-c54135015397
+id: 89577062-a38b-4cf7-a1ae-33c0bcff1cca
 docNo: A.6.1.1.2.2.6.1.2.2.1.3.1
 name: RateLimits Query
 type: Core

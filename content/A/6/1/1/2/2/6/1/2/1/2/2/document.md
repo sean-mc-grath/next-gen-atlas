@@ -1,5 +1,5 @@
 ---
-id: 355db9eb-fc32-4a27-819a-42e8c2f26b1b
+id: 631973de-6f13-440b-8f66-478dfdda4d60
 docNo: A.6.1.1.2.2.6.1.2.1.2.2
 name: Multisigs
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.2.1.2.2 - Multisigs [Core]
 
-The documents herein define multisigs that have privileged access to manage the Grove Liquidity Layer.
+The documents herein define multisigs that have privileged access to manage the Spark Liquidity Layer.

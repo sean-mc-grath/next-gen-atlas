@@ -1,5 +1,5 @@
 ---
-id: 008e670d-d877-475a-96f2-950aa0d6c072
+id: 17c29741-7ed5-4a6e-96ff-55514df2a8f5
 docNo: A.6.1.1.6.2.6.1.2.1.2.2.2.1
 name: Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.2.2.2.1 - Address [Core]
 
-The address of the Freezer Multisig on the Ethereum Mainnet is `0xe728D67bca6cb18dE249325792b6379Eef4618bB`.
+The address of the Core Operator Relayer Multisig on the Ethereum Mainnet is `0x2b1D60B11B7015fB83361a219BE01B7564436054`.

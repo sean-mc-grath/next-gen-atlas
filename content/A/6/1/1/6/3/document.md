@@ -1,5 +1,5 @@
 ---
-id: 42652f00-4299-41db-9124-10be8b030ee3
+id: 239c5dd4-46a1-4936-8e31-f37ea2aa802c
 docNo: A.6.1.1.6.3
 name: Omni Documents
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.3 - Omni Documents [Core]
 
-The documents herein define Pattern's strategic intent and operational processes relating to infrastructure inherited from Sky Core, activities unrelated to Sky Primitives, or activities spanning multiple Sky Primitives.
+The documents herein define Obex's strategic intent and operational processes relating to infrastructure inherited from Sky Core, activities unrelated to Sky Primitives, or activities spanning multiple Sky Primitives.

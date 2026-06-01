@@ -1,5 +1,5 @@
 ---
-id: 23517c75-2462-4def-bab9-3a33c3c03e71
+id: 318fa90a-2fd9-42cc-af6a-086063caebc6
 docNo: A.6.1.1.2.2.6.1.3.1.9.1.2.4
 name: Rate Limits
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.9.1.2.4 - Rate Limits [Core]
 
-The current `maxAmount` and `slope` for this conduit's inflow and outflow are defined in the subdocuments herein.
+The specific `maxAmount` and `slope` for this conduit's inflow/outflow are not defined for this Instance.

@@ -1,5 +1,5 @@
 ---
-id: 55f5e89c-6629-49c4-8ada-6ab8befc0467
+id: cca7ba1c-8ba0-42f6-8d32-0310e7dc4067
 docNo: A.6.1.1.3.2.3.2.1.2.1
 name: Single Instance Configuration Document Location
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.3.2.1.2.1 - Single Instance Configuration Document Location [Core]
 
-This Instance’s associated Instance Configuration Document is located at [A.6.1.1.3.2.3.2.2.1 - Single Instance Configuration Document](b55f18e1-1a73-455f-8990-640273d8faa4).
+This Instance’s associated Instance Configuration Document is located at [A.6.1.1.3.2.3.2.2.1 - Single Instance Configuration Document](e09238d0-83f5-4163-b3d3-613e218014fa).

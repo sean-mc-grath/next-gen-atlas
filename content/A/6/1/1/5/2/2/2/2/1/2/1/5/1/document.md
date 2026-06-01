@@ -1,5 +1,5 @@
 ---
-id: a418eef2-bbfc-43eb-8d79-62c7bb940c3d
+id: 1adf5e90-53a8-4036-9964-11430891137e
 docNo: A.6.1.1.5.2.2.2.2.1.2.1.5.1
 name: Short-Term Transitionary Measures
 type: Core

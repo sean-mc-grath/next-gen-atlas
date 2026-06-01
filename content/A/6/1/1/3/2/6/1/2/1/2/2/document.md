@@ -1,12 +1,12 @@
 ---
-id: fcdf3c3c-fc8e-4bcc-af84-4aae709d5411
+id: 355db9eb-fc32-4a27-819a-42e8c2f26b1b
 docNo: A.6.1.1.3.2.6.1.2.1.2.2
-name: Ethereum Multisigs
+name: Multisigs
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.2.2 - Ethereum Multisigs [Core]
+###### A.6.1.1.3.2.6.1.2.1.2.2 - Multisigs [Core]
 
-The documents herein define multisigs that have privileged access to manage the Keel Liquidity Layer on Ethereum.
+The documents herein define multisigs that have privileged access to manage the Grove Liquidity Layer.

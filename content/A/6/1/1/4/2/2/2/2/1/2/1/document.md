@@ -1,5 +1,5 @@
 ---
-id: 759db362-3e1b-4ee8-b07e-9c61f7818154
+id: eaba3101-2ef6-441d-853e-909a920140fa
 docNo: A.6.1.1.4.2.2.2.2.1.2.1
 name: Routine Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.2.2.2.1.2.1 - Routine Protocol [Core]
 
-The documents herein define the process for using the Root Edit Primitive to update the Skybase Agent Artifact in routine or normal conditions (i.e., non-emergency situations).
+The documents herein define the process for using the Root Edit Primitive to update the Keel Agent Artifact in routine or normal conditions (i.e., non-emergency situations).

@@ -1,12 +1,12 @@
 ---
-id: 42f3ceba-f9bc-48bb-aa89-dde3feb21479
+id: 3b53c3b4-1d13-4197-8078-54523949784f
 docNo: A.6.1.1.6.2.6.1.2.1.2.2.1
-name: Relayer Multisig
+name: Prime Relayer Multisig
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.6.2.6.1.2.1.2.2.1 - Relayer Multisig [Core]
+###### A.6.1.1.6.2.6.1.2.1.2.2.1 - Prime Relayer Multisig [Core]
 
-The Relayer Multisig has the `RELAYER_ROLE` as defined in [A.6.1.1.6.2.6.1.2.2.1.1.2 - Relayer Role](905e342b-8dca-4fbc-8673-f6fabb6b29fd) and is controlled by Operational GovOps Soter Labs.
+The Prime Relayer Multisig has the `RELAYER_ROLE` as defined in [A.6.1.1.6.2.6.1.2.2.1.1.2 - Relayer Role](0a8458ff-499e-4ac6-85a3-6ce200df18ae) and is controlled by Obex.

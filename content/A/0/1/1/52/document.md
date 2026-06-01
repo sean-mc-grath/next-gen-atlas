@@ -1,12 +1,12 @@
 ---
-id: ae14941a-635e-4022-af4d-2bec2827fbbf
+id: 1e73ee4b-823d-406a-af54-223b43bc8e42
 docNo: A.0.1.1.52
-name: Sky Primitives
+name: GovOps
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.52 - Sky Primitives [Core]
+###### A.0.1.1.52 - GovOps [Core]
 
-Sky Primitives are the core building blocks of the Sky ecosystem, serving as the primary interface between Agents and the Atlas. By providing a standardized set of tools and interfaces, Sky Primitives empower Prime Agents to create, innovate, and evolve the Sky Protocol in a decentralized manner. The Sky Primitives are also used by Executor Agents, which serve as the robust and standardized intermediary layer between Prime Agents and the Sky Protocol.
+Governance Operations ("GovOps") actors are specialized Ecosystem Actors operating within Executor Agent entities. They manage the technical implementation of Prime Agents’ Instances of Sky Primitives by carrying out on-chain/off-chain tasks necessary for Prime Agents’ operational and governance processes. They work in tandem with Executor Facilitators, who interpret the Atlas and the Agent Artifact.

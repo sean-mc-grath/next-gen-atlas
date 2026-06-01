@@ -1,5 +1,5 @@
 ---
-id: 159c7e99-c884-4496-aa9b-b7721be4849a
+id: 4fcd06bc-72fd-4cce-83fd-5b1a7dda3a4a
 docNo: A.6.1.1.4.2.5.1.2.2.1
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.1.2.2.1 - Parameters [Core]
 
-The documents herein define the parameters of the Sky.money Open Source Widgets Instance of the Distribution Reward Primitive.
+The documents herein define the parameters of the 1inch Instance of the Distribution Reward Primitive.

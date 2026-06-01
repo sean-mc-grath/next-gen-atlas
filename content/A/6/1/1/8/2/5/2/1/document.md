@@ -1,5 +1,5 @@
 ---
-id: 99823d99-ddcd-49bc-8a48-9f1843a962f5
+id: 60d8973d-b5e0-4dc3-ae21-edfda998bc42
 docNo: A.6.1.1.8.2.5.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.5.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Launch Agent 7's usage of the Integration Boost Primitive.
+The documents herein organize all base information relevant to Osero's usage of the Integration Boost Primitive.

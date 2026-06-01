@@ -1,5 +1,5 @@
 ---
-id: fb92df01-4e93-45ec-8e81-b59d5767ebb7
+id: 0d482d6a-f140-4798-bf9c-a0c6cb5a2aa5
 docNo: A.6.1.1.5.3.1.1
 name: Sky Forum
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.3.1.1 - Sky Forum [Core]
 
-Obex uses the Sky Forum for governance-related discussion. Posts should use the "Obex Prime" category.
+Skybase uses the Sky Forum for governance-related discussion. Posts should use the "Skybase Prime" category.

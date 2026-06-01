@@ -1,15 +1,19 @@
 ---
-id: 7d7658f6-31a9-4d73-8d3f-19b87d0e89ec
+id: 825f23f7-739b-4a76-8e23-540b11f1854c
 docNo: A.6.1.1.5.3.2.1
-name: Operating Model
+name: Distribution Reward Strategy
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.5.3.2.1 - Operating Model [Core]
+###### A.6.1.1.5.3.2.1 - Distribution Reward Strategy [Core]
 
-Obex follows a direct-execution model rather than a multi-layered governance system. Key processes include:
+Skybase's strategy with respect to the Distribution Reward Primitive is to encourage the broad adoption of USDS by bridging into new communities and DeFi platforms, thereby earning and distributing Distribution Rewards for USDS balances facilitated through its frontend. Prospective partners should demonstrate strong alignment with Skybase's mission, and offer clear pathways to engage new user bases and support the sustainable growth of USDS across diverse ecosystems.
 
-- **Incubation Selection:** Projects are sourced, evaluated, and onboarded based on strategic fit, feasibility, and alignment with Sky objectives.
-- **Capital Allocation:** All allocations occur through the Obex Incubator Prime, which deploys first-loss or operational capital under predefined parameters.
+The guiding criteria are as follows:
+
+- **Shared Mission Alignment:** Partners must demonstrate a commitment to promoting user-friendly stablecoin usage and responsible financial empowerment.
+- **Clear Synergy:** The collaboration should enhance USDS accessibility, by offering either a unique distribution channel or a robust incentive model.
+- **Community Benefit**: Proposed partnerships should deliver tangible rewards or advantages that resonate with Sky’s user base.
+- **Scalability & Compliance:** Potential integrations should have the capacity to handle increased demand and adhere to the risk management guidelines described in the Atlas.

@@ -1,5 +1,5 @@
 ---
-id: a0f8bc2e-4ac4-4335-8fd1-37132c875baf
+id: 0545c0f9-eab5-4b9e-93f9-cb59a8267312
 docNo: A.6.1.1.7.2.5
 name: Demand Side Stablecoin Primitives
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.5 - Demand Side Stablecoin Primitives [Core]
 
-The documents herein implement the Demand Side Stablecoin Primitives for Osero. See [A.2.2.8 - Demand Side Stablecoin Primitives](26415305-432d-423b-9553-3f325279712d).
+The documents herein implement the Demand Side Stablecoin Primitives for Pattern. See [A.2.2.8 - Demand Side Stablecoin Primitives](26415305-432d-423b-9553-3f325279712d).

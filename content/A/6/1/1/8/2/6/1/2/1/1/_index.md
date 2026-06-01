@@ -6,4 +6,4 @@ childCount: 1
 
 # Contents
 
-- [A.6.1.1.8.2.6.1.2.1.1.1 - Launch Agent 7 Liquidity Layer Addresses](1/document.md)
+- [A.6.1.1.8.2.6.1.2.1.1.1 - Osero Liquidity Layer Addresses](1/document.md)

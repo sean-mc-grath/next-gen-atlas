@@ -1,12 +1,12 @@
 ---
-id: 9ae04b66-c6b3-492d-a37f-ae60b583ea62
+id: 79ef290b-94c8-420b-9e05-dbfa4156c5b4
 docNo: A.6.1.1.4.2.1.1.3.1.1.3
-name: StarGuard Contract
+name: Genesis Account
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.4.2.1.1.3.1.1.3 - StarGuard Contract [Core]
+###### A.6.1.1.4.2.1.1.3.1.1.3 - Genesis Account [Core]
 
-The address of Skybase's StarGuard contract on the Ethereum Mainnet is `0xA170086AeF9b3b81dD73897A0dF56B55e4C2a1F7`.
+The address of Keel’s Genesis Account will be specified in a future iteration of the Keel Artifact.

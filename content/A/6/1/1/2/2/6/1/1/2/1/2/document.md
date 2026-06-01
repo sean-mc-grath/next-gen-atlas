@@ -1,12 +1,12 @@
 ---
-id: f1de44d8-9dc4-4513-ac06-295d5ccc427d
+id: b9745e5e-26bf-4abe-bff1-f3fdcfa93aca
 docNo: A.6.1.1.2.2.6.1.1.2.1.2
-name: Blackrock
+name: Aave
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.2 - Blackrock [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.2 - Aave [Core]
 
-The Ethereum Mainnet Instances Directory of the Blackrock Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances Directory of the Aave Protocol with `Active` Status are stored herein.

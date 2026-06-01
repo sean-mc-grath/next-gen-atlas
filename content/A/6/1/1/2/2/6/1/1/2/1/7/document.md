@@ -1,12 +1,12 @@
 ---
-id: c7201d8e-ea9a-4283-ad53-8f1851bde413
+id: d9cf6d6b-74a3-4bb6-b931-bfa3b5b8f70e
 docNo: A.6.1.1.2.2.6.1.1.2.1.7
-name: Morpho
+name: Curve
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.7 - Morpho [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.7 - Curve [Core]
 
-The Ethereum Mainnet Instances Directory of the Morpho Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances Directory of the Curve Protocol with `Active` Status are stored herein.

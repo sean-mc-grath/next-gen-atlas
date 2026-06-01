@@ -1,12 +1,14 @@
 ---
-id: 1e73ee4b-823d-406a-af54-223b43bc8e42
+id: e6261608-c225-452a-aca7-6eb7b5ed2d58
 docNo: A.0.1.1.47
-name: GovOps
+name: Halo Agent (HA)
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.47 - GovOps [Core]
+###### A.0.1.1.47 - Halo Agent (HA) [Core]
 
-Governance Operations ("GovOps") actors are specialized Ecosystem Actors operating within Executor Agent entities. They manage the technical implementation of Prime Agents’ Instances of Sky Primitives by carrying out on-chain/off-chain tasks necessary for Prime Agents’ operational and governance processes. They work in tandem with Executor Facilitators, who interpret the Atlas and the Agent Artifact.
+A Halo Agent is a Sky Agent whose Agent Artifacts are enveloped inside the Agent Artifacts of a [A.0.1.1.45 - Prime Agent](a8454271-c090-4084-b022-4430e3def93c). Halo Agents provide governed tokenization and product wrappers for external assets, business models, or other idiosyncratic value, so that these can be held, monitored, and allocated to through the Sky Ecosystem.
+
+Halo Agents operate within the standardized smart contract, risk, data, and legal infrastructure defined by the [A.0.1.1.63 - Laniakea](840ea6eb-2b68-4bec-86fc-9f9ca965421f) framework and are monitored through [A.0.1.1.62 - Sentinel](1b6393b1-7f7f-48ac-b7a0-13f148be290d), so that their activity can be evaluated on the same risk basis as other Sky capital products.

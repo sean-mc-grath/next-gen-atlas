@@ -1,5 +1,5 @@
 ---
-id: d143241d-5819-432d-a6ba-892961502838
+id: 378950e0-85c9-4f12-94cd-fb36cde59ba9
 docNo: A.6.1.1.2.2.1.1.3.1.1.2
 name: SubProxy Account
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.1.1.3.1.1.2 - SubProxy Account [Core]
 
-The address of Grove’s SubProxy Account on the Ethereum Mainnet is `0x1369f7b2b38c76B6478c0f0E66D94923421891Ba`.
+The address of Spark’s SubProxy Account on the Ethereum Mainnet is `0x3300f198988e4C9C63F75dF86De36421f06af8c4`.

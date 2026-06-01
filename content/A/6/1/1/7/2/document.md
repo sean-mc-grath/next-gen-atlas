@@ -1,5 +1,5 @@
 ---
-id: 0d6f6016-eaf1-47e2-b8e7-98bf5e4f1dc0
+id: 42740824-41c4-49f1-9b59-177aa36ecc9d
 docNo: A.6.1.1.7.2
 name: Sky Primitives
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2 - Sky Primitives [Core]
 
-The documents herein implement the Sky Primitives for Osero. See [A.2.2.1.5 - Primitives](947a5b27-d2dc-41e4-b6fd-696e35e2929d).
+The documents herein implement the Sky Primitives for Pattern. See [A.2.2 - Sky Primitives](cde2604-a138-4c1b-9d9a-14895835c907).

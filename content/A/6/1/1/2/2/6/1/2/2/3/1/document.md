@@ -1,5 +1,5 @@
 ---
-id: 53ff94d4-d7b5-4696-a66e-f6102deef3ac
+id: 7bd4a4cc-315b-4365-a793-923cd4aaacff
 docNo: A.6.1.1.2.2.6.1.2.2.3.1
 name: Remove Compromised Relayer As Freezer
 type: Core

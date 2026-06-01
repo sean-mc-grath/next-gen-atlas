@@ -1,5 +1,5 @@
 ---
-id: d3dc636f-e81d-4889-a84c-d7818ef48b6b
+id: 97d35c04-2b5b-430d-b297-b2b4703d71c0
 docNo: A.6.1.1.6.2.6.1.2.1.1.4
 name: On-chain Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.1.4 - On-chain Parameters [Core]
 
-The documents herein list general on-chain parameters for the Pattern Liquidity Layer.
+The documents herein list general on-chain parameters for the Obex Liquidity Layer

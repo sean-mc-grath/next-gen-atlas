@@ -1,14 +1,14 @@
 ---
-id: 7e38063c-c6a7-4d45-9344-bd3b22047019
+id: dfcceae6-65f0-44e2-9d47-9ad2324d983d
 docNo: A.6.1.1.2.2.6.1.3.1.7.3.2.4.2
-name: Withdrawal Rate Limits
+name: Outflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.7.3.2.4.2 - Withdrawal Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.1.7.3.2.4.2 - Outflow Rate Limits [Core]
 
-The withdrawal rate limits are:
+The outflow rate limits are:
 
-- `maxAmount`: Unlimited
+- `maxAmount`: 0

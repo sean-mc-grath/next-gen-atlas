@@ -1,5 +1,5 @@
 ---
-id: 9d5d586e-1840-49f3-9716-20d661f023ce
+id: 008ab1e2-e2e6-488e-a9e8-1a66b8d55f85
 docNo: A.6.1.1.4.2.2.2.2.1.1
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.2.2.2.1.1 - Parameters [Core]
 
-The parameters of the Root Edit Primitive are fully specified by the Operational Process Definition in [A.6.1.1.4.2.2.2.2.1.2 - Operational Process Definition](010ed495-c693-4d27-8c18-aa24b64e2715).
+The parameters of the Root Edit Primitive are fully specified by the Operational Process Definition in [A.6.1.1.4.2.2.2.2.1.2 - Operational Process Definition](53987e91-b86c-42be-bb4b-20af084d622d).

@@ -1,5 +1,5 @@
 ---
-id: c4c09a75-ef25-4aa7-825a-73d386cbc87f
+id: 6e08ac53-a63b-4c23-8a52-7644f25cb8cf
 docNo: A.6.1.1.2.2.6.1.2.2.1.2.1.1.1
 name: Set The Mint Recipient
 type: Core

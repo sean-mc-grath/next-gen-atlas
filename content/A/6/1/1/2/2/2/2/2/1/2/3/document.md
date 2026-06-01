@@ -1,5 +1,5 @@
 ---
-id: e41f9cb5-5f2c-4a90-bbf0-c221cb37cdcb
+id: 7e4dd939-49ec-4cbc-80f5-eb1c71a80a50
 docNo: A.6.1.1.2.2.2.2.2.1.2.3
 name: Emergency Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.2.2.2.1.2.3 - Emergency Protocol [Core]
 
-The documents herein define the process for using the Root Edit Primitive to update the Grove Agent Artifact in urgent or emergency situations.
+The documents herein define the process for using the Root Edit Primitive to update the Spark Agent Artifact in urgent or emergency situations.

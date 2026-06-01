@@ -1,5 +1,5 @@
 ---
-id: 5120e81d-c44f-47ec-a19a-dff5d4abf152
+id: 9ecf7a1f-9059-4d5b-a61e-8eb659064054
 docNo: A.6.1.1.4.2.2.1.2.1.3
 name: Data Repository
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.2.1.2.1.3 - Data Repository [Core]
 
-The documents herein contain data relevant to the Ozone Instance of the Executor Accord Primitive.
+The documents herein contain data relevant to the Amatsu Instance of the Executor Accord Primitive.

@@ -1,5 +1,5 @@
 ---
-id: 72e3fb43-419f-437a-b7f4-59ebe16ccd20
+id: 964ef35e-bde9-4fa3-b07b-f423f35d2f80
 docNo: A.6.1.1.2.2.6.1.3.1.9.1.2.1.4
 name: Token
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.9.1.2.1.4 - Token [Core]
 
-GACLO-1
+spETH

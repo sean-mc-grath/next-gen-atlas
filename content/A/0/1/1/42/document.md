@@ -1,16 +1,14 @@
 ---
-id: a8454271-c090-4084-b022-4430e3def93c
+id: 08a64545-48f6-4849-b876-bbdba1f74a64
 docNo: A.0.1.1.42
-name: Prime Agent
+name: Macroagent
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.42 - Prime Agent [Core]
+###### A.0.1.1.42 - Macroagent [Core]
 
-Prime Agents maintain and automate Sky features in new markets, and innovate custom products. Prime Agents are the only Agent type that can access all Sky Primitives; whereas Executor Agents are limited in the Primitives they can access.
+A Macroagent is a Sky Agent whose Agent Artifacts are located directly in the Agent Scope ([A.6 - The Agent Scope](4a08ca6c-e652-49e4-9b79-4831b20e600a)), rather than being nested inside the artifacts of another Agent. Macroagents act as higher-level governance layers that interface directly with Sky Core and hold their own Agent Artifacts in the Atlas.
 
-- Prime Agents cannot directly operationalize those elements of their strategies that directly interface with the Sky Protocol or shared ecosystem infrastructure. For such protocol-level and ecosystem-critical operations, Prime Agents must rely on Operational Executor Agents for implementation.
-- When a Prime Agent formulates a new initiative, it encodes the relevant instructions and parameters into its Agent Artifact. Insofar as the Prime Agent’s Artifact requires protocol-level interactions, the Operational Executors use the Artifact as a detailed operational blueprint for implementing the Prime Agent’s directives—ensuring consistency with the Atlas and minimizing risk.
-- This ensures a robust division between Prime Agents’ strategic, externally facing activities and the specialized operational activities that directly interface with Sky’s core systems.
+[A.0.1.1.44 - Generator Agents](7535ee4b-1220-4459-9bdd-2830a611553c), [A.0.1.1.45 - Prime Agents](a8454271-c090-4084-b022-4430e3def93c), and [A.0.1.1.46 - Executor Agents](ac514975-66ad-4b43-8f76-42cac5ca599d) are Macroagents.

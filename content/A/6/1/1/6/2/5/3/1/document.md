@@ -1,5 +1,5 @@
 ---
-id: d3d4d0b2-e491-4fd5-9c2f-8f2545f0130b
+id: 7e7dc6f6-bfe1-460e-9fb1-35a906f75259
 docNo: A.6.1.1.6.2.5.3.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.5.3.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Pattern's usage of the Pioneer Chain Primitive.
+The documents herein organize all base information relevant to Obex's usage of the Pioneer Chain Primitive.

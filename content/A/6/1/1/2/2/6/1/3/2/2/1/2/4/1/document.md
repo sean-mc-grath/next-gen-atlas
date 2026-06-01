@@ -1,15 +1,15 @@
 ---
-id: 3fc2060c-29d2-41fa-a9e6-1b47e4073cee
+id: 29114e51-9590-4585-b494-b78417f35910
 docNo: A.6.1.1.2.2.6.1.3.2.2.1.2.4.1
-name: Deposit Rate Limits
+name: Inflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.2.2.1.2.4.1 - Deposit Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.2.2.1.2.4.1 - Inflow Rate Limits [Core]
 
-The deposit rate limits are:
+The inflow rate limits are:
 
-- `maxAmount`: N/A - swaps only
-- `slope`: N/A - swaps only
+- `maxAmount`: 0
+- `slope`: 5,000,000 USDS per day

@@ -1,12 +1,12 @@
 ---
-id: aad65f08-6a6f-4246-a356-ba74b83e142c
+id: aaabd71c-637f-4680-841f-6a00db261095
 docNo: A.6.1.1.2.2.6.1.1.2.2.2
-name: Curve
+name: Fluid
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.2.2 - Curve [Core]
+###### A.6.1.1.2.2.6.1.1.2.2.2 - Fluid [Core]
 
-The Avalanche Instances Directory of the Curve Protocol with `Active` Status are stored herein.
+The Base Instances Directory of the Fluid Protocol with `Active` Status are stored herein.

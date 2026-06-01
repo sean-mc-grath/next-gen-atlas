@@ -1,5 +1,5 @@
 ---
-id: 6607a910-567f-4331-9edc-e8f5013f93fb
+id: 04da1a02-47fb-4ecd-9b50-27daf99b6d6f
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2
 name: Relayer Functions
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.2.1.2.1.2 - Relayer Functions [Core]
 
-The documents herein define the operations performed by the relayer role (see [A.6.1.1.6.2.6.1.2.2.1.1.2 - Relayer Role](905e342b-8dca-4fbc-8673-f6fabb6b29fd)) within the `MainnetController` contract.
+The documents herein define the operations performed by the relayer role (see [A.6.1.1.6.2.6.1.2.2.1.1.2 - Relayer Role](0a8458ff-499e-4ac6-85a3-6ce200df18ae)) within the `MainnetController` contract.

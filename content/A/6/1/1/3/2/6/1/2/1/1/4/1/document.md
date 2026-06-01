@@ -1,5 +1,5 @@
 ---
-id: 6952b3d2-7b66-46ba-90f7-700f244c5ee0
+id: 4db4b613-f06c-4aae-a091-2a78521fb6de
 docNo: A.6.1.1.3.2.6.1.2.1.1.4.1
 name: Allocator Vault Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.2.1.1.4.1 - Allocator Vault Parameters [Core]
 
-The Allocator Vault parameters for ALLOCATOR-NOVA-A are defined in [A.3.7.1.2.1.3 - ALLOCATOR-NOVA-A Parameters](08321783-f31a-4a80-8f0c-898afb4d8f9b).
+The Allocator Vault parameters for ALLOCATOR-BLOOM-A are defined in [A.3.7.1.2.1.2 - ALLOCATOR-BLOOM-A Parameters](53cba245-68c6-4af9-a280-b200dabebec7).

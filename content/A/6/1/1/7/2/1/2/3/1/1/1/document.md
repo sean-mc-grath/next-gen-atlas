@@ -1,5 +1,5 @@
 ---
-id: 69d7e31c-36a7-4500-9e78-25167e2f38ab
+id: cc457437-4f65-45d6-9c1a-b3e96806de60
 docNo: A.6.1.1.7.2.1.2.3.1.1.1
 name: Agent Type
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.1.2.3.1.1.1 - Agent Type [Core]
 
-Osero is a Prime Agent.
+Pattern is a Prime Agent.

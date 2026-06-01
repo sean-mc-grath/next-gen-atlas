@@ -1,5 +1,5 @@
 ---
-id: 82841628-ddd7-4ccc-90c3-a45bf961d678
+id: 8d0b0487-8d3d-4663-8096-04b32c52b073
 docNo: A.6.1.1.7.2.3.1.2.1.2.1.1
 name: Process Definition For Upkeep Fee Payment
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.3.1.2.1.2.1.1 - Process Definition For Upkeep Fee Payment [Core]
 
-The process to pay 0.50% of Osero's market capitalization per year in USDS will be specified in future iterations of the Osero Artifact.
+The process to pay 0.50% of Pattern's market capitalization per year in USDS will be specified in future iterations of the Pattern Artifact.

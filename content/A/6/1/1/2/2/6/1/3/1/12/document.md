@@ -1,12 +1,12 @@
 ---
-id: e8924df2-b3af-4867-8eda-1aa41ebcb785
+id: e01f0c20-5d3d-4ca4-ac9e-0a1e51780b19
 docNo: A.6.1.1.2.2.6.1.3.1.12
-name: Uniswap
+name: Paxos
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.12 - Uniswap [Core]
+###### A.6.1.1.2.2.6.1.3.1.12 - Paxos [Core]
 
-The Ethereum Mainnet Instances of the Uniswap Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances of the Paxos Protocol with `Active` Status are stored herein.

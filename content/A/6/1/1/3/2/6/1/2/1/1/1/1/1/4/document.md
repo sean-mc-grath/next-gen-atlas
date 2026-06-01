@@ -1,5 +1,5 @@
 ---
-id: 60f119c3-ba99-4370-8f77-f163374f73eb
+id: b5ab51c6-e66f-418b-9073-25728227847a
 docNo: A.6.1.1.3.2.6.1.2.1.1.1.1.1.4
 name: Allocator Roles Contract
 type: Core

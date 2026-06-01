@@ -1,5 +1,5 @@
 ---
-id: 2318f007-26bf-463a-a275-535188ecb1b0
+id: 62cae553-442b-4a02-a550-b11c318fa124
 docNo: A.6.1.1.2.2.6.1.3.1.1.2.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.1.2.2 - Parameters [Core]
 
-The documents herein define the parameters of the Centrifuge JAAA Instance of the Allocation System Primitive.
+The documents herein define the parameters of the SparkLend USDC Instance of the Allocation System Primitive.

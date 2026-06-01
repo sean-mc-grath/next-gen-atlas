@@ -1,5 +1,5 @@
 ---
-id: e72378f0-3ee3-452b-8af3-a7ef31f619fe
+id: 79933ed7-8378-437d-a546-b03f59668a38
 docNo: A.6.1.1.3.2.5
 name: Demand Side Stablecoin Primitives
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.5 - Demand Side Stablecoin Primitives [Core]
 
-The documents herein implement the Demand Side Stablecoin Primitives for Keel. See [A.2.2.8 - Demand Side Stablecoin Primitives](26415305-432d-423b-9553-3f325279712d).
+The documents herein implement the Demand Side Stablecoin Primitives for Grove. See [A.2.2.8 - Demand Side Stablecoin Primitives](26415305-432d-423b-9553-3f325279712d).

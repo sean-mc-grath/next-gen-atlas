@@ -1,5 +1,5 @@
 ---
-id: 3244d08e-fcb7-4685-afda-41d6b82460da
+id: 028c364c-6ac4-42b1-86a7-afb6b255d3f7
 docNo: A.6.1.1.7.2.4.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.4.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Token SkyLink Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Token SkyLink Primitive.

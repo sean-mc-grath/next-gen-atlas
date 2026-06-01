@@ -1,5 +1,5 @@
 ---
-id: 83b318cc-a2de-4f00-a340-04699481af4e
+id: 5915e763-fa01-4202-95c9-b446b94bc92a
 docNo: A.6.1.1.6.2.6.1.2.1.1.2.1
 name: Off-chain Operational Parameters For Ethereum Mainnet
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.1.2.1 - Off-chain Operational Parameters For Ethereum Mainnet [Core]
 
-The document herein lists the current off-chain operational parameters for the Pattern Liquidity Layer on Ethereum Mainnet.
+The document herein lists the current off-chain operational parameters for the Obex Liquidity Layer on Ethereum Mainnet.

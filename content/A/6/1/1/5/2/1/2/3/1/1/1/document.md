@@ -1,5 +1,5 @@
 ---
-id: 3275f4de-18d6-4fca-8023-d6f2e3fb4f01
+id: afa9a16f-e776-40f1-8e34-923ae661517a
 docNo: A.6.1.1.5.2.1.2.3.1.1.1
 name: Agent Type
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.1.2.3.1.1.1 - Agent Type [Core]
 
-Obex is a Prime Agent.
+Skybase is a Prime Agent.

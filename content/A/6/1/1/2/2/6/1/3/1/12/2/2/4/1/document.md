@@ -1,15 +1,15 @@
 ---
-id: 37b74730-eeef-4f2a-89cc-699fa51b176b
+id: 1f64320b-feca-4059-95d3-f73950382031
 docNo: A.6.1.1.2.2.6.1.3.1.12.2.2.4.1
-name: Deposit Rate Limits
+name: TransferAssets Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.12.2.2.4.1 - Deposit Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.1.12.2.2.4.1 - TransferAssets Rate Limits [Core]
 
-The deposit rate limits are:
+The transferAssets rate limits are:
 
-- `maxAmount`: N/A - swaps only
-- `slope`: N/A - swaps only
+- `maxAmount`: 5,000,000 PYUSD
+- `slope`: 200,000,000 PYUSD per day

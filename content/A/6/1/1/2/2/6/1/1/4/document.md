@@ -1,5 +1,5 @@
 ---
-id: 19280fed-ef24-4c95-843a-4abaec1d8bb6
+id: 73a22cb8-06cd-4324-b0fe-f37bf538f7a9
 docNo: A.6.1.1.2.2.6.1.1.4
 name: In Progress Invocations Directory
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.1.4 - In Progress Invocations Directory [Core]
 
-This document contains a Directory of all prospective Instances of the Allocation System Primitive whose Invocation is currently in progress. Invocations that are completed successfully are moved to [A.6.1.1.2.2.6.1.1.2 - Active Instances Directory](1edfe612-6f19-4aa7-b0f9-1b3a2aae8a47), whereas failed Invocations are Archived in [A.6.1.1.2.2.6.1.1.5 - Hub Data Repository](20dc2ba0-0668-4975-b2d7-4f70af20d11b).
+This document contains a Directory of all prospective Instances of the Allocation System Primitive whose Invocation is currently in progress. Invocations that are completed successfully are moved to [A.6.1.1.2.2.6.1.1.2 - Active Instances Directory](20e0bc23-8a73-4ea3-b626-56f6286aded9), whereas failed Invocations are Archived in [A.6.1.1.2.2.6.1.1.5 - Hub Data Repository](143d1560-f068-4f83-9b50-c5e80fc9ec21).

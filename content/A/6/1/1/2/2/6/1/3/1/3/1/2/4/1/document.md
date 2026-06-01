@@ -1,5 +1,5 @@
 ---
-id: bde14e56-5d3b-4797-9ab4-6cd689d74a8c
+id: b5d5ba32-342f-4d98-a51e-4d43ff458b48
 docNo: A.6.1.1.2.2.6.1.3.1.3.1.2.4.1
 name: Inflow Rate Limits
 type: Core
@@ -11,5 +11,5 @@ childType: sections_and_primary_docs
 
 The inflow rate limits are:
 
-- `maxAmount`: This parameter will be specified in a future iteration of the Grove Artifact.
-- `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
+- `maxAmount`: 100,000,000 USDC
+- `slope`: 20,000,000 USDC per day

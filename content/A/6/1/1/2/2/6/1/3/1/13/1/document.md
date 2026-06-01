@@ -1,12 +1,12 @@
 ---
-id: 7502f64c-3276-478e-8f98-53a2377ca1a2
+id: 8048e396-7bb4-4541-a68f-6dd7ec0a6015
 docNo: A.6.1.1.2.2.6.1.3.1.13.1
-name: Ethereum Mainnet - Maple syrupUSDC Instance Configuration Document
+name: Ethereum Mainnet - Anchorage USAT Instance Configuration Document
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.13.1 - Ethereum Mainnet - Maple syrupUSDC Instance Configuration Document [Core]
+###### A.6.1.1.2.2.6.1.3.1.13.1 - Ethereum Mainnet - Anchorage USAT Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Maple syrupUSDC Instance.
+The documents herein contain the Instance Configuration Document for the Anchorage USAT Instance.

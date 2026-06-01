@@ -1,12 +1,12 @@
 ---
-id: fbb34f07-a5c8-475e-9842-fc5c9b9bd359
+id: 9ddbfaed-ebb8-4dd4-9f08-d12cad450a00
 docNo: A.6.1.1.2.2.6.1.3.2
-name: Avalanche Instances
+name: Base
 type: Core
 depth: 10
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.2 - Avalanche Instances [Core]
+###### A.6.1.1.2.2.6.1.3.2 - Base [Core]
 
-The Avalanche Instances of the Grove Liquidity Layer with `Active` Status are stored herein and are organized by target protocol.
+The Base Instances of the Spark Liquidity Layer with `Active` Status are stored herein.

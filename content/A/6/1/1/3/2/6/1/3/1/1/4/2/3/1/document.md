@@ -1,12 +1,12 @@
 ---
-id: 2857d96b-1196-48a5-9983-b629f708d75a
+id: bbb15d43-e8e6-47a1-9f26-bbd0b9a34574
 docNo: A.6.1.1.3.2.6.1.3.1.1.4.2.3.1
-name: Integration Account Address
+name: Inflow RateLimitID
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.1.4.2.3.1 - Integration Account Address [Core]
+###### A.6.1.1.3.2.6.1.3.1.1.4.2.3.1 - Inflow RateLimitID [Core]
 
-`5JYk4vbZTFcBiHK5HzQTmYcT6kosEKJV62tYTCTpT6xy`
+The inflow RateLimitID is: `0x12a7aab841b7cc5a82aa3f431a00634d363fa012c2e247229a80509ab0426359`

@@ -1,5 +1,5 @@
 ---
-id: 08ac5921-06ce-4b7d-9dfa-7a466ed9e7de
+id: cecaa353-2826-4e19-a641-ee24989d42b6
 docNo: A.6.1.1.6.2.6.1.2.1.1.3.1
 name: Ethereum Mainnet
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.1.3.1 - Ethereum Mainnet [Core]
 
-The documents herein list the current `RateLimits` for the Pattern Liquidity Layer on Ethereum Mainnet.
+The documents herein list the current `RateLimits` for the Obex Liquidity Layer on Ethereum Mainnet.

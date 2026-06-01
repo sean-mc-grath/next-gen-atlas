@@ -1,5 +1,5 @@
 ---
-id: 1f3904b0-28b7-48e2-8cc7-ed67f4b90b68
+id: f02b9ea5-ceae-42dd-8ca0-9565f7148efb
 docNo: A.6.1.1.4.2.5.2.2.1.3.4
 name: Integration Boost Payments
 type: Active Data Controller
@@ -9,7 +9,7 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.2.2.1.3.4 - Integration Boost Payments [Active Data Controller]
 
-The Integration Boost payments for the Euler Instance of the Integration Boost Primitive are defined as Active Data.
+The Integration Boost payments for the Kamino Instance of the Integration Boost Primitive are defined as Active Data.
 
 The Active Data is updated as follows:
 

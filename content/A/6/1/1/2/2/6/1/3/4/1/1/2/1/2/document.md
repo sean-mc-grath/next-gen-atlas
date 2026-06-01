@@ -1,5 +1,5 @@
 ---
-id: 6ebe8640-bc0f-4637-a49f-645002785274
+id: 1cb748ac-2e03-4d8e-89f2-17b8c935a37a
 docNo: A.6.1.1.2.2.6.1.3.4.1.1.2.1.2
 name: Target Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.4.1.1.2.1.2 - Target Protocol [Core]
 
-Aave v3
+Aave

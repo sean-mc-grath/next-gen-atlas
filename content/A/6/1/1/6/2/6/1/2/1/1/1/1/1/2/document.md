@@ -1,5 +1,5 @@
 ---
-id: a808de67-ebcb-4b57-83be-eaf1c536bc9b
+id: 87e95c06-0f81-4908-8282-8067346b3200
 docNo: A.6.1.1.6.2.6.1.2.1.1.1.1.1.2
 name: Allocator Oracle Contract
 type: Core

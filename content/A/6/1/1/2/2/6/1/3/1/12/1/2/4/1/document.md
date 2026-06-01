@@ -1,15 +1,15 @@
 ---
-id: 607a906a-da69-4105-a519-6e4cfa529c1d
+id: 66f2a388-119c-4908-9ff7-f38190e9566d
 docNo: A.6.1.1.2.2.6.1.3.1.12.1.2.4.1
-name: Deposit Rate Limits
+name: TransferAssets Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.12.1.2.4.1 - Deposit Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.1.12.1.2.4.1 - TransferAssets Rate Limits [Core]
 
-The deposit rate limits are:
+The transferAssets rate limits are:
 
-- `maxAmount`: 50,000,000 USDC
+- `maxAmount`: 5,000,000 USDC
 - `slope`: 50,000,000 USDC per day

@@ -1,5 +1,5 @@
 ---
-id: 072c99dd-2564-4d56-a469-0cd1861d2f74
+id: 841b8960-e62f-4602-b213-9474157b0684
 docNo: A.6.1.1.8.2.1.4.2.1.1.2
 name: Token Symbol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.4.2.1.1.2 - Token Symbol [Core]
 
-The symbol of Launch Agent 7's token is AGENT7.
+The symbol of Osero's token is OSERO.

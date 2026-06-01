@@ -1,12 +1,12 @@
 ---
-id: f558e673-cbab-4696-8ca1-3af9b90fe5d4
+id: c88439b5-f456-4e51-8825-42e0ba83546f
 docNo: A.6.1.1.5
-name: Obex
+name: Skybase
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.5 - Obex [Core]
+###### A.6.1.1.5 - Skybase [Core]
 
-The documents herein specify all of the logic for Obex, including Obex’s strategy and how it uses the Sky Primitives to operationalize this strategy.
+The documents herein specify all of the logic for Skybase, including Skybase's strategy and how it uses the Sky Primitives to operationalize this strategy.

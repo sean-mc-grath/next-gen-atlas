@@ -1,12 +1,16 @@
 ---
-id: 5a03a0c4-a47a-409c-9b23-52ac93e63d45
+id: ac514975-66ad-4b43-8f76-42cac5ca599d
 docNo: A.0.1.1.46
-name: Core Council
+name: Executor Agent
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.46 - Core Council [Core]
+###### A.0.1.1.46 - Executor Agent [Core]
 
-The Core Council is a group of Executors responsible for operationalizing the protocol at the Sky Core level. It monitors Operational Executor compliance and enforces the Sky Core Atlas. It also oversees Sky Core governance processes, evolves the Risk Framework, monitors Alignment Conservers, and addresses governance disputes. The Council begins with a single seat held by Core Council Executor Agent 1 and will expand over time to multiple elected seats on a rotational basis, targeting up to seven members in the long term.
+Executor Agents ("Executors") are specialized Agents that implement those elements of a Prime Agent’s activities that directly interface with the Sky Protocol or shared ecosystem resources, leaving Prime Agents free to focus on strategic, business development, and marketing efforts. There are two Executor sub-types: Core Executor Agents ("Core Executor Agents") and Operational Executor Agents ("Operational Executors").
+
+- Operational Executor Agents handle the day-to-day execution of those portions of a Prime Agent’s strategies that directly interface with the Sky Protocol, strictly following the instructions laid out in each Prime Agent’s Artifact. Prime Agents cannot be active in the Sky Ecosystem unless they have an active "Operational Executor Accord" which codifies their relationship with an Operational Executor. Operational Executors take on the risk of Prime Agents’ outcomes by providing collateralized insurance against losses or liabilities. Operational Executor Agents’ Operational Collateral can also cover losses from negligence or malicious behavior by the Operational Executor in carrying out the Prime Agent’s strategy.
+- Core Executor Agents, on the other hand, oversee the activities of Operational Executors, ensuring that the implementation of Prime Agent strategies aligns with the Atlas.
+- By separating strategy from operations, this division of labor empowers Prime Agents to innovate rapidly and expand their ventures without needing to develop specialized operational expertise, as Operational Executors manage the day-to-day technical implementation under the oversight of Core Executor Agents.

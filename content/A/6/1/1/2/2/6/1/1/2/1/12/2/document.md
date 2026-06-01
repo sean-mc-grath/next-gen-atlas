@@ -1,12 +1,12 @@
 ---
-id: 6fcc9608-b482-4d67-872f-828c0dad3a89
+id: 0a76cc35-3c37-421f-b123-e325cb581189
 docNo: A.6.1.1.2.2.6.1.1.2.1.12.2
-name: Ethereum Mainnet - Uniswap v3 AUSD/USDC Swaps Instance Configuration Document Location
+name: Ethereum Mainnet - Paxos Transfer PYUSD to Paxos (receive USDC) Instance Configuration Document Location
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.12.2 - Ethereum Mainnet - Uniswap v3 AUSD/USDC Swaps Instance Configuration Document Location [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.12.2 - Ethereum Mainnet - Paxos Transfer PYUSD to Paxos (receive USDC) Instance Configuration Document Location [Core]
 
-This Instance’s associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.1.12.2 - Ethereum Mainnet - Uniswap v3 AUSD/USDC Swaps Instance Configuration Document](ffa0ca69-c416-4163-a1c6-b863f5d38c3f).
+This Instance's associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.1.12.2 - Ethereum Mainnet - Transfer PYUSD to Paxos (receive USDC) Instance Configuration Document](28544284-0ee1-49da-a27f-b13dba9b5842).

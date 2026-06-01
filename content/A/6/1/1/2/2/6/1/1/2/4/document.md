@@ -1,12 +1,12 @@
 ---
-id: 00ec8ca9-deee-45b2-9acc-f24560ad4a13
+id: 4f0c9316-383c-464f-8266-d6c7a6f5ef08
 docNo: A.6.1.1.2.2.6.1.1.2.4
-name: Plasma
+name: Avalanche
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.4 - Plasma [Core]
+###### A.6.1.1.2.2.6.1.1.2.4 - Avalanche [Core]
 
-The documents herein contain a Directory of all Instances on Plasma of the Allocation System Primitive with Instance status of `Active`.
+The documents herein contain a Directory of all Instances on Avalanche of the Allocation System Primitive with Instance status of `Active`.

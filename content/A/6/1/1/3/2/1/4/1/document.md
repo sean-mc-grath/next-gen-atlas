@@ -1,5 +1,5 @@
 ---
-id: e3469208-9d4f-4862-a82f-16222cb7235e
+id: 2bb3fe7a-046f-4109-bd32-2647fa919086
 docNo: A.6.1.1.3.2.1.4.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.1.4.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Keel’s usage of the Agent Token Primitive.
+The documents herein organize all base information relevant to Grove’s usage of the Agent Token Primitive.

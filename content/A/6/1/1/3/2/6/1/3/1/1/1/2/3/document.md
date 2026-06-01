@@ -1,12 +1,12 @@
 ---
-id: d625d675-4667-4464-af41-95d35414fad4
+id: 2ecfcbd7-953a-44f8-b964-083f238b2da9
 docNo: A.6.1.1.3.2.6.1.3.1.1.1.2.3
-name: Rate Limit Information
+name: Rate Limit IDs
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.1.1.2.3 - Rate Limit Information [Core]
+###### A.6.1.1.3.2.6.1.3.1.1.1.2.3 - Rate Limit IDs [Core]
 
-The specific `Integration` account contains the rate limit information to control inflows into the Kamino USDS Instance of the Allocation System Primitive.
+The specific `RateLimitID`(s) for this conduit’s inflow and outflow will be specified in a future iteration of the Grove Artifact.

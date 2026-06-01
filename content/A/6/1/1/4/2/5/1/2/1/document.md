@@ -1,12 +1,12 @@
 ---
-id: b52f88c6-427b-45f6-8e1c-81fa27e522c8
+id: 97421aa5-eebe-49e4-8da8-dd5cfe2f49c4
 docNo: A.6.1.1.4.2.5.1.2.1
-name: Sky.money App Instance Configuration Document
+name: Solana Bridge Instance Configuration Document
 type: Core
 depth: 10
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.4.2.5.1.2.1 - Sky.money App Instance Configuration Document [Core]
+###### A.6.1.1.4.2.5.1.2.1 - Solana Bridge Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Sky.money App Distribution Reward Primitive Instance.
+The documents herein contain the Instance Configuration Document for the Solana Bridge Distribution Reward Primitive Instance.

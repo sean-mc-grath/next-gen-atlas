@@ -1,12 +1,12 @@
 ---
-id: ab7ff4b8-7e62-4a36-8573-581c86293e50
+id: cf007f6d-17a1-40fd-be3e-663b815dc8fc
 docNo: A.6.1.1.4.2.5.1.1.2.1
-name: Sky.money App Instance Configuration Document Location
+name: Solana Bridge Instance Configuration Document Location
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.4.2.5.1.1.2.1 - Sky.money App Instance Configuration Document Location [Core]
+###### A.6.1.1.4.2.5.1.1.2.1 - Solana Bridge Instance Configuration Document Location [Core]
 
-This Instance’s associated Instance Configuration Document is located at [A.6.1.1.4.2.5.1.2.1 - Sky.money App Instance Configuration Document](b52f88c6-427b-45f6-8e1c-81fa27e522c8).
+This Instance's associated Instance Configuration Document is located at [A.6.1.1.4.2.5.1.2.1 - Solana Bridge Instance Configuration Document](97421aa5-eebe-49e4-8da8-dd5cfe2f49c4).

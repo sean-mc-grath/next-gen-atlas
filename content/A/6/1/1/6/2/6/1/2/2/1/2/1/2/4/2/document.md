@@ -1,5 +1,5 @@
 ---
-id: b46a85df-ba8e-482a-bcde-b61f2b520190
+id: 6765a298-8ea7-4b1d-8d37-b3ccb069e12b
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.4.2
 name: Redeem From ERC-7540 Vault
 type: Core

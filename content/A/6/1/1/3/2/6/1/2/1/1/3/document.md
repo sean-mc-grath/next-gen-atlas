@@ -1,12 +1,12 @@
 ---
-id: bdbfe3ef-b848-4095-872d-66d189668fd3
+id: c485dc9b-e21b-4df9-8323-0d2856524a71
 docNo: A.6.1.1.3.2.6.1.2.1.1.3
-name: Rate Limits
+name: RateLimits
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.3 - Rate Limits [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.3 - RateLimits [Core]
 
-The documents herein list the Rate Limits for the Keel Liquidity Layer on each blockchain.
+The documents herein list the Ratelimits for the Grove Liquidity Layer on each blockchain.

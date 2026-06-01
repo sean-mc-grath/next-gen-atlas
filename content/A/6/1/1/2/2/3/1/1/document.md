@@ -1,5 +1,5 @@
 ---
-id: d8588e0b-0acd-4bed-989e-8da4016d0aa9
+id: 4a0fea8a-d2e3-4ebd-8c3b-a5e27c74dac0
 docNo: A.6.1.1.2.2.3.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.3.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Grove’s usage of the Ecosystem Upkeep Fee Primitive.
+The documents herein organize all base information relevant to Spark’s usage of the Ecosystem Upkeep Fee Primitive.

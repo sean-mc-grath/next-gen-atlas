@@ -1,5 +1,5 @@
 ---
-id: b974ebda-d402-456a-8b4d-1ea805ac7be0
+id: 9faf62a8-812c-4986-8133-5b3493634b9f
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.1.2.1
 name: Call burnUSDS Function
 type: Core

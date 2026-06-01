@@ -1,5 +1,5 @@
 ---
-id: 9fda752d-6c8a-4bb2-bea9-da336d41586f
+id: 78067cd5-bd11-47eb-bdf7-947038912cfa
 docNo: A.6.1.1.2.2.6.1.3.1.13.1.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.13.1.2 - Parameters [Core]
 
-The documents herein define the parameters of the Maple syrupUSDC Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Anchorage USAT Instance of the Allocation System Primitive.

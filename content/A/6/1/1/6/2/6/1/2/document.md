@@ -1,5 +1,5 @@
 ---
-id: d02fc174-54ea-4336-8f61-99f530ea533b
+id: aa59c9ff-7347-407f-9d55-59fa499a58c9
 docNo: A.6.1.1.6.2.6.1.2
 name: Multi-Instance Coordinator Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2 - Multi-Instance Coordinator Document [Core]
 
-The documents herein provide general specifications of the Pattern Liquidity Layer and define Pattern's overarching strategy and operational framework for managing across all Instances.
+The documents herein provide general specifications of the Obex Liquidity Layer and define Obex's overarching strategy and operational framework for managing across all Instances.

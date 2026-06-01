@@ -1,5 +1,5 @@
 ---
-id: b72d1498-2f89-40ec-8c14-08ce2a84af8c
+id: 8ae596a4-1e54-430d-83ab-65e14c1b59a7
 docNo: A.6.1.1.2.2.6.1.3.3.1.1.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.3.1.1.2 - Parameters [Core]
 
-The documents herein define the parameters of the Morpho Grove x Steakhouse High Yield Vault USDC Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Fluid sUSDS ERC4626 Vault Instance of the Allocation System Primitive.

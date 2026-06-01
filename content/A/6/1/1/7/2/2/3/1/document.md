@@ -1,5 +1,5 @@
 ---
-id: 40fd0acb-dd7c-4b72-a842-9024d1250f3e
+id: 2abd678a-fea3-4968-87c5-a81302f3c387
 docNo: A.6.1.1.7.2.2.3.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.2.3.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Light Agent Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Light Agent Primitive.

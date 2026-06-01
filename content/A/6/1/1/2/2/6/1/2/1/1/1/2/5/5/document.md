@@ -1,12 +1,12 @@
 ---
-id: dcf0beac-b93e-41a7-b8b6-98c1d4cc819b
+id: f1895dfc-a18c-4009-bfd3-1c16c9a62092
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.2.5.5
-name: ALM Proxy Contract
+name: ALM Proxy (Optimism) Contract
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.2.5.5 - ALM Proxy Contract [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.2.5.5 - ALM Proxy (Optimism) Contract [Core]
 
-The address of the ALM_PROXY contract is: `0x1DB91ad50446a671e2231f77e00948E68876F812`
+The address of the ALM_PROXY contract is: `0x876664f0c9Ff24D1aa355Ce9f1680AE1A5bf36fB`

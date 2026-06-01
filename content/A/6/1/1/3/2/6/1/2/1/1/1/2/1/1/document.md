@@ -1,12 +1,12 @@
 ---
-id: 8ea07623-dc66-4e6b-8478-6fc3fadf049b
+id: 53d016e8-dd83-42ca-a74b-7ed440d50bc5
 docNo: A.6.1.1.3.2.6.1.2.1.1.1.2.1.1
-name: ALM Controller Contract Address
+name: ALM Controller (MainnetController) Contract
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.1.2.1.1 - ALM Controller Contract Address [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.1.2.1.1 - ALM Controller (MainnetController) Contract [Core]
 
-The address of the ALM_CONTROLLER (`MainnetController`) contract is: `0xEF26BDc34F35669C235345aeF24A251B1EE80EF3`
+The address of the ALM_CONTROLLER (MainnetController) contract is: `0xfd9dEA9a8D5B955649579Af482DB7198A392A9F5`.

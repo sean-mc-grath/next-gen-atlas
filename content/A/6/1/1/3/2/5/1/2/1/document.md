@@ -1,12 +1,12 @@
 ---
-id: 97421aa5-eebe-49e4-8da8-dd5cfe2f49c4
+id: 006f040b-63e1-4847-abd5-9dce1190706b
 docNo: A.6.1.1.3.2.5.1.2.1
-name: Solana Bridge Instance Configuration Document
+name: Grove Finance Instance Configuration Document
 type: Core
 depth: 10
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.5.1.2.1 - Solana Bridge Instance Configuration Document [Core]
+###### A.6.1.1.3.2.5.1.2.1 - Grove Finance Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Solana Bridge Distribution Reward Primitive Instance.
+The documents herein contain the Instance Configuration Document for the Grove Finance Distribution Reward Primitive Instance.

@@ -1,5 +1,5 @@
 ---
-id: 36f57327-abff-4ac1-890b-c5097c449b02
+id: 6952060d-f1dd-4d86-b2f8-f07090174d1d
 docNo: A.6.1.1.5.2.3.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.3.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Obex's usage of the Upkeep Rebate Primitive.
+The documents herein organize all base information relevant to Skybase's usage of the Upkeep Rebate Primitive.

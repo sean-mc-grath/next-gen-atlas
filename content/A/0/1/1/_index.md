@@ -1,7 +1,7 @@
 ---
 type: index
 path: content/A/0/1/1
-childCount: 54
+childCount: 63
 ---
 
 # Contents
@@ -47,16 +47,25 @@ childCount: 54
 - [A.0.1.1.39 - Agent](39/document.md)
 - [A.0.1.1.40 - Agent Artifact](40/document.md)
 - [A.0.1.1.41 - Agent Scope](41/document.md)
-- [A.0.1.1.42 - Prime Agent](42/document.md)
-- [A.0.1.1.43 - Executor Agent](43/document.md)
-- [A.0.1.1.44 - Operational Executor Agent](44/document.md)
-- [A.0.1.1.45 - Core Council Executor Agent](45/document.md)
-- [A.0.1.1.46 - Core Council](46/document.md)
-- [A.0.1.1.47 - GovOps](47/document.md)
-- [A.0.1.1.48 - Operational Executor GovOps](48/document.md)
-- [A.0.1.1.49 - Core Council GovOps](49/document.md)
-- [A.0.1.1.50 - Operational Executor Facilitator](50/document.md)
-- [A.0.1.1.51 - Core Council Executor Facilitator](51/document.md)
-- [A.0.1.1.52 - Sky Primitives](52/document.md)
-- [A.0.1.1.53 - Conformance](53/document.md)
-- [A.0.1.1.54 - Independent Governance](54/document.md)
+- [A.0.1.1.42 - Macroagent](42/document.md)
+- [A.0.1.1.43 - Microagent](43/document.md)
+- [A.0.1.1.44 - Generator Agent](44/document.md)
+- [A.0.1.1.45 - Prime Agent](45/document.md)
+- [A.0.1.1.46 - Executor Agent](46/document.md)
+- [A.0.1.1.47 - Halo Agent (HA)](47/document.md)
+- [A.0.1.1.48 - Proto-Agent](48/document.md)
+- [A.0.1.1.49 - Operational Executor Agent](49/document.md)
+- [A.0.1.1.50 - Core Council Executor Agent](50/document.md)
+- [A.0.1.1.51 - Core Council](51/document.md)
+- [A.0.1.1.52 - GovOps](52/document.md)
+- [A.0.1.1.53 - Operational Executor GovOps](53/document.md)
+- [A.0.1.1.54 - Core Council GovOps](54/document.md)
+- [A.0.1.1.55 - Operational Executor Facilitator](55/document.md)
+- [A.0.1.1.56 - Core Council Executor Facilitator](56/document.md)
+- [A.0.1.1.57 - Sky Primitives](57/document.md)
+- [A.0.1.1.58 - Conformance](58/document.md)
+- [A.0.1.1.59 - Independent Governance](59/document.md)
+- [A.0.1.1.60 - Sky Generated Asset](60/document.md)
+- [A.0.1.1.61 - Generate Sky Asset Primitive](61/document.md)
+- [A.0.1.1.62 - Sentinel](62/document.md)
+- [A.0.1.1.63 - Laniakea](63/document.md)

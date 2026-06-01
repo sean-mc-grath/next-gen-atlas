@@ -1,5 +1,5 @@
 ---
-id: 835a84a6-2167-4013-acce-281e164c5985
+id: 408b026b-09d3-4154-8fc2-e7270b76a053
 docNo: A.6.1.1.3.2.6.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Keel’s usage of the Keel Liquidity Layer.
+The documents herein organize all base information relevant to Grove’s usage of the Grove Liquidity Layer.

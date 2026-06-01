@@ -1,12 +1,12 @@
 ---
-id: 724970e4-e5e7-41ff-9448-d984c2c9a9e3
+id: 37871a80-dc8f-4804-bce1-5f082e9bca9f
 docNo: A.6.1.1.3.2.6.1.2.2.1.1.4
-name: Instance Lifecycle Management
+name: Freezer Role
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.2.1.1.4 - Instance Lifecycle Management [Core]
+###### A.6.1.1.3.2.6.1.2.2.1.1.4 - Freezer Role [Core]
 
-The documents herein define processes for invoking (onboarding) new Keel Liquidity Layer Instances and offboarding existing ones. This process will be specified in a future iteration of the Keel Artifact.
+The `FREEZER_ROLE` is the address of the emergency role that can remove a compromised Relayer.

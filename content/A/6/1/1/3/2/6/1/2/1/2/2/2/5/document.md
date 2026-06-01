@@ -1,5 +1,5 @@
 ---
-id: f9bf39ea-a02f-4eac-bd81-7c0b4daeb970
+id: eecf9254-7939-492a-a4c8-938bbb19c7a0
 docNo: A.6.1.1.3.2.6.1.2.1.2.2.2.5
 name: Modification
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.2.1.2.2.2.5 - Modification [Core]
 
-Operational GovOps Soter Labs can change the signers of the Core Operator Relayer Multisig at any time, so long as there are at least three (3) signers and at least two-thirds of signers are required to execute transactions.
+Grove can change the signers of the Prime Secondary Relayer Multisig at any time, so long as there are at least two (2) signers and at least a majority of signers are required to execute transactions.

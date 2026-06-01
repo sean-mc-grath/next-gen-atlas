@@ -1,5 +1,5 @@
 ---
-id: f770ab85-be68-40ed-b63d-bcd63b240485
+id: c090d021-d1a9-41c9-afcf-4edaa97150c0
 docNo: A.6.1.1.2.2.6.1.3.2.2.1.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.2.2.1.2 - Parameters [Core]
 
-The documents herein define the parameters of the Curve USDS/USDC Swaps Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Fluid sUSDS ERC4626 Vault Instance of the Allocation System Primitive.

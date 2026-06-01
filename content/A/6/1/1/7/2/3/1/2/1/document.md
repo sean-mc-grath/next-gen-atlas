@@ -1,5 +1,5 @@
 ---
-id: 8cd599cd-d6f1-4ef4-86cd-94aaf842d62e
+id: d8b7f338-3318-462c-a65d-4e49a29398b2
 docNo: A.6.1.1.7.2.3.1.2.1
 name: Single Instance Configuration Document
 type: Core

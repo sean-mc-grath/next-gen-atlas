@@ -1,5 +1,5 @@
 ---
-id: 9e280969-f099-4b67-8528-41f2248e634a
+id: 51b50a8f-eb29-4424-bb0a-8247d2acce7d
 docNo: A.6.1.1.3.2.6.1.2.1.1.1.2.1.4
 name: ALM Relayer Multisig Addresses
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.2.1.1.1.2.1.4 - ALM Relayer Multisig Addresses [Core]
 
-The addresses of the Multisigs that have the Relayer Role are specified in [A.6.1.1.3.2.6.1.2.1.2.2.1 - Prime Relayer Multisig](0bdf0649-1446-4ea7-b8dd-e41dc26b9be7) and [A.6.1.1.3.2.6.1.2.1.2.2.2 - Core Operator Relayer Multisig](b17a4a11-7340-4113-972d-76362f816b8a).
+The addresses of the multisigs that have the Relayer Role are specified in [A.6.1.1.3.2.6.1.2.1.2.2.1.1 - Address](2ecf77f4-13d5-40dd-a50f-d85aabdbf71b), [A.6.1.1.3.2.6.1.2.1.2.2.2.1 - Address](49588342-eebf-41e2-89eb-eb4f94ba5f36), and [A.6.1.1.3.2.6.1.2.1.2.2.3.1 - Address](712e0f02-b787-4812-8d67-60a81449b238).

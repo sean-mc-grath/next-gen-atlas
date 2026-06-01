@@ -1,5 +1,5 @@
 ---
-id: fe31ba7d-30cc-4fec-b74a-0dea0f633730
+id: de211b16-8d7a-4560-9cb9-52a98941fb43
 docNo: A.6.1.1.2.2.6.1.3.1.1.2.2.2.1
 name: Token Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.1.2.2.2.1 - Token Address [Core]
 
-`0x4880799eE5200fC58DA299e965df644fBf46780B`
+`0x377C3bd93f2a2984E1E7bE6A5C22c525eD4A4815`

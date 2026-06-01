@@ -1,5 +1,5 @@
 ---
-id: 77969281-5739-4eba-a856-6b89259b26e1
+id: 5d2d1cef-96c5-4881-a7b7-d70e75541fac
 docNo: A.6.1.1.6.2.6.1.2.1.2.2.1.1
 name: Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.2.2.1.1 - Address [Core]
 
-The address of the Relayer Multisig on the Ethereum Mainnet is `0xd00665Df77E0b1294Ae2bdC3662F870092f6737B`.
+The address of the Prime Relayer Multisig on the Ethereum Mainnet is `0x5d36918C8F4726a62257AA79a50E53D553465663`.

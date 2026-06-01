@@ -1,5 +1,5 @@
 ---
-id: b037c4fd-759b-4ea1-9b6b-3f9f86391f60
+id: 26e062c6-d49e-4f49-b14e-0884d899cbe1
 docNo: A.6.1.1.5.2.1.1.3.1.1.3.1
 name: StarGuard Max Delay
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.1.1.3.1.1.3.1 - StarGuard Max Delay [Core]
 
-The Obex StarGuard `maxDelay` is seven (7) days.
+The Skybase StarGuard `maxDelay` is seven (7) days.

@@ -1,5 +1,5 @@
 ---
-id: cf22699e-1dc0-4526-9c07-fc5165ab3f75
+id: 1cbe8086-9c91-4e07-9310-79591f81430a
 docNo: A.6.1.1.4.2.5.2.2.2.3
 name: Data Repository
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.2.2.2.3 - Data Repository [Core]
 
-The documents herein contain data relevant to the Curve Instance of the Integration Boost Primitive.
+The documents herein contain data relevant to the Drift Instance of the Integration Boost Primitive.

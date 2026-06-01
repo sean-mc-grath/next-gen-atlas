@@ -1,5 +1,5 @@
 ---
-id: c742ce08-484e-4f55-a422-00d6b4852ef8
+id: f07a80ae-654b-484e-8ccf-d2abd235a1a5
 docNo: A.6.1.1.2.2.6.1.3.1.12.2.2.1.2
 name: Target Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.12.2.2.1.2 - Target Protocol [Core]
 
-Uniswap v3 AUSD/USDC
+Paxos

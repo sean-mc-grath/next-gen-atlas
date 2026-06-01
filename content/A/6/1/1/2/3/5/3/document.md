@@ -1,12 +1,12 @@
 ---
-id: e7057828-ca35-4c1f-8da9-05f54b73e25a
+id: c8fcae7c-01ea-48cf-9b8c-4de7d3c86d78
 docNo: A.6.1.1.2.3.5.3
-name: Ecosystem Accord 10
+name: Policies and Operational Parameters
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.5.3 - Ecosystem Accord 10 [Core]
+###### A.6.1.1.2.3.5.3 - Policies and Operational Parameters [Core]
 
-Grove engaged in terms of agreement with Sky in Ecosystem Accord 10, located in [A.2.8.2.10 - Ecosystem Accord 10: Sky And Grove](0cb00b28-12a8-4790-974a-a3d98fd4dc97).
+The documents herein define the currently active policies for Spark Savings Configuration, alongside relevant operational parameters for implementing the policies.

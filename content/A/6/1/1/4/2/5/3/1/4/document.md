@@ -1,5 +1,5 @@
 ---
-id: 5dde47de-0f14-4cba-aae8-89c5f16a2303
+id: 6b836e0a-37cd-4e54-9479-1cf54ee4088c
 docNo: A.6.1.1.4.2.5.3.1.4
 name: In Progress Invocations Directory
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.3.1.4 - In Progress Invocations Directory [Core]
 
-This document contains a Directory of all prospective Instances of the Pioneer Chain Primitive whose Invocation is currently in progress. Invocations that are completed successfully are moved to [A.6.1.1.4.2.5.3.1.2 - Active Instances Directory](5aa36020-011e-457b-8605-95988a244606), whereas failed Invocations are Archived in [A.6.1.1.4.2.5.3.1.5 - Hub Data Repository](352eb7b1-b4bf-405d-970c-d937ffb65ae3).
+This document contains a Directory of all prospective Instances of the Pioneer Chain Primitive whose Invocation is currently in progress. Invocations that are completed successfully are moved to [A.6.1.1.4.2.5.3.2 - Active Instances](5d043c09-1d78-456d-b356-c72a13fe46c8), whereas failed Invocations are Archived in [A.6.1.1.4.2.5.3.1.5 - Hub Data Repository](e32e87d5-bbaf-4bde-9bbd-332e2465a44a).

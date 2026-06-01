@@ -1,5 +1,5 @@
 ---
-id: 4ca55a86-e89b-43d7-8291-297c3ecf5586
+id: e0e1769f-ecbe-4598-a236-318d7b00c929
 docNo: A.6.1.1.6.2.7.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.7.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Pattern's usage of the Core Governance Reward Primitive.
+The documents herein organize all base information relevant to Obex's usage of the Core Governance Reward Primitive.

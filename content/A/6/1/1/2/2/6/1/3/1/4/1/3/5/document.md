@@ -1,5 +1,5 @@
 ---
-id: ffdc8734-a58e-4298-a98e-f379862e705e
+id: 9df0fbc9-4d5f-4ddb-a184-d5a069cde43c
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.3.5
 name: Approve Burning of USDe By EthenaMinter Contract
 type: Core

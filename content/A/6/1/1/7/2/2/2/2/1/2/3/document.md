@@ -1,5 +1,5 @@
 ---
-id: dd51cdeb-242b-4d26-8841-754079074e41
+id: fbd6606d-dfe5-4816-bb90-f555c13323b1
 docNo: A.6.1.1.7.2.2.2.2.1.2.3
 name: Emergency Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.2.2.2.1.2.3 - Emergency Protocol [Core]
 
-The documents herein define the process for using the Root Edit Primitive to update the Osero Agent Artifact in emergency situations.
+The documents herein define the process for using the Root Edit Primitive to update the Pattern Agent Artifact in emergency situations.

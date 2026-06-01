@@ -1,5 +1,5 @@
 ---
-id: a506aba7-1c37-46eb-954c-bb99b83d59c6
+id: e68e712a-cf58-45c0-8065-f81a5f259b18
 docNo: A.6.1.1.6.2.3.2.2.1.2.3
 name: Emergency Protocol
 type: Core

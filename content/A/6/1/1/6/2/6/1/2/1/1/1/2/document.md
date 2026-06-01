@@ -1,5 +1,5 @@
 ---
-id: e21f8717-c764-42c0-a544-d9991345515a
+id: 656c09f6-93a7-4b0b-a268-a495adeffaf0
 docNo: A.6.1.1.6.2.6.1.2.1.1.1.2
 name: ALM Contracts
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.1.1.2 - ALM Contracts [Core]
 
-The documents herein contain addresses for the ALM Contracts for the Pattern Liquidity Layer.
+The documents herein contain addresses for the ALM Contracts for the Obex Liquidity Layer.

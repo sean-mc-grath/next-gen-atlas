@@ -1,16 +1,12 @@
 ---
-id: fee4e7c1-bc69-496e-8e1b-a1f7a76daa70
+id: ee2c4e23-78f4-4540-9e51-14c78b0379f1
 docNo: A.6.1.1.1.1
-name: Introduction
+name: Mandate And Configuration Requirements
 type: Core
 depth: 6
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.1.1 - Introduction [Core]
+###### A.6.1.1.1.1 - Mandate And Configuration Requirements [Core]
 
-Spark is an Agent focused on building on USDS in the Ethereum and adjacent DeFi ecosystem. This includes driving adoption of USDS and deploying collateral backing USDS at attractive risk-adjusted returns. Spark does this through the Spark Liquidity Layer, SparkLend, and Spark Savings.
-
-- The Spark Liquidity Layer directly provides USDS, sUSDS, and USDC liquidity across networks and DeFi markets.
-- SparkLend is a lending market focused on USDS borrowing, sourcing liquidity directly from Sky to provide the best borrow rates for USDS.
-- Spark Savings enables stablecoin holders to earn the best risk-adjusted rate in DeFi, at large scale, with minimal liquidity constraints.
+Prime Agent Artifacts must include, for each enveloped [A.0.1.1.47 - Halo Agent](e6261608-c225-452a-aca7-6eb7b5ed2d58), an identifier and reference to the Halo Agent's mandate and configuration (for example, a link to the Halo's Mandate and Configuration Artifact).

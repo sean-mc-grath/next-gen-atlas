@@ -1,12 +1,12 @@
 ---
-id: 39979f83-5da3-45c9-9ad4-bb17cca5513c
+id: 422e75c6-bb9e-4a2f-b58c-bfbd0ede789d
 docNo: A.6.1.1.3.2.6.1.3.1.1
-name: Kamino
+name: Centrifuge
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.1 - Kamino [Core]
+###### A.6.1.1.3.2.6.1.3.1.1 - Centrifuge [Core]
 
-The Solana Instances of the Kamino Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances of the Centrifuge Protocol with `Active` Status are stored herein.

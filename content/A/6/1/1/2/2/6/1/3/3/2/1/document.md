@@ -1,12 +1,12 @@
 ---
-id: 7bc64313-cdc1-4877-947e-df6c7c22a28e
+id: e11091aa-e569-4ca9-9151-dc5e1a8e1062
 docNo: A.6.1.1.2.2.6.1.3.3.2.1
-name: RRC Framework Full Implementation Coverage
+name: Arbitrum - Aave USDC Instance Configuration Document
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.3.2.1 - RRC Framework Full Implementation Coverage [Core]
+###### A.6.1.1.2.2.6.1.3.3.2.1 - Arbitrum - Aave USDC Instance Configuration Document [Core]
 
-**`Pending`**
+The documents herein contain the Instance Configuration Document for the Aave USDC Instance.

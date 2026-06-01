@@ -1,5 +1,5 @@
 ---
-id: 73afe8a4-db40-4310-ac84-be565a062d68
+id: 67d2e983-09c7-41da-8b4d-99a9fb00fb2d
 docNo: A.6.1.1.3.2.5.1.2.1.3
 name: Data Repository
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.5.1.2.1.3 - Data Repository [Core]
 
-The documents herein contain data relevant to the Solana Bridge Instance of the Distribution Reward Primitive.
+The documents herein contain data relevant to the Grove Finance Instance of the Distribution Reward Primitive.

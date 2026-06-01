@@ -1,5 +1,5 @@
 ---
-id: 9646935e-2406-4187-b43d-9158bdf71856
+id: a5674a63-9d57-4fd9-9b66-ec653f49afab
 docNo: A.6.1.1.8.2.1.1.3.1.1.4
 name: Genesis Account
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.1.3.1.1.4 - Genesis Account [Core]
 
-The address of Launch Agent 7's Genesis Account will be specified in a future iteration of the Launch Agent 7 Artifact.
+The address of Osero's Genesis Account will be specified in a future iteration of the Osero Artifact.

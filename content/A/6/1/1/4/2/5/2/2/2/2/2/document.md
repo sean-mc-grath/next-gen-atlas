@@ -1,5 +1,5 @@
 ---
-id: 15a02312-d93d-4b6c-bf08-e23c6d7c36d9
+id: 97aa301f-1b42-45fa-915a-3d3e0dcb55ee
 docNo: A.6.1.1.4.2.5.2.2.2.2.2
 name: Non-Routine Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.2.2.2.2.2 - Non-Routine Protocol [Core]
 
-The documents herein define the protocol for non-routine ongoing management of the Curve Instance of this Integration Boost Primitive.
+The documents herein define the protocol for non-routine ongoing management of the Drift Instance of this Integration Boost Primitive.

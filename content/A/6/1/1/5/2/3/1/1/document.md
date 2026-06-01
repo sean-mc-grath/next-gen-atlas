@@ -1,5 +1,5 @@
 ---
-id: 367db765-3d90-449f-88d7-356eb2e5df6b
+id: 9beebf8b-dfd4-40b4-8de1-f5a3f4a60824
 docNo: A.6.1.1.5.2.3.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.3.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Obex's usage of the Ecosystem Upkeep Fee Primitive.
+The documents herein organize all base information relevant to Skybase's usage of the Ecosystem Upkeep Fee Primitive.

@@ -1,12 +1,15 @@
 ---
-id: 8c2ffb6e-0f1b-458d-9066-ee65b6099e87
+id: 104541de-f257-405a-8870-ab26d099f57b
 docNo: A.6.1.1.3.2.6.1.2.1.1.3.1.1
-name: Ethereum Mainnet USDS
+name: USDS Mint Maximum
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.3.1.1 - Ethereum Mainnet USDS [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.3.1.1 - USDS Mint Maximum [Core]
 
-The maximum mint, burn and swap for USDS on Ethereum Mainnet are located herein.
+The maximum amount of USDS that can be minted within the Grove Liquidity Layer (`LIMIT_USDS_MINT`) is specified in the document herein.
+
+- `maxAmount` (USDS): 500,000,000
+- `slope` (USDS/ day): 500,000,000

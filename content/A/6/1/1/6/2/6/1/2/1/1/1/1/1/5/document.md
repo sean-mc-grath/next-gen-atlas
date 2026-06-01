@@ -1,5 +1,5 @@
 ---
-id: 5ee30a61-2280-4744-8f8f-eb5c5fd56682
+id: a4310d54-9535-43ec-8d6a-c92c854f8a98
 docNo: A.6.1.1.6.2.6.1.2.1.1.1.1.1.5
 name: Allocator Vault Contract
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.1.1.1.1.5 - Allocator Vault Contract [Core]
 
-The address of the ALLOCATOR_VAULT (ALLOCATOR-PATTERN-A) contract is: `0xbd34fc6AAa1d3F52B314CB9D78023dd23eAc3B0E`.
+The address of the ALLOCATOR_VAULT contract is: `0xF275110dFE7B80df66a762f968f59B70BABE2b29`

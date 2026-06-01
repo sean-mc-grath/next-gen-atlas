@@ -1,5 +1,5 @@
 ---
-id: 5eb721ed-289b-42f8-bed4-1e62debcc31c
+id: a10f4c25-6281-42e5-8247-6ac5cac9f850
 docNo: A.6.1.1.6.2.6.1.3.1
 name: Ethereum Mainnet Instances
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.3.1 - Ethereum Mainnet Instances [Core]
 
-The Ethereum Mainnet Instances of the Pattern Liquidity Layer with `Active` Status are stored herein and are organized by target protocol.
+The Ethereum Mainnet Instances of the Obex Liquidity Layer with `Active` Status are stored herein and are organized by target protocol.

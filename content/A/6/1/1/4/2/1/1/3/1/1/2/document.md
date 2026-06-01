@@ -1,5 +1,5 @@
 ---
-id: daed1676-6039-459e-9136-5e31617d756b
+id: 2d5f052a-e32a-472c-884f-4fd8746e0459
 docNo: A.6.1.1.4.2.1.1.3.1.1.2
 name: SubProxy Account
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.1.1.3.1.1.2 - SubProxy Account [Core]
 
-The address of Skybase's SubProxy Account on the Ethereum Mainnet is `0x08978E3700859E476201c1D7438B3427e3C81140`.
+The address of Keel's SubProxy Account on the Ethereum Mainnet is `0x355CD90Ecb1b409Fdf8b64c4473C3B858dA2c310`.

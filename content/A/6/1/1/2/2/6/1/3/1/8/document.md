@@ -1,12 +1,12 @@
 ---
-id: b05d9fc2-9a93-4f3b-b0d8-b4f77bc294ce
+id: 8efd627c-7439-4ea9-aabc-ecdffb5cb2ec
 docNo: A.6.1.1.2.2.6.1.3.1.8
-name: Securitize
+name: Morpho
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.8 - Securitize [Core]
+###### A.6.1.1.2.2.6.1.3.1.8 - Morpho [Core]
 
-The Ethereum Mainnet Instances of the Securitize Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances of the Morpho Protocol with `Active` Status are stored herein.

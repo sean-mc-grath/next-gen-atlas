@@ -1,5 +1,5 @@
 ---
-id: cdcae493-a9b6-4b08-8b03-6f4c7c76eb25
+id: 90a3d4c7-b094-4a1f-85f4-3165deef201f
 docNo: A.6.1.1.4.2.2.1.2.1.1
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.2.1.2.1.1 - Parameters [Core]
 
-The documents herein define the parameters of the Ozone Instance of the Executor Accord Primitive.
+The documents herein define the parameters of the Amatsu Instance of the Executor Accord Primitive.

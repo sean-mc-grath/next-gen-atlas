@@ -1,12 +1,12 @@
 ---
-id: b69eb9db-c986-4c19-a718-f0b747640c61
+id: 6936b2a0-5933-4550-88eb-ee87c9227d8e
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.1.3
-name: Avalanche
+name: Allocator Registry Contract
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.1.3 - Avalanche [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.1.3 - Allocator Registry Contract [Core]
 
-The documents herein contain the Allocator Contract Addresses on Avalanche.
+The address of the ALLOCATOR_REGISTRY contract is: `0xCdCFA95343DA7821fdD01dc4d0AeDA958051bB3B`

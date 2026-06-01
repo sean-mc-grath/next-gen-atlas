@@ -1,12 +1,12 @@
 ---
-id: cb66c28b-c05f-4ccc-ad44-f05aacf78b9c
+id: 80c7e2e1-a2af-47dd-80c7-aee6823cca91
 docNo: A.0.1.1.53
-name: Conformance
+name: Operational Executor GovOps
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.53 - Conformance [Core]
+###### A.0.1.1.53 - Operational Executor GovOps [Core]
 
-Conformance characterizes the state in which a Synome Document accurately operationalizes the principles, rules, and processes specified by the Atlas Documents.
+Operational Executor GovOps ("Operational GovOps") actors are GovOps actors that operate within Operational Executor Agents. Operational GovOps play a crucial role in implementing Prime Agent strategies, doing so by executing the technical specifications outlined in Primitive Configuration Documents of Agent Artifacts.

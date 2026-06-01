@@ -1,5 +1,5 @@
 ---
-id: a9007256-ac47-4807-a3c5-3686f8b688b7
+id: 40d3f261-a7f3-4cd9-b92b-3a79872eb339
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.3.3
 name: Remove A Delegated Signer In The Ethena Minter Contract
 type: Core

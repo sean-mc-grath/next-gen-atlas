@@ -1,5 +1,5 @@
 ---
-id: 873c16ce-2d4d-4d10-bb97-fb1634114311
+id: 554a654f-930a-419e-a8a4-f49dd5599ee8
 docNo: A.6.1.1.2.2.6.1.2.2.1.3
 name: Rate Limit Management
 type: Core

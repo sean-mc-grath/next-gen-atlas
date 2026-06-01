@@ -1,5 +1,5 @@
 ---
-id: 8230c4c2-71d4-4d1b-800b-0684e2de136e
+id: 3d84f6a0-5bcf-4140-913b-072a97663b07
 docNo: A.6.1.1.2.2.6.1.2.2.1.2.1.2.1.1.3
 name: Mint USDS To Buffer
 type: Core

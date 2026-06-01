@@ -1,5 +1,5 @@
 ---
-id: fd06fedd-819d-4e0a-a266-ecf5ede0343b
+id: ed8c3394-ee05-496c-8dd6-4d5275d2ed1f
 docNo: A.6.1.1.2.2.6.1.4
 name: Completed Instances
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.4 - Completed Instances [Core]
 
-The Instances of the Grove Liquidity Layer with `Completed` Status are stored herein.
+The Instances of the Spark Liquidity Layer with `Completed` Status are stored herein.

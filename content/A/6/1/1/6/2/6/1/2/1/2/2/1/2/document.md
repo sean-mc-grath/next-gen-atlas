@@ -1,5 +1,5 @@
 ---
-id: 15f7cf5c-7e06-4a26-8f2f-2adacf21ec32
+id: 2f7dbfea-075e-4208-bb37-abf05599b1d1
 docNo: A.6.1.1.6.2.6.1.2.1.2.2.1.2
 name: Required Number Of Signers
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.2.2.1.2 - Required Number Of Signers [Core]
 
-The Relayer Multisig currently has a 2/3 signing requirement.
+The Prime Relayer Multisig currently has a 4/7 signing requirement.

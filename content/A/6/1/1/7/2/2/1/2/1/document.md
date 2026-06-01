@@ -1,5 +1,5 @@
 ---
-id: c41fe115-5145-438e-bcaf-9924996b4fcd
+id: 960445d5-4b1c-406e-b05a-470e0cca6e71
 docNo: A.6.1.1.7.2.2.1.2.1
 name: Ozone Instance Configuration Document
 type: Core

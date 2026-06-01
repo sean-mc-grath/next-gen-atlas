@@ -1,5 +1,5 @@
 ---
-id: 05e36f80-32a1-4181-a98d-feabd2839e50
+id: 1382be77-1dc3-40e0-811d-cce8052282ee
 docNo: A.6.1.1.7.3.1.1
 name: Sky Forum
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.3.1.1 - Sky Forum [Core]
 
-Osero uses the Sky Forum for governance-related discussion. Posts should use the "Osero Prime" category.
+Pattern uses the Sky Forum for governance-related discussion. Posts should use the "Pattern Prime" category.

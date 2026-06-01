@@ -1,5 +1,5 @@
 ---
-id: ff01e448-1d0a-49e9-8490-5b1a497f1f27
+id: 963a72da-503f-4150-922e-94155924be8d
 docNo: A.6.1.1.8.1
 name: Introduction
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.1 - Introduction [Core]
 
-Launch Agent 7 is an Agent focused on building structured credit infrastructure across traditional and digital financial markets. In addition to originating and managing institutional-grade credit facilities, Launch Agent 7 serves as a bridge between sophisticated capital and high-quality borrowers—including large enterprises and leading fintech platforms—through a suite of scalable credit solutions designed to support durable liquidity and long-term growth.
+Osero is an Agent focused on building credit infrastructure for onchain and traditional finance, with a focus on USD₮ liquidity. In addition to allocating capital to scale Sky's collateral portfolio, Osero serves as a platform enabling stablecoin distribution hubs—including exchanges, wallets, and neobanks—to access institutional grade lending infrastructure underpinning USDS through a suite of products.

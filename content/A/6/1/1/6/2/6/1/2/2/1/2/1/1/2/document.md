@@ -1,5 +1,5 @@
 ---
-id: 8666edaa-5bd6-4c13-9d3b-5854e90583cb
+id: 27f7da97-2cf4-4d32-81e9-c1ef7b8f0199
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.1.2
 name: Set LayerZero Recipient
 type: Core

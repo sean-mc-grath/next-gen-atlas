@@ -1,5 +1,5 @@
 ---
-id: da510ee7-7b5d-4964-8778-b6f76ededdbb
+id: a1b32961-6aa2-4385-b515-b1bc334960df
 docNo: A.6.1.1.8.2.1.4.2.1.1.3
 name: Genesis Supply
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.4.2.1.1.3 - Genesis Supply [Core]
 
-The Genesis Supply of AGENT7 is 1 billion.
+The Genesis Supply of OSERO is 1 billion.

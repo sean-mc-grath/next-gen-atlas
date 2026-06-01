@@ -1,5 +1,5 @@
 ---
-id: 704d4083-3af2-491b-93c5-0dcaf19f0927
+id: 43775285-0a42-44d8-bc3f-acc80f97a8f3
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.3.4
 name: Approve Minting of USDe By Ethena Minter Contract
 type: Core

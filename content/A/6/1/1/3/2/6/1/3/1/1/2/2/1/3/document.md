@@ -1,12 +1,12 @@
 ---
-id: 6d5a7c41-5630-4df4-8995-f7f75df9a866
+id: a7002c17-f04c-4c77-9c36-0882c97b132f
 docNo: A.6.1.1.3.2.6.1.3.1.1.2.2.1.3
-name: Market
+name: Asset Supplied By Grove Liquidity Layer
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.1.2.2.1.3 - Market [Core]
+###### A.6.1.1.3.2.6.1.3.1.1.2.2.1.3 - Asset Supplied By Grove Liquidity Layer [Core]
 
-Main
+USDC

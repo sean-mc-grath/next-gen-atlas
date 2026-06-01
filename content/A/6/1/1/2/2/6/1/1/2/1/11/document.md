@@ -1,12 +1,12 @@
 ---
-id: 2417db38-50a7-4394-9cfb-7afcf01e8c85
+id: 4ef25928-26c1-4864-9670-88c5d676b8e4
 docNo: A.6.1.1.2.2.6.1.1.2.1.11
-name: Agora
+name: Uniswap v4
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.11 - Agora [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.11 - Uniswap v4 [Core]
 
-The Ethereum Mainnet Instances Directory of the Agora Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances Directory of the Uniswap v4 with `Active` Status are stored herein.

@@ -1,12 +1,12 @@
 ---
-id: d83f190a-99d6-4f8c-8502-d3e7e917816d
+id: 9995ba51-1de7-4b32-8b76-a71462dc4c5b
 docNo: A.6.1.1.2.3.4.2.1
-name: Parameters
+name: Encumbrance Ratio
 type: Core
 depth: 9
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.4.2.1 - Parameters [Core]
+###### A.6.1.1.2.3.4.2.1 - Encumbrance Ratio [Core]
 
-The parameters of the Lite PSM are defined in the Sky Core Atlas.
+The documents herein define Spark's policy for managing the Encumbrance Ratio.

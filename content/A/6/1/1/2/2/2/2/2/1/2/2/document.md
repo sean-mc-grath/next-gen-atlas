@@ -1,5 +1,5 @@
 ---
-id: f96c5429-a5d5-40cd-b9eb-60fe06d59860
+id: 2ae0d2a3-5c06-4ecf-ab1d-abd797477642
 docNo: A.6.1.1.2.2.2.2.2.1.2.2
 name: Non-Routine Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.2.2.2.1.2.2 - Non-Routine Protocol [Core]
 
-The documents herein define the process for using the Root Edit Primitive to update the Grove Agent Artifact in non-routine conditions.
+The documents herein define the process for using the Root Edit Primitive to update the Spark Agent Artifact in non-routine conditions.

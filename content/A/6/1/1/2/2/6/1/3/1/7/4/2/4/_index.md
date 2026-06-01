@@ -6,6 +6,6 @@ childCount: 3
 
 # Contents
 
-- [A.6.1.1.2.2.6.1.3.1.7.4.2.4.1 - Deposit Rate Limits](1/document.md)
-- [A.6.1.1.2.2.6.1.3.1.7.4.2.4.2 - Withdrawal Rate Limits](2/document.md)
-- [A.6.1.1.2.2.6.1.3.1.7.4.2.4.3 - Max Exchange Rate](3/document.md)
+- [A.6.1.1.2.2.6.1.3.1.7.4.2.4.1 - Inflow Rate Limits](1/document.md)
+- [A.6.1.1.2.2.6.1.3.1.7.4.2.4.2 - Outflow Rate Limits](2/document.md)
+- [A.6.1.1.2.2.6.1.3.1.7.4.2.4.3 - Swap Rate Limits](3/document.md)
