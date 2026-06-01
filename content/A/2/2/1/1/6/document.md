@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.2.2.1.1.6 - Founder Invokes Prime / Executor Transformation Primitive [Core]
 
-When ready, the Founder Invokes the Prime Transformation or Executor Transformation Primitive to become either a Prime Agent or Executor Agent, respectively.
+When ready, the Founder Invokes the relevant Transformation Primitive — such as the Prime Transformation or Executor Transformation Primitive — to become a specialized Agent sub-type, such as a Prime Agent or Executor Agent.

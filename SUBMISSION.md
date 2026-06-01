@@ -78,8 +78,9 @@ I deliberately did **not** try to fully specify several adjacent areas:
   - I did not encode spreads, buffers, revenue splits, or other numeric parameters of the **Generate Sky Asset Primitive** (**A.0.1.1.61**).
   - I did not restate the entire **Agent Creation Fee** mechanism; I only referenced its existence via **A.2.3.1.2.1.2.5 – Agent Creation Fees** (`content/A/2/3/1/2/1/2/5/document.md`) and noted in **A.6.2.4** / **A.6.2.5** that tokenized Halos are subject to it (including exemptions), deferring actual fee math and edge cases to that Article.
 
-- **Generator Agent artifacts**
+- **Generator Agent artifacts and creation mechanics**
   - I left Generator artifacts as a stub under **A.6.1.3 – List Of Generator Agent Artifacts** (`content/A/6/1/3/document.md`), acknowledging that detailed Generator artifacts will be specified in a future iteration, but avoided drafting them here to keep the focus on Halos and avoid stepping on future work.
+  - Because the taxonomy now names Generator Agents as a Macroagent type, I added a placeholder **A.2.2.4.5 – Generator Transformation Primitive** (`content/A/2/2/4/5/document.md`) alongside the existing Prime and Executor Transformation Primitives, with its formal definition explicitly deferred to a future iteration. This keeps the Genesis Primitives set internally consistent (every named Macroagent has a transformation pathway) without committing to Generator creation mechanics in this slice.
 
 **TLDR:** In short: I aimed to make the Halo slice **comprehensible and well-typed** without trying to solve adjacent design spaces (Proto lifecycle, full Sentinel/Laniakea design, detailed economics), which are better handled as their own edits or NR documents.
 
