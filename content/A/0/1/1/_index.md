@@ -1,7 +1,7 @@
 ---
 type: index
 path: content/A/0/1/1
-childCount: 58
+childCount: 62
 ---
 
 # Contents
@@ -64,3 +64,7 @@ childCount: 58
 - [A.0.1.1.56 - Sky Primitives](56/document.md)
 - [A.0.1.1.57 - Conformance](57/document.md)
 - [A.0.1.1.58 - Independent Governance](58/document.md)
+- [A.0.1.1.59 - Sky Generated Asset](59/document.md)
+- [A.0.1.1.60 - Generate Sky Asset Primitive](60/document.md)
+- [A.0.1.1.61 - Sentinel](61/document.md)
+- [A.0.1.1.62 - Laniakea](62/document.md)
