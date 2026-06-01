@@ -1,14 +1,14 @@
 ---
-id: 23253343-23e3-440f-90c0-43d3437c2098
+id: 7535ee4b-1220-4459-9bdd-2830a611553c
 docNo: A.0.1.1.44
-name: Operational Executor Agent
+name: Generator Agent
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.44 - Operational Executor Agent [Core]
+###### A.0.1.1.44 - Generator Agent [Core]
 
-Operational Executor Agents ("Operational Executors") are specialized Executor Agents tasked with implementing and verifying those elements of a Prime Agent’s strategy that directly interface with the Sky Protocol or shared ecosystem resources. While Prime Agents autonomously set strategic direction, Operational Executors are responsible for operationalizing those activities that modify on-chain or protocol-level state, relying on the relevant Primitive Configuration Documents in the Agent Artifact.
+A Generator Agent is a [Macroagent](08a64545-48f6-4849-b876-bbdba1f74a64) that accesses the Generate Sky Asset Primitive to create and manage a single Sky Generated Asset (such as a stablecoin, pegged asset, or synthetic asset). Its mandate is to manage the financial and technical risk, distribution strategy, and bridge security for that specific Sky Generated Asset within the constraints of Sky Core and the Sky risk framework.
 
-Each Operational Executor Agent must comprise at least one Facilitator and at least one GovOps actor. Facilitators are responsible for interpreting the Atlas and the Agent Artifact and instructing GovOps actors to carry out the corresponding actions. To ensure accountability and mitigate potential risks, Operational Executor Agents must maintain Operational Collateral, which serves as a guarantee to cover losses or damages resulting from negligence or malicious behavior by either Facilitators or GovOps actors.
+Generator Agents are tightly regulated by Sky governance and the [Core Council](5a03a0c4-a47a-409c-9b23-52ac93e63d45). They share a portion of their revenues with Sky in exchange for access to Sky Primitives and for systemic risk backstops, and may in turn deploy capital into strategically relevant [Prime Agents](a8454271-c090-4084-b022-4430e3def93c) and other Generator Agents, as specified in their [Agent Artifacts](8d081c1a-6393-4aaf-8914-8959cdf2fee3).

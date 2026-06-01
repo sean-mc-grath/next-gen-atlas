@@ -1,12 +1,12 @@
 ---
-id: cb66c28b-c05f-4ccc-ad44-f05aacf78b9c
+id: e512e890-629f-450f-a14d-a3ea06a369c0
 docNo: A.0.1.1.53
-name: Conformance
+name: Core Council GovOps
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.53 - Conformance [Core]
+###### A.0.1.1.53 - Core Council GovOps [Core]
 
-Conformance characterizes the state in which a Synome Document accurately operationalizes the principles, rules, and processes specified by the Atlas Documents.
+Core Council GovOps ("Core GovOps") actors are GovOps actors that operate within Core Executor Agents.

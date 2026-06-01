@@ -1,16 +1,14 @@
 ---
-id: ac514975-66ad-4b43-8f76-42cac5ca599d
+id: d9e38978-fd7f-4e6d-98e6-45b2f5d6a3ce
 docNo: A.0.1.1.43
-name: Executor Agent
+name: Microagent
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.43 - Executor Agent [Core]
+###### A.0.1.1.43 - Microagent [Core]
 
-Executor Agents ("Executors") are specialized Agents that implement those elements of a Prime Agent’s activities that directly interface with the Sky Protocol or shared ecosystem resources, leaving Prime Agents free to focus on strategic, business development, and marketing efforts. There are two Executor sub-types: Core Executor Agents ("Core Executor Agents") and Operational Executor Agents ("Operational Executors").
+A Microagent is a Sky Agent whose Agent Artifacts are enveloped inside the Agent Artifacts of a [Macroagent](08a64545-48f6-4849-b876-bbdba1f74a64). Microagents extend Macroagents with specialized functionality, while relying on those Macroagents—and the broader Sky governance framework—for risk limits, capital allocation, and ultimate control of critical parameters.
 
-- Operational Executor Agents handle the day-to-day execution of those portions of a Prime Agent’s strategies that directly interface with the Sky Protocol, strictly following the instructions laid out in each Prime Agent’s Artifact. Prime Agents cannot be active in the Sky Ecosystem unless they have an active "Operational Executor Accord" which codifies their relationship with an Operational Executor. Operational Executors take on the risk of Prime Agents’ outcomes by providing collateralized insurance against losses or liabilities. Operational Executor Agents’ Operational Collateral can also cover losses from negligence or malicious behavior by the Operational Executor in carrying out the Prime Agent’s strategy.
-- Core Executor Agents, on the other hand, oversee the activities of Operational Executors, ensuring that the implementation of Prime Agent strategies aligns with the Atlas.
-- By separating strategy from operations, this division of labor empowers Prime Agents to innovate rapidly and expand their ventures without needing to develop specialized operational expertise, as Operational Executors manage the day-to-day technical implementation under the oversight of Core Executor Agents.
+[A.0.1.1.47 - Halo Agents](e6261608-c225-452a-aca7-6eb7b5ed2d58) and Proto-Agents are Microagents.

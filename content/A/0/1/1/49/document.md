@@ -1,12 +1,12 @@
 ---
-id: e512e890-629f-450f-a14d-a3ea06a369c0
+id: 2a440474-20d1-4703-a57b-35e0cebb881c
 docNo: A.0.1.1.49
-name: Core Council GovOps
+name: Core Council Executor Agent
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.49 - Core Council GovOps [Core]
+###### A.0.1.1.49 - Core Council Executor Agent [Core]
 
-Core Council GovOps ("Core GovOps") actors are GovOps actors that operate within Core Executor Agents.
+Core Council Executor Agents ("Core Executor Agents") are Executor Agents who serve on the Core Council and act as checks on Operational Executor Agents.
