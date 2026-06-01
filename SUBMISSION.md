@@ -201,8 +201,15 @@ I tried to touch **only** the pieces that needed change for Halos to be first-cl
 
 - **A.6.2 – Halo Agents** (`content/A/6/2/document.md`)
   - Added as the governance narrative for Halos: definition/purpose, position in the framework, risk hierarchy, collateralization constraints, lifecycle, and governance interfaces.
+  - The five children (A.6.2.1–A.6.2.5) are typed as **Section** documents, matching the sibling Article A.6.1 (whose children A.6.1.1–A.6.1.3 are Sections). The Atlas validator rejects `Core` documents nested directly under an `Article`, so Section is both convention-correct and required for CI to pass.
 
   **Why:** This is the scoped, agent-level counterpart to the definitional work in A.0.1.1 and the structural work under A.6.1.1.1.
+
+- **Agent-creation pipeline (the load-bearing "only Prime/Executor" assumption)**
+  - Linked the new **A.0.1.1.48 – Proto-Agent** definition from the existing creation/transformation documents that already referenced Proto-Agents in prose: **A.2.2.3.2 – Core GovOps Outputs**, **A.2.2.4.1 – Agent Creation Primitive**, **A.2.2.4.2 – Prime Transformation Primitive**, and their sub-documents.
+  - Generalized the enumeration in **A.2.2.4.2 – Prime Transformation Primitive** from "must first transform into *either a Prime Agent or Executor Agent*" to "must first transform into *a specialized Agent sub-type, such as a Prime Agent or Executor Agent*," so the text no longer implies those are the only two Agent types now that the taxonomy includes Generator (Macroagent) and Halo/Proto (Microagent) types.
+
+  **Why:** This is the clearest place where existing Atlas logic was load-bearing on the assumption that Prime and Executor are the only Agent types. The wording in **A.0.1.1.39 – Agent** was already generalized to "a specific Agent sub-type," so A.2.2.4.2 is brought into line. I deliberately did **not** invent a Generator or Halo Transformation Primitive (Halos are nested Microagents, not created by Proto-Agent transformation), leaving that pipeline to a future edit.
 
 ### Sections I intentionally left alone
 

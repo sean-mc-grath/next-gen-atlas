@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.2.2.4.2.1.2.1 - Prime Transformation Primitive Results In One-Time Creation [Core]
 
-Because the Prime Transformation Primitive is deployed solely to effect the one-time transformation of the [Proto-Agent](10362c8d-5789-4018-baf6-dc1834e1297d), no further management process is needed post-deployment.
+Because the Prime Transformation Primitive is deployed solely to effect the one-time transformation of the [A.0.1.1.48 - Proto-Agent](10362c8d-5789-4018-baf6-dc1834e1297d), no further management process is needed post-deployment.
