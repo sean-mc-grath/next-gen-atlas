@@ -1,12 +1,12 @@
 ---
-id: 73f483b4-f330-49a8-a6d8-59bccb985b5d
+id: 90240e75-6e5f-4a54-8999-ee430cfcf20d
 docNo: A.6.1.1.2.3.4.1.1
-name: Parameters
+name: Spark SubDAO Proxy Policy Changes
 type: Core
 depth: 9
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.4.1.1 - Parameters [Core]
+###### A.6.1.1.2.3.4.1.1 - Spark SubDAO Proxy Policy Changes [Core]
 
-The parameters of Andromeda are defined in [A.3.3.2.7.2.1 - Andromeda](1b153f9f-7c70-4ae1-b76c-ef12f87532c6).
+Changes to Spark SubDAO Proxy management policies are implemented using the Root Edit Primitive.

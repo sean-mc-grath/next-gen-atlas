@@ -1,5 +1,5 @@
 ---
-id: 3d765fcc-06a8-47ba-b510-60b3e306cb04
+id: 05cdc5d1-c73e-4ccd-abe0-dd0a58d0c65c
 docNo: A.6.1.1.6.2.1.1.3.1.1.1
 name: Name
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.1.1.3.1.1.1 - Name [Core]
 
-The name of the Agent is Pattern.
+The name of the Agent is Obex.

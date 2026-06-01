@@ -1,5 +1,5 @@
 ---
-id: 58df0ed3-38f4-489b-8e3b-762731f598b2
+id: f96c5429-a5d5-40cd-b9eb-60fe06d59860
 docNo: A.6.1.1.3.2.2.2.2.1.2.2
 name: Non-Routine Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.2.2.2.1.2.2 - Non-Routine Protocol [Core]
 
-The documents herein define the process for using the Root Edit Primitive to update the Keel Agent Artifact in non-routine conditions.
+The documents herein define the process for using the Root Edit Primitive to update the Grove Agent Artifact in non-routine conditions.

@@ -1,15 +1,15 @@
 ---
-id: 2305ac7b-a8dc-4611-b242-0996d4d22a88
+id: 381c40f3-008e-4541-81c7-6192a186def7
 docNo: A.6.1.1.2.2.6.1.3.1.1.3.2.4.1
-name: Deposit Rate Limits
+name: Inflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.1.3.2.4.1 - Deposit Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.1.1.3.2.4.1 - Inflow Rate Limits [Core]
 
-The deposit rate limits are:
+The inflow rate limits are:
 
-- `maxAmount`: 20,000,000 USDC
-- `slope`: 20,000,000 USDC per day
+- `maxAmount`: 100,000,000 DAI
+- `slope`: 50,000,000 DAI per day

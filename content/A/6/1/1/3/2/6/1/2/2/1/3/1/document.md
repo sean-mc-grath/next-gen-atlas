@@ -1,20 +1,30 @@
 ---
-id: 00a56799-7803-460a-bda3-eab312fc296d
+id: 5aea6114-5e7e-4bb1-86fa-c54135015397
 docNo: A.6.1.1.3.2.6.1.2.2.1.3.1
-name: Remove Compromised Relayer As Freezer
+name: RateLimits Query
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.2.1.3.1 - Remove Compromised Relayer As Freezer [Core]
+###### A.6.1.1.3.2.6.1.2.2.1.3.1 - RateLimits Query [Core]
 
-In the event of a compromised Relayer, the `FREEZER_ROLE` can call the function to `removeRelayer` from the Controller contract. Only an operator with the freezer role can remove a relayer. To do so, they must call the `removeRelayer` function on the Controller contract on mainnet, providing the compromised relayer’s address. Calling this function will carry out the following actions:
+The following code sets out instructions for the operator to query the current `RateLimits` for a specific key:
 
-- The contract will confirm the caller holds the freezer role. If the caller does not have the freezer role, the transaction will revert.
-- The contract will revoke the relayer role from the specified address.
-- The contract will emit a `RelayerRemoved(relayer)` event.
+`Function getRateLimitData(bytes32 key) external override view returns (RateLimitData memory) {
+        return _data[key];
+    }
 
-The function call is as follows:
+    function getCurrentRateLimit(bytes32 key) public override view returns (uint256) {
+        RateLimitData memory d = _data[key];
 
-`function removeRelayer(address relayer) external`
+        // Unlimited rate limit case
+        if (d.maxAmount == type(uint256).max) {
+            return type(uint256).max;
+        }
+
+        return _min(
+            d.slope * (block.timestamp - d.lastUpdated) + d.lastAmount,
+            d.maxAmount
+        );
+    }`

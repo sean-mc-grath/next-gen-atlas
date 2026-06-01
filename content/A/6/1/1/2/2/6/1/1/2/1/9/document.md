@@ -1,12 +1,12 @@
 ---
-id: 040d21e6-c423-45b6-81c0-fc05c1e45bae
+id: e59ca947-aa8d-4ab7-84b1-78422348a2d5
 docNo: A.6.1.1.2.2.6.1.1.2.1.9
-name: Galaxy
+name: Spark Savings V2
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.9 - Galaxy [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.9 - Spark Savings V2 [Core]
 
-The Ethereum Mainnet Instances Directory of the Galaxy Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances Directory of the Spark Savings v2 with `Active` Status are stored herein.

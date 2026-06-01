@@ -1,5 +1,5 @@
 ---
-id: 620c1687-bf39-4e90-a9dd-ab191a66f166
+id: c4f10363-7872-4d71-a8c4-4d5314c78f33
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.2.5
 name: Off-chain Operational Parameters
 type: Core

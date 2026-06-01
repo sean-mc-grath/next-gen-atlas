@@ -1,12 +1,12 @@
 ---
-id: 2cd87922-d450-4cc2-bce5-81c26239a015
+id: d9ff0cd2-8999-4d3d-9670-2c7b49c1fe51
 docNo: A.6.1.1.2.3.2.1
-name: Collateralized Loan Obligation Strategy
+name: SparkLend
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.2.1 - Collateralized Loan Obligation Strategy [Core]
+###### A.6.1.1.2.3.2.1 - SparkLend [Core]
 
-Grove will prioritize Collateralized Loan Obligations (CLOs) as the initial pathway to provide Sky ecosystem with rapid exposure to higher yielding investment-grade credit assets, establishing a scalable model for offchain credit with onchain governance.
+The documents herein define the parameters and operational processes related to SparkLend. Control of SparkLend is being transitioned to Spark.

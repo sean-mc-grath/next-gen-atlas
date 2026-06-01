@@ -1,12 +1,12 @@
 ---
-id: 04952825-fe04-4459-ba45-01b44d21f606
+id: bcc685eb-d28c-4306-8b78-5639b1d31f6b
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.2.4.1
-name: ALM Controller Contract
+name: ALM Controller (ForeignController Unichain) Contract Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.2.4.1 - ALM Controller Contract [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.2.4.1 - ALM Controller (ForeignController Unichain) Contract Address [Core]
 
-The address of the ALM_CONTROLLER contract is: `0x85b0E7F3A7C1aB0E1aDea7dfAaD416D8A6e00f0e`
+The address of the ALM_CONTROLLER (ForeignController) contract is: TBC

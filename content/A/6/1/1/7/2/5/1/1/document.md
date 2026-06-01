@@ -1,5 +1,5 @@
 ---
-id: f3db2774-0ec3-4efd-9da8-0fa6d0fe609b
+id: 076aeee9-3225-4b3e-8d2c-da278c0cb334
 docNo: A.6.1.1.7.2.5.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.5.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Distribution Reward Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Distribution Reward Primitive.

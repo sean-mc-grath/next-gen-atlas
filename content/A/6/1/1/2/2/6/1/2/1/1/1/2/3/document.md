@@ -1,12 +1,12 @@
 ---
-id: 50e8937a-ae76-49ac-8c50-e2ca21270303
+id: de02348b-d300-4b85-b7f9-5546106c5191
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.2.3
-name: Base
+name: Arbitrum
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.2.3 - Base [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.2.3 - Arbitrum [Core]
 
-The documents herein contain the ALM Contract Addresses for the Grove Liquidity Layer on Base.
+This document contains the ALM Contract Addresses for the Spark Liquidity Layer on Arbitrum.

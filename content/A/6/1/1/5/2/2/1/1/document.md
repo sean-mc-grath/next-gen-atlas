@@ -1,5 +1,5 @@
 ---
-id: 4f398e78-1f12-447d-bb28-71cfc4e9ce4c
+id: 8f799c9e-618c-407f-a4a1-899f32d13d52
 docNo: A.6.1.1.5.2.2.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.2.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Obex's usage of the Executor Accord Primitive.
+The documents herein organize all base information relevant to Skybase's usage of the Executor Accord Primitive.

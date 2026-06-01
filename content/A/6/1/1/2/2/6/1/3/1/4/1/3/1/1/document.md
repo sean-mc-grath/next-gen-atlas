@@ -1,5 +1,5 @@
 ---
-id: ba1c514f-026a-4ecd-bb9a-c736cca59728
+id: 7fcbd408-2aef-427f-b88d-d301350bd41b
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.3.1.1
 name: Addresses Of Delegated Signers
 type: Core

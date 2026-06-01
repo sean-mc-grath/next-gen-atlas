@@ -6,4 +6,4 @@ childCount: 1
 
 # Contents
 
-- [A.6.1.1.2.2.2.2.2.1.2.1.5.1 - Short-Term Transitionary Measures](1/document.md)
+- [A.6.1.1.2.2.2.2.2.1.2.1.5.1 - Short Term Transitionary Measures](1/document.md)

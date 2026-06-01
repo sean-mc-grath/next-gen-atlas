@@ -1,12 +1,12 @@
 ---
-id: 62b93c99-8a06-4dad-a95e-96029cb5372a
+id: 8a421648-d732-44c1-8666-bbbb9b7bfff2
 docNo: A.6.1.1.2.3.4.1.2
-name: Operational Process Definition
+name: Preapproved Subdao Proxy Activities
 type: Core
 depth: 9
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.4.1.2 - Operational Process Definition [Core]
+###### A.6.1.1.2.3.4.1.2 - Preapproved Subdao Proxy Activities [Core]
 
-The documents herein define the process for the ongoing management of Andromeda. Future iterations of the Artifact will specify operational processes owned by Grove.
+Dispositions of Spark SubDAO Proxy assets that have already been approved by governance and added to the Spark artifact, including periodic payments and disposal of non-core assets, can continue as planned until a superseding policy change is adopted via the Spark SubDAO Proxy Policy Changes process.

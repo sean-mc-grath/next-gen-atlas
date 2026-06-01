@@ -1,5 +1,5 @@
 ---
-id: 0aee1540-84c6-415e-b297-bfa085b65188
+id: 8c2f1229-9472-4833-8e8b-9d686c5e1ec4
 docNo: A.6.1.1.4.2.5.2.2.1.1.8
 name: Custom Instance Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.2.2.1.1.8 - Custom Instance Parameters [Core]
 
-The documents herein define the custom parameters of the Euler Instance of the Integration Boost Primitive, if any.
+The documents herein define the custom parameters of the Kamino Instance of the Integration Boost Primitive, if any.

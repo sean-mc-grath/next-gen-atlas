@@ -1,12 +1,12 @@
 ---
-id: d0dd4281-e342-43d9-9aa7-41d42ee6279d
+id: eed08bf3-af5a-4cae-ae12-95ef5c6b6798
 docNo: A.6.1.1.3.2.6.1.2.2.1
-name: Ethereum Mainnet
+name: Routine Protocol
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.2.1 - Ethereum Mainnet [Core]
+###### A.6.1.1.3.2.6.1.2.2.1 - Routine Protocol [Core]
 
-The documents herein describe common operational procedures for the Keel Liquidity Layer applicable across multiple Instances on Ethereum Mainnet.
+The documents herein define the protocol for routine ongoing management of the Grove Liquidity Layer and its active Instances.

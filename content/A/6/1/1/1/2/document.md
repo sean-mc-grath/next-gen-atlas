@@ -1,12 +1,12 @@
 ---
-id: 1bc21199-26d0-4cdd-8d66-454ac62204b9
+id: 80dd40fc-9805-4b16-aa28-ba2115d29716
 docNo: A.6.1.1.1.2
-name: Sky Primitives
+name: Halo Token Issuance And Prime Limits
 type: Core
 depth: 6
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.1.2 - Sky Primitives [Core]
+###### A.6.1.1.1.2 - Halo Token Issuance And Prime Limits [Core]
 
-The documents herein implement the Sky Primitives for Spark. See [A.2.2 - Sky Primitives](fcde2604-a138-4c1b-9d9a-14895835c907).
+Prime Agent Artifacts must include, for each enveloped [Halo Agent](e6261608-c225-452a-aca7-6eb7b5ed2d58), the list of Halo tokens issued (if any) and any Prime-specific limits or constraints on holding or using those tokens.

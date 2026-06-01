@@ -1,12 +1,12 @@
 ---
-id: 867b3512-2c21-41e2-81c2-3a442c441a14
+id: 99f4c04b-e531-498a-aeaa-016c7811bf7a
 docNo: A.6.1.1.2.3.5.1
-name: Ecosystem Accord 1
+name: Operational Process Definition
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.5.1 - Ecosystem Accord 1 [Core]
+###### A.6.1.1.2.3.5.1 - Operational Process Definition [Core]
 
-Grove engaged in terms of agreement with the Spark Agent in Ecosystem Accord 1, located in [A.2.8.2.1 - Ecosystem Accord 1: Grove And Spark Agents](9ca40096-937e-431e-af50-9ecd50c0d0a8).
+The documents herein define the process for updating Spark Savings Configuration policies and parameters.

@@ -1,14 +1,15 @@
 ---
-id: 67213d51-ed52-4c6d-96b6-bf0718b935b1
+id: f8a431bd-2d0b-4d60-886c-6e3dac42989e
 docNo: A.6.1.1.2.2.6.1.3.2.2.1.2.4.2
-name: Withdrawal Rate Limits
+name: Outflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.2.2.1.2.4.2 - Withdrawal Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.2.2.1.2.4.2 - Outflow Rate Limits [Core]
 
-The withdrawal rate limits are:
+The outflow rate limits are:
 
-- `maxAmount`: N/A - swaps only
+- `maxAmount`: 0
+- `slope`: 5,000,000 fsUSDS per day

@@ -1,12 +1,12 @@
 ---
-id: 14c653d1-6667-47c3-bea4-8bb8553bf7b9
+id: 52565140-229d-42b4-9284-905b858dee6c
 docNo: A.6.1.1.2.2.6.1.3.3
-name: Base
+name: Arbitrum
 type: Core
 depth: 10
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.3 - Base [Core]
+###### A.6.1.1.2.2.6.1.3.3 - Arbitrum [Core]
 
-The Base Instances of the Grove Liquidity Layer with `Active` Status are stored herein and are organized by target protocol.
+The Arbitrum Instances of the Spark Liquidity Layer with `Active` Status are stored herein.

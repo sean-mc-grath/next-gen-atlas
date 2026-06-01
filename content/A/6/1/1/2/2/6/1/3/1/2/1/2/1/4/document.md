@@ -1,5 +1,5 @@
 ---
-id: bab41936-4c79-4821-9e78-fd1dd6511003
+id: 81123b01-7547-4ad2-a82c-7ee496445525
 docNo: A.6.1.1.2.2.6.1.3.1.2.1.2.1.4
 name: Token
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.2.1.2.1.4 - Token [Core]
 
-BUIDL-I
+aEthLidoUSDS

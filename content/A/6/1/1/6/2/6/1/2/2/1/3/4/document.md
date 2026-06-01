@@ -1,5 +1,5 @@
 ---
-id: b0afea3f-9ff2-4462-a771-522b1256a343
+id: f629bb8f-afb2-4bfc-b7fa-3f5fbaa2c2f9
 docNo: A.6.1.1.6.2.6.1.2.2.1.3.4
 name: Get Current Rate Limit
 type: Core

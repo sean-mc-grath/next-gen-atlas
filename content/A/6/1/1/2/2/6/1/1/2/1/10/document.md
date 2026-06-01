@@ -1,12 +1,12 @@
 ---
-id: 39843e09-154a-497a-8824-54393ea15915
+id: 8e76f6f2-fb70-4ed0-a78d-7be94244819b
 docNo: A.6.1.1.2.2.6.1.1.2.1.10
-name: Ripple
+name: Arkis
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.10 - Ripple [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.10 - Arkis [Core]
 
-The Ethereum Mainnet Instances Directory of the Ripple Protocol with `Active` Status are stored herein.
+The Ethereum Instances Directory of the Arkis Protocol with `Active` Status are stored herein.

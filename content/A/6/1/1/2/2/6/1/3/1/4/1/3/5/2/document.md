@@ -1,5 +1,5 @@
 ---
-id: e2f185ba-fcd6-4f46-8f7e-9b09c111a75d
+id: b31a63bd-3163-4d8d-8fe1-c664a989a709
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.3.5.2
 name: Enforce Rate Limit
 type: Core

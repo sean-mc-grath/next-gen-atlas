@@ -1,5 +1,5 @@
 ---
-id: ac8bef79-4452-44b6-8947-2dff84da918e
+id: cbf426ee-7754-49c5-9040-b29a5126da39
 docNo: A.6.1.1.6.2.6.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Pattern's usage of the Allocation System Primitive.
+The documents herein organize all base information relevant to Obex's usage of the Obex Liquidity Layer.

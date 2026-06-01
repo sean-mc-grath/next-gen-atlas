@@ -1,5 +1,5 @@
 ---
-id: 1500fd24-2b7e-4a1c-8725-84e7a0b8adc5
+id: faa7bb3a-7e8c-4f00-b80f-fb10862d943c
 docNo: A.6.1.1.2.2.6.1.2.1.1.2.1.2
 name: Debt Ceiling Buffer Ethereum Mainnet
 type: Core
@@ -11,4 +11,4 @@ childType: sections_and_primary_docs
 
 The buffer amount below the maximum debt ceiling is (`DEBT_CEILING_BUFFER`):
 
-- This parameter will be specified in a future iteration of the Grove Artifact.
+- 10,000

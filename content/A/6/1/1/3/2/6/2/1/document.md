@@ -1,5 +1,5 @@
 ---
-id: fcf3b78f-e91e-45f2-bd4d-14c1a3a97c1f
+id: 6f06a403-ef8f-4623-ad1f-f136adf3a533
 docNo: A.6.1.1.3.2.6.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Keel’s usage of the Junior Risk Capital Rental Primitive.
+The documents herein organize all base information relevant to Grove’s usage of the Junior Risk Capital Rental Primitive.

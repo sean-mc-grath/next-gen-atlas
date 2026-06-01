@@ -1,5 +1,5 @@
 ---
-id: db5c25d7-e55c-46cf-adcd-2f96c65eccb1
+id: 0dc97998-edff-4d53-8251-18301991dd56
 docNo: A.6.1.1.2.2.6.1.3.1.7.2.2.1.4
 name: Token
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.7.2.2.1.4 - Token [Core]
 
-grove-bbqAUSD
+crv2pool

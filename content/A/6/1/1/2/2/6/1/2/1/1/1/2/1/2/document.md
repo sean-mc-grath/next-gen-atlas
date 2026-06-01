@@ -1,12 +1,12 @@
 ---
-id: 997b6fab-58d4-4d6d-a67f-f857585e829e
+id: d7b0b6a0-0bac-4169-a006-4a375cba4baa
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.2.1.2
-name: ALM Controller Contract Version
+name: ALM Controller (MainnetController) Contract Version
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.2.1.2 - ALM Controller Contract Version [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.2.1.2 - ALM Controller (MainnetController) Contract Version [Core]
 
-The ALM_CONTROLLER contract version is: 1.8.0.
+The ALM_CONTROLLER (MainnetController) contract version is: 1.10

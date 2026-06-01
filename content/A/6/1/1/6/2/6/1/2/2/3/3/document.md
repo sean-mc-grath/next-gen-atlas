@@ -1,5 +1,5 @@
 ---
-id: c30c1496-0eff-4199-9c18-eb72fb486aac
+id: b93c5c32-642e-4448-9ebd-c908dee78d46
 docNo: A.6.1.1.6.2.6.1.2.2.3.3
 name: USDC To USDS Swap Action
 type: Core
@@ -15,4 +15,4 @@ The function call is as follows:
 
 `function swapUSDCToUSDS(usdc.balanceOf(address(proxy))`
 
-For more detailed instructions on the code to execute this see [A.6.1.1.6.2.6.1.2.2.1.2.1.2.6.2 - Swap USDC To USDS](9d828ddb-7423-41cb-9adb-43d4cbfc9d38).
+For more detailed instructions on the code to execute this see [A.6.1.1.6.2.6.1.2.2.1.2.1.2.6.2 - Swap USDC To USDS](17675b49-5767-47de-9ccf-e324b7bebec5).

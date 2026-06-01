@@ -1,5 +1,5 @@
 ---
-id: b39a0a7f-3e17-4cf3-b96b-a1a16fc8ae13
+id: 4abd5303-6a27-42fa-8128-4c6e65f089ee
 docNo: A.6.1.1.2.2.6.1.3.3.1.1.2.4.2
 name: Outflow Rate Limits
 type: Core
@@ -11,4 +11,5 @@ childType: sections_and_primary_docs
 
 The outflow rate limits are:
 
-- `maxAmount`: Unlimited
+- `maxAmount`: 0
+- `slope`: 5,000,000 fsUSDS per day

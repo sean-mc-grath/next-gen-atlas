@@ -1,12 +1,15 @@
 ---
-id: 6e47f3c2-1f5a-4d78-a74e-333e705a2257
+id: a591104c-5c45-480d-a156-46484440e163
 docNo: A.6.1.1.3.2.6.1.2.1.1.3.1.3
-name: Ethereum Mainnet USDC
+name: USDS For USDC Swap Maximum
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.3.1.3 - Ethereum Mainnet USDC [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.3.1.3 - USDS For USDC Swap Maximum [Core]
 
-The maximum amount that can be transferred and sent to Keel’s Solana ALM Controller for USDC are located herein.
+The maximum amount of USDS that can be swapped for USDC by the Grove Liquidity Layer in the Mainnet PSM (`LIMIT_USDS_TO_USDC`) is specified in the document herein.
+
+- `maxAmount`: 500,000,000 USDC
+- `slope`: 500,000,000 USDC per day

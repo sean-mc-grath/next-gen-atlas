@@ -1,5 +1,5 @@
 ---
-id: 0eb68a5c-3785-4085-8385-b052711f903c
+id: b270e04d-49ba-43a2-a2c6-dd2d9bd053bc
 docNo: A.6.1.1.4.2.1.2.1.5.1.2
 name: Suspended Instances
 type: Core

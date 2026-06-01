@@ -1,5 +1,5 @@
 ---
-id: 98191437-0437-496e-ad1a-ceeba3c3b9d6
+id: e6722e78-c1f5-4704-8bf9-2b3ab7c1b811
 docNo: A.6.1.1.2.2.6.1.3.1.4.1.3.1
 name: Delegated Signers
 type: Core

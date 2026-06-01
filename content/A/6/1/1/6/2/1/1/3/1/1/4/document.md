@@ -1,5 +1,5 @@
 ---
-id: f2c22b75-0ad5-4a7c-be15-d7f0a2d0af89
+id: d77522ec-0987-474d-87b3-9377f107c9b6
 docNo: A.6.1.1.6.2.1.1.3.1.1.4
 name: Genesis Account
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.1.1.3.1.1.4 - Genesis Account [Core]
 
-The address of Pattern's Genesis Account will be specified in a future iteration of the Pattern Artifact.
+The address of Obex’s Genesis Account will be specified in a future iteration of the Obex Artifact.

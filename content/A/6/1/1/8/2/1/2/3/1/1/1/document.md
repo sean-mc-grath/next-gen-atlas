@@ -1,5 +1,5 @@
 ---
-id: f74decac-e2cb-4403-b3d7-4cef0a90fda5
+id: 69d7e31c-36a7-4500-9e78-25167e2f38ab
 docNo: A.6.1.1.8.2.1.2.3.1.1.1
 name: Agent Type
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.2.3.1.1.1 - Agent Type [Core]
 
-Launch Agent 7 is a Prime Agent.
+Osero is a Prime Agent.

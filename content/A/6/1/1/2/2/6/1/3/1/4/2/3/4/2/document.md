@@ -1,5 +1,5 @@
 ---
-id: 44ee472f-41a4-45c4-bce3-34615132e5d2
+id: cef1fead-17d3-40ce-9d2f-ea592e51541d
 docNo: A.6.1.1.2.2.6.1.3.1.4.2.3.4.2
 name: sUSDe Unstake Action
 type: Core
@@ -13,4 +13,4 @@ The operator must unstake sUSDe using the following action:
 
 `mainnetController.unstakeSUSDe()
 `
-For more detailed instructions on the code to execute this, see [A.6.1.1.2.2.6.1.3.1.4.2.3.3 - Unstake sUSDe And Return It To ALM Proxy](bf0523c1-7c37-4073-b565-202c5497825c).
+For more detailed instructions on the code to execute this, see [A.6.1.1.2.2.6.1.3.1.4.2.3.3 - Unstake sUSDe And Return It To ALM Proxy](57337963-ea1f-4d12-bea4-127896d35855).

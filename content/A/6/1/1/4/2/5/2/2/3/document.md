@@ -1,12 +1,12 @@
 ---
-id: c18c7746-de43-492b-82f6-6735effa6508
+id: 1cdf853f-2d68-4ced-b143-1f3f2f7bbe70
 docNo: A.6.1.1.4.2.5.2.2.3
-name: Morpho Instance Configuration Document
+name: Save Instance Configuration Document
 type: Core
 depth: 10
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.4.2.5.2.2.3 - Morpho Instance Configuration Document [Core]
+###### A.6.1.1.4.2.5.2.2.3 - Save Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Morpho Integration Boost Primitive Instance.
+The documents herein contain the Instance Configuration Document for the Save Integration Boost Primitive Instance.

@@ -1,5 +1,5 @@
 ---
-id: 872a4857-504e-4795-9cbd-2a6f159c1ea0
+id: 6078cd75-f853-49ca-b7c1-eaab4ef85c72
 docNo: A.6.1.1.6.2.6.1.2.2.3.2.1
 name: ERC-4626 Withdrawal Action
 type: Core
@@ -15,4 +15,4 @@ The function call is as follows:
 
 `function redeemERC4626(address(token), token.balanceOf(address(proxy)))`
 
-For more detailed instructions on the code to execute this, see [A.6.1.1.6.2.6.1.2.2.1.2.1.2.3 - ERC-4626 Functions](c6dcf1ab-9861-4a41-9edc-ea79b705db2d).
+For more detailed instructions on the code to execute this, see [A.6.1.1.6.2.6.1.2.2.1.2.1.2.3 - ERC-4626 Functions](08d30ec2-c343-4176-aded-dce33e76d69c).

@@ -1,5 +1,5 @@
 ---
-id: 3b49838e-423b-42b9-b3ca-2365e8e68725
+id: 438042de-d556-4ea6-9434-cb4c070481d0
 docNo: A.6.1.1.2.2.6.1.2.2.1.5
 name: Upgrading Controller
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.2.2.1.5 - Upgrading Controller [Core]
 
-The documents herein define the process for deploying new Controller contracts. This process will be specified in a future iteration of the Grove Artifact.
+The documents herein define the process for deploying new Controller contracts. This process will be specified in a future iteration of the Spark Artifact.

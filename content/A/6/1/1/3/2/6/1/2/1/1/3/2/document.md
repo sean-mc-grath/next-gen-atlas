@@ -1,12 +1,12 @@
 ---
-id: 2edb355c-541a-44e3-bcf0-87227fad560b
+id: b650c48d-435c-47e3-ac33-17ab6187492f
 docNo: A.6.1.1.3.2.6.1.2.1.1.3.2
-name: Solana
+name: Avalanche
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.3.2 - Solana [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.3.2 - Avalanche [Core]
 
-The documents herein list the current rate limits for the Keel Liquidity Layer on Solana.
+The documents herein list the current `RateLimits` for the Grove Liquidity Layer on Avalanche.

@@ -1,12 +1,12 @@
 ---
-id: af1d1da5-f77a-4d0e-9fa8-0fef4851eafc
+id: dbd3aa7c-2a3d-4a2e-be5d-5d25a5d9dd8e
 docNo: A.6.1.1.2.2.6.1.1.2.2.1.1
-name: Avalanche - Centrifuge JTRSY Instance Configuration Document Location
+name: Base - Morpho Blue USDC ERC4626 Vault Instance Configuration Document Location
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.2.1.1 - Avalanche - Centrifuge JTRSY Instance Configuration Document Location [Core]
+###### A.6.1.1.2.2.6.1.1.2.2.1.1 - Base - Morpho Blue USDC ERC4626 Vault Instance Configuration Document Location [Core]
 
-This Instance’s associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.2.1.1 - Avalanche - Centrifuge JTRSY Instance Configuration Document](3c731296-858a-4c27-a5cc-6b7ff208cc16).
+This Instance’s associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.2.1.1 - Base - Morpho Blue USDC ERC4626 Vault Instance Configuration Document](97c54a67-ff3d-40c3-a702-f632f2b81f2d).

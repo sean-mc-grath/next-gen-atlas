@@ -1,12 +1,12 @@
 ---
-id: f9f790ea-f67a-4e6d-ac63-cd84faf208fe
+id: 89fc9a0a-0407-463e-8f45-2b2ca6e1d832
 docNo: A.6.1.1.2.2.6.1.3.2.1.1.2.2.1
-name: Token Address
+name: Token Address (ERC4626 Vault)
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.2.1.1.2.2.1 - Token Address [Core]
+###### A.6.1.1.2.2.6.1.3.2.1.1.2.2.1 - Token Address (ERC4626 Vault) [Core]
 
-`0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A`
+`0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A`

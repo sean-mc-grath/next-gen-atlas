@@ -1,5 +1,5 @@
 ---
-id: 82aa705b-b3eb-42e1-9a81-e4dfe5d721ad
+id: 79147a0f-b07e-4137-a23c-a7ffbbf8b532
 docNo: A.6.1.1.2.2.2.1.2.1
 name: Amatsu Instance Configuration Document
 type: Core

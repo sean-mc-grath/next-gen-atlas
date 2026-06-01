@@ -1,12 +1,12 @@
 ---
-id: 741efad1-425e-4290-a398-2923e4f88537
+id: 5ce2cf40-bc6f-48fe-894b-aca0c6a8ecec
 docNo: A.6.1.1.2.2.6.1.3.2.2.1.2.2.1
-name: Underlying Asset Address (USDS)
+name: Token Address (ERC4626 Vault)
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.2.2.1.2.2.1 - Underlying Asset Address (USDS) [Core]
+###### A.6.1.1.2.2.6.1.3.2.2.1.2.2.1 - Token Address (ERC4626 Vault) [Core]
 
-`0x86Ff09db814ac346a7C6FE2Cd648F27706D1D470`
+`0xf62e339f21d8018940f188F6987Bcdf02A849619`

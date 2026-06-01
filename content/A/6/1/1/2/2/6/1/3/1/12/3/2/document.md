@@ -1,5 +1,5 @@
 ---
-id: 2db140cc-9052-4ba6-bd8d-3662c4257d9e
+id: d60d90db-4847-4c3a-b0c1-337cb0364350
 docNo: A.6.1.1.2.2.6.1.3.1.12.3.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.12.3.2 - Parameters [Core]
 
-The documents herein define the parameters of the Uniswap v3 AUSD/USDC LP Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Transfer PYUSD to Paxos (receive USDG) of the Allocation System Primitive.

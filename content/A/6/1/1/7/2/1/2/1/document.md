@@ -1,5 +1,5 @@
 ---
-id: ccbf1b06-7d52-4355-8780-2618c68f1bfe
+id: 73321a03-f62c-4aaf-84de-ee79bfd55662
 docNo: A.6.1.1.7.2.1.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.1.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Prime Transformation Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Prime Transformation Primitive.

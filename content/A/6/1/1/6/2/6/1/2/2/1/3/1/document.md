@@ -1,5 +1,5 @@
 ---
-id: f46cbe06-e7df-4a92-8972-cd21bf9be2c5
+id: 716b493e-d102-47c8-8f87-bcb1c809c8ee
 docNo: A.6.1.1.6.2.6.1.2.2.1.3.1
 name: Get Rate Limit Data
 type: Core

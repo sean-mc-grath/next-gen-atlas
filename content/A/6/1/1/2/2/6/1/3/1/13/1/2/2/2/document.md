@@ -1,12 +1,12 @@
 ---
-id: 166f7435-79ad-4e4c-be93-85ca69ec63ec
+id: 5396d5c2-6f79-4ab2-8978-61dc6209a00c
 docNo: A.6.1.1.2.2.6.1.3.1.13.1.2.2.2
-name: Underlying Asset Address
+name: Destination Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.13.1.2.2.2 - Underlying Asset Address [Core]
+###### A.6.1.1.2.2.6.1.3.1.13.1.2.2.2 - Destination Address [Core]
 
-`0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48`
+`0x49506C3Aa028693458d6eE816b2EC28522946872`

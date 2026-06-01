@@ -1,5 +1,5 @@
 ---
-id: 4ee9a639-8b91-4bd9-8993-9efe3117524a
+id: 8666d408-4c3a-4646-8cbf-d0752167dcd6
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.6
 name: PSM Functions
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.2.1.2.1.2.6 - PSM Functions [Core]
 
-The documents herein define the swap operations performed by the Pattern Liquidity Layer in the PSM.
+The documents herein define the swap operations performed by the Obex Liquidity Layer in the PSM.

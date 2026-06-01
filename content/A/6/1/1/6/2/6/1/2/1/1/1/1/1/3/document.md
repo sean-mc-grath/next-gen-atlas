@@ -1,5 +1,5 @@
 ---
-id: 91f97de8-17f8-44e8-a0ec-e140d2ecab30
+id: 850fc16c-496e-4148-a86a-d2d2e5f03685
 docNo: A.6.1.1.6.2.6.1.2.1.1.1.1.1.3
 name: Allocator Registry Contract
 type: Core

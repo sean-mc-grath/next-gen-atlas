@@ -1,12 +1,12 @@
 ---
-id: bf81a7dd-9483-48e4-b489-cb3cb2e61b37
+id: 955c8db9-7bd7-4e49-b23c-7b482c84ca97
 docNo: A.6.1.1.3.2.6.1.2.2.1.1.3
-name: Rate Limit Management
+name: ALM Controller Role
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.2.1.1.3 - Rate Limit Management [Core]
+###### A.6.1.1.3.2.6.1.2.2.1.1.3 - ALM Controller Role [Core]
 
-The documents herein define the protocol for querying, setting, and adjusting `RateLimits` for Instances using their `RateLimitID`s. The Rate Limits must be maintained in line with Keel’s strategy, market conditions, and security considerations.
+The `ALM_CONTROLLER_ROLE` is the address of the role that can call the `call` functions on the `ALMProxy` contract and update `RateLimits` contract. It includes the `MainnetController` and `ForeignController` contracts. ALM Controller contracts are accessed and modified via the Relayer Role.

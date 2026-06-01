@@ -1,12 +1,12 @@
 ---
-id: 20b30bc3-c3e8-4098-bdf2-ca288e8bee1a
+id: 0793bcc1-4b69-437d-bbf3-38e1ac6d29b6
 docNo: A.6.1.1.2.2.6.1.1.2.1.13.1
-name: Ethereum Mainnet - Maple syrupUSDC Instance Configuration Document Location
+name: Ethereum Mainnet - Anchorage USAT Instance Configuration Document Location
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.13.1 - Ethereum Mainnet - Maple syrupUSDC Instance Configuration Document Location [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.13.1 - Ethereum Mainnet - Anchorage USAT Instance Configuration Document Location [Core]
 
-This Instance's associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.1.13.1 - Ethereum Mainnet - Maple syrupUSDC Instance Configuration Document](7502f64c-3276-478e-8f98-53a2377ca1a2).
+This Instance's associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.1.13.1 - Ethereum Mainnet - Anchorage USAT Instance Configuration Document](8048e396-7bb4-4541-a68f-6dd7ec0a6015).

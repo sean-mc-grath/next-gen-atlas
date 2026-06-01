@@ -1,12 +1,12 @@
 ---
-id: 49fe9982-412f-4da4-b81d-92786d3a7709
+id: 69b65ee6-746a-4d78-8d60-ec40ca2bb6b4
 docNo: A.6.1.1.5.2.3.1.2.1.1.1
-name: Term
+name: Terms
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.5.2.3.1.2.1.1.1 - Term [Core]
+###### A.6.1.1.5.2.3.1.2.1.1.1 - Terms [Core]
 
-Obex will pay 0.50% of its market capitalization per year in USDS.
+Skybase will pay 0.50% of its market capitalization per year in USDS.

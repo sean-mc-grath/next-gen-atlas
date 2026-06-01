@@ -1,5 +1,5 @@
 ---
-id: 73321a03-f62c-4aaf-84de-ee79bfd55662
+id: b9e7cf68-feff-4a8b-9126-bc44bf3e7283
 docNo: A.6.1.1.6.2.1.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.1.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Pattern's usage of the Prime Transformation Primitive.
+The documents herein organize all base information relevant to Obex's usage of the Prime Transformation Primitive.

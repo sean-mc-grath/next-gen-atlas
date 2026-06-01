@@ -1,5 +1,5 @@
 ---
-id: 89b060bd-1026-46ec-ab32-d032edb58f83
+id: 993bbc35-1692-4c1b-87b2-de5997e90bf5
 docNo: A.6.1.1.6.2.6.1.2.2.1.3.2
 name: Set Rate Limit Data
 type: Core

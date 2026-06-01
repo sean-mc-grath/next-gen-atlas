@@ -1,12 +1,12 @@
 ---
-id: 4ce2bc6f-e280-4056-9d0c-d640a722fadb
+id: 5b60c33b-7a48-43a7-bb78-0cd2e03f0079
 docNo: A.6.1.1.3.2.6.1.3.1.1.3.2.3
-name: Rate Limit Information
+name: Rate Limit IDs
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.1.3.2.3 - Rate Limit Information [Core]
+###### A.6.1.1.3.2.6.1.3.1.1.3.2.3 - Rate Limit IDs [Core]
 
-The specific `Integration` account contains the rate limit information to control inflows into the Kamino USDT Instance of the Allocation System Primitive.
+The specific `RateLimitID`(s) for this conduit’s inflow and outflow are defined in the subdocuments herein.

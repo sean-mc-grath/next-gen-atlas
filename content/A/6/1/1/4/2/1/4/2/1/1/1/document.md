@@ -1,5 +1,5 @@
 ---
-id: 1b5f18b6-ca5f-4c2a-be90-a8e270643e9b
+id: 60029c9c-4fcd-4bbe-b918-9e7bcb5dfdbb
 docNo: A.6.1.1.4.2.1.4.2.1.1.1
 name: Token Name
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.1.4.2.1.1.1 - Token Name [Core]
 
-The name of Skybase's token is Skybase.
+The name of Keel’s token is Keel.

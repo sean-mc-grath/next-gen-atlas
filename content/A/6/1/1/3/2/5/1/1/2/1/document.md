@@ -1,12 +1,12 @@
 ---
-id: cf007f6d-17a1-40fd-be3e-663b815dc8fc
+id: 974d281c-9ad2-4531-9c39-fb44281b3ed0
 docNo: A.6.1.1.3.2.5.1.1.2.1
-name: Solana Bridge Instance Configuration Document Location
+name: Grove Finance Instance Configuration Document Location
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.5.1.1.2.1 - Solana Bridge Instance Configuration Document Location [Core]
+###### A.6.1.1.3.2.5.1.1.2.1 - Grove Finance Instance Configuration Document Location [Core]
 
-This Instance's associated Instance Configuration Document is located at [A.6.1.1.3.2.5.1.2.1 - Solana Bridge Instance Configuration Document](97421aa5-eebe-49e4-8da8-dd5cfe2f49c4).
+This Instance's associated Instance Configuration Document is located at [A.6.1.1.3.2.5.1.2.1 - Grove Finance Instance Configuration Document](006f040b-63e1-4847-abd5-9dce1190706b).

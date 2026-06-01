@@ -1,5 +1,5 @@
 ---
-id: b64940f7-ae82-49c7-84ae-0019aff1d7f7
+id: 4cd1c7c9-f246-40b1-a31c-4512638f7fd3
 docNo: A.6.1.1.6.2.6.1.2.1.1.1.1
 name: Allocator Contract Addresses
 type: Core

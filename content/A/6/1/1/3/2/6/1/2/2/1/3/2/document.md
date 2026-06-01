@@ -1,12 +1,38 @@
 ---
-id: 23a36776-11e0-4c65-a25d-500a44e14eb4
+id: aec1d10f-a5df-48d4-bbea-1b02c279c919
 docNo: A.6.1.1.3.2.6.1.2.2.1.3.2
-name: Redeem All Ethereum Mainnet Positions
+name: Set RateLimit
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.2.1.3.2 - Redeem All Ethereum Mainnet Positions [Core]
+###### A.6.1.1.3.2.6.1.2.2.1.3.2 - Set RateLimit [Core]
 
-The documents herein define the actions that should be performed by an operator if there is a need to recover the liquidity from Mainnet Protocols and centralize it in the Mainnet Keel ALM Proxy.
+The following code sets out instructions for the operator to set the `RateLimit` for a specific key:
+
+`function setRateLimitData(
+        bytes32 key,
+        uint256 maxAmount,
+        uint256 slope,
+        uint256 lastAmount,
+        uint256 lastUpdated
+    )
+        public override onlyRole(DEFAULT_ADMIN_ROLE)
+    {
+        require(lastAmount  <= maxAmount,       "RateLimits/invalid-lastAmount");
+        require(lastUpdated <= block.timestamp, "RateLimits/invalid-lastUpdated");
+
+        _data[key] = RateLimitData({
+            maxAmount:   maxAmount,
+            slope:       slope,
+            lastAmount:  lastAmount,
+            lastUpdated: lastUpdated
+        });
+
+        emit RateLimitDataSet(key, maxAmount, slope, lastAmount, lastUpdated);
+    }
+
+    function setRateLimitData(bytes32 key, uint256 maxAmount, uint256 slope) external override {
+        setRateLimitData(key, maxAmount, slope, maxAmount, block.timestamp);
+    }`

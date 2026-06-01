@@ -1,5 +1,5 @@
 ---
-id: 221c015b-f830-48d0-9c0e-dbdfcf0865bf
+id: a59789f1-bcad-42a3-98ba-bb9c0aa92b0d
 docNo: A.6.1.1.2.2.6.1.3.1.9.1.2.2
 name: Contract Addresses
 type: Core

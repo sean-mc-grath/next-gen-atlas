@@ -1,5 +1,5 @@
 ---
-id: e4bc88c1-a8b6-428a-aafd-2b03e7cb85ae
+id: 5611a719-923b-4d95-b246-5bc788d55307
 docNo: A.6.1.1.6.2.6.1.2.3
 name: Allocation Strategy
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.3 - Allocation Strategy [Core]
 
-In the future, additional logic will be added herein regarding the strategy by which capital is allocated between different Instances of the Pattern Liquidity Layer.
+In the future, additional logic will be added herein regarding the strategy by which capital is allocated between different Instances of the Obex Liquidity Layer.

@@ -1,5 +1,5 @@
 ---
-id: b08f57de-599d-46e4-aabe-64b1db5a38ad
+id: 0ec7c5be-32a2-4d3b-b856-71face6612a9
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.6.1.1
 name: Call swapUSDSToUSDC Function
 type: Core

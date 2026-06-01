@@ -1,12 +1,12 @@
 ---
-id: 725952f6-ed88-4869-8105-c43de12bb9a5
+id: 6c937922-9c12-4d89-a987-8cca6bc27ebc
 docNo: A.6.1.1.3.2.6.1.2.1.1.1.2.2.2
-name: Solana ALM Controller State
+name: ALM Controller Contract Version
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.1.2.2.2 - Solana ALM Controller State [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.1.2.2.2 - ALM Controller Contract Version [Core]
 
-The address of the state instance configured for Keel is: `EeobZr57FSmNvw8Hs719iULJNqv3XLrTB5uPezvC2ND3`.
+The ALM_CONTROLLER contract version is: 1.8.0.

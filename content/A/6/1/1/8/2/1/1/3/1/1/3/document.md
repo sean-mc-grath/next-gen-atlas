@@ -1,5 +1,5 @@
 ---
-id: fa741bad-9966-4ff7-8300-238d1c58df9a
+id: d3499ce6-c517-49f7-a07e-b321c390470d
 docNo: A.6.1.1.8.2.1.1.3.1.1.3
 name: StarGuard Contract
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.1.3.1.1.3 - StarGuard Contract [Core]
 
-The address of Launch Agent 7's StarGuard contract on the Ethereum Mainnet is `0xB36e88c02E4619Ef34C0Db76C5BCb6655747FB28`.
+The address of Osero's StarGuard contract on the Ethereum Mainnet is `0xBfA2D1dA838E55A74c61699e164cDFF8cF0cF0e2`.

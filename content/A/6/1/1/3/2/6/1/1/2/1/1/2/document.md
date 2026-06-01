@@ -1,12 +1,12 @@
 ---
-id: 202b96d7-36d0-4b5b-b885-dfe314464d3d
+id: d1c474c6-9071-4110-90d6-36d81e73e98e
 docNo: A.6.1.1.3.2.6.1.1.2.1.1.2
-name: Solana - Kamino USDC Instance Configuration Document Location
+name: Ethereum Mainnet - Centrifuge JAAA Instance Configuration Document Location
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.1.2.1.1.2 - Solana - Kamino USDC Instance Configuration Document Location [Core]
+###### A.6.1.1.3.2.6.1.1.2.1.1.2 - Ethereum Mainnet - Centrifuge JAAA Instance Configuration Document Location [Core]
 
-This Instance’s associated Instance Configuration Document is located at [A.6.1.1.3.2.6.1.3.1.1.2 - Solana - Kamino USDC Instance Configuration Document](2510c2ba-c304-478f-84b1-a421e62de8b4)
+This Instance’s associated Instance Configuration Document is located at [A.6.1.1.3.2.6.1.3.1.1.2 - Ethereum Mainnet - Centrifuge JAAA Instance Configuration Document](10f4641c-2ed1-4430-ae71-1e830e779269).

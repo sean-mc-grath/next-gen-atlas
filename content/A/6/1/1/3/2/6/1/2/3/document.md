@@ -1,5 +1,5 @@
 ---
-id: cebfc91d-1b4e-49ca-9e4d-4c9b7043db81
+id: 0806984d-5799-4c19-8eda-d355bcc43524
 docNo: A.6.1.1.3.2.6.1.2.3
 name: Allocation Strategy
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.2.3 - Allocation Strategy [Core]
 
-In the future, additional logic will be added herein regarding the strategy by which capital is allocated between different Instances of the Keel Liquidity Layer.
+In the future, additional logic will be added herein regarding the strategy by which capital is allocated between different Instances of the Grove Liquidity Layer.

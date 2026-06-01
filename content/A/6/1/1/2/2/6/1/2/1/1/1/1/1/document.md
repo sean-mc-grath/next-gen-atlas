@@ -1,12 +1,12 @@
 ---
-id: f8956105-115a-4873-abb8-68458cbacfcf
+id: 86a5b9c5-8d49-4538-9995-c8c1200f5942
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.1.1
-name: Ethereum Mainnet
+name: Allocator Buffer Contract
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.1.1 - Ethereum Mainnet [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.1.1 - Allocator Buffer Contract [Core]
 
-The documents herein contain the Allocator Contract Addresses on the Ethereum Mainnet.
+The address of the ALLOCATOR_BUFFER contract is: `0xc395D150e71378B47A1b8E9de0c1a83b75a08324`

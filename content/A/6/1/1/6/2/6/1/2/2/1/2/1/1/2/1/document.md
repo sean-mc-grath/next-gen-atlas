@@ -1,5 +1,5 @@
 ---
-id: 0bc584c7-53da-47ee-9e7f-7514076e5fb0
+id: 54c019d8-ae0a-4c1c-9f05-1192d7b1cefb
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.1.2.1
 name: Call setLayerZeroRecipient Function
 type: Core

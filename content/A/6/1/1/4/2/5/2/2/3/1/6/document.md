@@ -1,5 +1,5 @@
 ---
-id: d6f989ca-e897-499c-8ccf-1db864470ad0
+id: 5cf367ae-6302-488e-89d9-8d05fd447725
 docNo: A.6.1.1.4.2.5.2.2.3.1.6
 name: Integration Boost Data Submission Responsible Actor
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.2.2.3.1.6 - Integration Boost Data Submission Responsible Actor [Core]
 
-The Data Submission Responsible Actor is Core Council Risk Advisor.
+The Data Submission Responsible Actor is the Core Council Risk Advisor.

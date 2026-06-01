@@ -1,5 +1,5 @@
 ---
-id: 9703d0ef-84c9-445b-a2b4-bfe9d24363f0
+id: 510817f8-7ce6-4b32-b598-186610760525
 docNo: A.6.1.1.6.2.1.1.3.1.1.2
 name: SubProxy Account
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.1.1.3.1.1.2 - SubProxy Account [Core]
 
-The address of Pattern's SubProxy Account on the Ethereum Mainnet is `0xbC8959Ae2d4E9B385Fe620BEF48C2FD7f4A84736`.
+The address of Obex’s SubProxy Account on the Ethereum Mainnet is `0x8be042581f581E3620e29F213EA8b94afA1C8071`.

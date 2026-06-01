@@ -1,5 +1,5 @@
 ---
-id: 9cbee6c7-8bc4-4b0c-a3cd-0f7f4944114e
+id: 197ef51d-d785-491d-b929-cc659f3f3bb9
 docNo: A.6.1.1.3.1
 name: Introduction
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.1 - Introduction [Core]
 
-Keel is an Agent dedicated to expanding access to USDS, sUSDS, and other Sky benefits with an initial focus on the Solana ecosystem. Keel leverages strategic incentives and partnerships to foster adoption, deliver the Sky Savings Rate, and bring USDS liquidity to new markets. Keel also identifies and executes allocation opportunities to generate excess returns on assets in Sky’s collateral portfolio. Keel plans to develop a user-facing DeFi hub as well as other products that align naturally with Keel’s existing capabilities, including borrowing and lending solutions.
+Grove is an Agent focused on unlocking the full potential of USDS through higher savings rates and new products and opportunities. Its main focus will be building an institutional-grade credit platform designed to facilitate credit creation and seamlessly move yield in and out of the onchain economy.

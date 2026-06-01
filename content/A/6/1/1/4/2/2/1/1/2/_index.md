@@ -6,4 +6,4 @@ childCount: 1
 
 # Contents
 
-- [A.6.1.1.4.2.2.1.1.2.1 - Ozone Instance Configuration Document Location](1/document.md)
+- [A.6.1.1.4.2.2.1.1.2.1 - Amatsu Instance Configuration Document Location](1/document.md)

@@ -1,12 +1,12 @@
 ---
-id: f5ba2aec-ac1b-4da9-adc9-e1d370620e72
+id: 387686fe-0ed5-407c-b519-19dc7507e3d4
 docNo: A.6.1.1.1.3
-name: Omni Documents
+name: Risk Limits And Collateral Eligibility
 type: Core
 depth: 6
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.1.3 - Omni Documents [Core]
+###### A.6.1.1.1.3 - Risk Limits And Collateral Eligibility [Core]
 
-The documents herein define Spark’s strategic intent and operational processes relating to infrastructure inherited from Sky Core, activities unrelated to Sky Primitives, or activities spanning multiple Sky Primitives.
+Prime Agent Artifacts must include, for each enveloped [Halo Agent](e6261608-c225-452a-aca7-6eb7b5ed2d58), references to the Halo's risk and limits Artifacts and to the collateral eligibility parameters that apply to the Halo token, as set in the [Allocation System](9db14ab7-bb4b-4751-8084-843bd4359f2a) and collateral parameter Articles.

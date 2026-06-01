@@ -1,5 +1,5 @@
 ---
-id: 7f6bce4b-af7e-4810-aea8-890ee4b5f6ad
+id: 1cd77356-66a5-449c-a573-71a44a628044
 docNo: A.6.1.1.6.2.1.4.2.1.2
 name: Operational Process Definition
 type: Core
@@ -11,4 +11,4 @@ childType: sections_and_primary_docs
 
 The documents herein define the operational processes for minting and initial distribution of the tokens from the Genesis Supply.
 
-- These processes will be defined in a future iteration of the Pattern Artifact.
+- These processes will be defined in a future iteration of the Obex Artifact.

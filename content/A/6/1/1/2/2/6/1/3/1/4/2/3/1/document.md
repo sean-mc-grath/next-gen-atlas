@@ -1,5 +1,5 @@
 ---
-id: 2e467f99-83b9-48a0-adf5-9cc5c538fb23
+id: cf235e02-23fb-48e6-b39e-b4fd09dc7911
 docNo: A.6.1.1.2.2.6.1.3.1.4.2.3.1
 name: Initiate A sUSDe Cooldown Period
 type: Core

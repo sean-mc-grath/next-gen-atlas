@@ -1,5 +1,5 @@
 ---
-id: 408b026b-09d3-4154-8fc2-e7270b76a053
+id: 845ef31b-7b6e-4407-87ad-a5a4c8bce049
 docNo: A.6.1.1.2.2.6.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Grove’s usage of the Grove Liquidity Layer.
+The documents herein organize all base information relevant to Spark’s usage of the Spark Liquidity Layer.

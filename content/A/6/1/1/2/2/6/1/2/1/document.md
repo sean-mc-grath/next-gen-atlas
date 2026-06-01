@@ -1,5 +1,5 @@
 ---
-id: 09be2207-cc0f-4456-b0bc-e9bd91462a47
+id: 137b4d21-d68c-4cdd-9f7f-58b9a28bb048
 docNo: A.6.1.1.2.2.6.1.2.1
 name: General Specifications
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.2.1 - General Specifications [Core]
 
-The documents herein contain general specifications for the Grove Liquidity Layer.
+The documents herein contain general specifications for the Spark Liquidity Layer.

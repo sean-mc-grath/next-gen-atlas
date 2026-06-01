@@ -1,5 +1,5 @@
 ---
-id: f6c8017d-81cc-4ad5-ac3c-c68a354f2a61
+id: e5199f4b-1c36-45c6-b555-51221ea2d09d
 docNo: A.6.1.1.5.2.5.2.1.1
 name: Global Activation Status
 type: Core

@@ -1,12 +1,12 @@
 ---
-id: af548686-1935-4f20-b099-0d5238f388a6
+id: bff45812-80f3-4e46-9428-74a374bef2fc
 docNo: A.6.1.1.4.2.5.2.2.1
-name: Euler Instance Configuration Document
+name: Kamino Instance Configuration Document
 type: Core
 depth: 10
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.4.2.5.2.2.1 - Euler Instance Configuration Document [Core]
+###### A.6.1.1.4.2.5.2.2.1 - Kamino Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Euler Integration Boost Primitive Instance.
+The documents herein contain the Instance Configuration Document for the Kamino Integration Boost Primitive Instance.

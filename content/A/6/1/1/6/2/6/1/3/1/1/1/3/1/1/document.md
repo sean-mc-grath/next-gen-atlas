@@ -1,5 +1,5 @@
 ---
-id: d080330d-912e-4c6d-9c81-714ce4b544a1
+id: fd047e05-3239-434b-a5d8-81cd72ada783
 docNo: A.6.1.1.6.2.6.1.3.1.1.1.3.1.1
 name: Call RequestMapleRedemption Function
 type: Core

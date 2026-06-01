@@ -1,12 +1,12 @@
 ---
-id: a0347944-1dea-473f-acfe-a66f582d27a9
+id: 106faf37-f072-4cac-aa1d-50982c04acea
 docNo: A.6.1.1.7.2.3.2.2.1.2.1.1
-name: Osero Holds Tokens Of Other Agents In Its SubProxy Account
+name: Pattern Holds Tokens Of Other Agents In Its SubProxy Account
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.7.2.3.2.2.1.2.1.1 - Osero Holds Tokens Of Other Agents In Its SubProxy Account [Core]
+###### A.6.1.1.7.2.3.2.2.1.2.1.1 - Pattern Holds Tokens Of Other Agents In Its SubProxy Account [Core]
 
-Osero keeps all tokens of other Agents it holds in its SubProxy account.
+Pattern keeps all tokens of other Agents it holds in its SubProxy account.

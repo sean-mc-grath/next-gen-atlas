@@ -1,12 +1,12 @@
 ---
-id: 6c937922-9c12-4d89-a987-8cca6bc27ebc
+id: 2f264586-051d-4944-9c15-c271a2a8a0b5
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.2.2.2
-name: ALM Controller Contract Version
+name: ALM Controller (ForeignController Base) Contract Version Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.2.2.2 - ALM Controller Contract Version [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.2.2.2 - ALM Controller (ForeignController Base) Contract Version Address [Core]
 
-The ALM_CONTROLLER contract version is: 1.8.0.
+The ALM_CONTROLLER (ForeignController) contract version is: 1.8

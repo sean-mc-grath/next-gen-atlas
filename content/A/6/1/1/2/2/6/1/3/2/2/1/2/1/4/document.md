@@ -1,5 +1,5 @@
 ---
-id: 47af1c25-51d3-46cb-87f3-9576568d0f62
+id: d638194b-7668-4ccd-bef0-1110c38fe6a3
 docNo: A.6.1.1.2.2.6.1.3.2.2.1.2.1.4
 name: Token
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.2.2.1.2.1.4 - Token [Core]
 
-USDSUSDC
+fsUSDS

@@ -1,5 +1,5 @@
 ---
-id: afa9a16f-e776-40f1-8e34-923ae661517a
+id: 84a5adbb-10cc-4bda-9e94-8facfdb114e6
 docNo: A.6.1.1.4.2.1.2.3.1.1.1
 name: Agent Type
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.1.2.3.1.1.1 - Agent Type [Core]
 
-Skybase is a Prime Agent.
+Keel is a Prime Agent.

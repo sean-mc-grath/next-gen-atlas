@@ -1,5 +1,5 @@
 ---
-id: b9e7cf68-feff-4a8b-9126-bc44bf3e7283
+id: f4d35d37-831f-4eee-b18f-d9a3d266655e
 docNo: A.6.1.1.5.2.1.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.1.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Obex's usage of the Prime Transformation Primitive.
+The documents herein organize all base information relevant to Skybase's usage of the Prime Transformation Primitive.

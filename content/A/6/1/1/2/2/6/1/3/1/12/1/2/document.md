@@ -1,5 +1,5 @@
 ---
-id: f27e8a20-88f9-4f85-8e3f-28324751cd6d
+id: 99c9d288-1fd2-4608-b38e-085d40c12ce1
 docNo: A.6.1.1.2.2.6.1.3.1.12.1.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.12.1.2 - Parameters [Core]
 
-The documents herein define the parameters of the Monad Uniswap AUSD/USDC Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Transfer USDC to Paxos (receive PYUSD) of the Allocation System Primitive.

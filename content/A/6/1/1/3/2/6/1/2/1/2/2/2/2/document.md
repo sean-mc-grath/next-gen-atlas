@@ -1,5 +1,5 @@
 ---
-id: e92ff3c5-581b-4d5e-bab4-e244348991e4
+id: 8f0b88bf-0fcd-4103-a4c2-e03b61a2e8a7
 docNo: A.6.1.1.3.2.6.1.2.1.2.2.2.2
 name: Required Number Of Signers
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.2.1.2.2.2.2 - Required Number Of Signers [Core]
 
-The Core Operator Relayer Multisig currently has a 2/3 signing requirement.
+The Prime Secondary Relayer Multisig currently has a 1/2 signing requirement.

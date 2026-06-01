@@ -1,5 +1,5 @@
 ---
-id: 24009c3a-58b6-4280-aa73-6a90ef36c706
+id: f09051d1-3526-49cc-b09d-576a3705f4f8
 docNo: A.6.1.1.2.2.6.1.3.2.2.1.2.1.1
 name: Network
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.2.2.1.2.1.1 - Network [Core]
 
-Avalanche
+Base

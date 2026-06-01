@@ -1,12 +1,12 @@
 ---
-id: 2f175df9-3b8c-4c2c-a700-52f741abf501
+id: c4a1d0ca-0794-4ad0-9920-7f8a837b6bfa
 docNo: A.6.1.1.2.2.6.1.1.2.1.1
-name: Centrifuge
+name: SparkLend
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.1 - Centrifuge [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.1 - SparkLend [Core]
 
-The Ethereum Mainnet Instances Directory of the Centrifuge Protocol with `Active` Status are stored herein.
+The Ethereum Mainnet Instances Directory of the SparkLend Protocol with `Active` Status are stored herein.

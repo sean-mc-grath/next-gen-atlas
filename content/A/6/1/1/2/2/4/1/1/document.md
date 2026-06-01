@@ -1,5 +1,5 @@
 ---
-id: d6e99512-2f90-4c90-8d99-8b2dec137ace
+id: 88de14eb-6470-4980-add9-992726d6e006
 docNo: A.6.1.1.2.2.4.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.4.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Grove’s usage of the Token SkyLink Primitive.
+The documents herein organize all base information relevant to Spark’s usage of the Token SkyLink Primitive.

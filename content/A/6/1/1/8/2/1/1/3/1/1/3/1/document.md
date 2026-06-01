@@ -1,5 +1,5 @@
 ---
-id: 68ce7040-9954-4339-8fa8-d5679eb2a1d5
+id: 96060edd-a089-499c-9e96-b90a89bc2c0c
 docNo: A.6.1.1.8.2.1.1.3.1.1.3.1
 name: StarGuard Max Delay
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.1.3.1.1.3.1 - StarGuard Max Delay [Core]
 
-The Launch Agent 7 StarGuard `maxDelay` is seven (7) days.
+The Osero StarGuard `maxDelay` is seven (7) days.

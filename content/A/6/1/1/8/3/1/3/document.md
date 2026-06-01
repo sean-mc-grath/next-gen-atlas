@@ -1,5 +1,5 @@
 ---
-id: 3581ec81-e5bb-44d1-a44c-56c0a327b361
+id: 83b9de18-b26c-4b7a-a5d9-8cb39f6dec8c
 docNo: A.6.1.1.8.3.1.3
 name: Agent-Specific Emergency Response
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.3.1.3 - Agent-Specific Emergency Response [Core]
 
-The documents herein specify Launch Agent 7's emergency response protocol in situations solely impacting Launch Agent 7 versus the broader Sky Ecosystem. This protocol will be specified in a future iteration of the Launch Agent 7 Artifact.
+The documents herein specify Osero's emergency response protocol in situations solely impacting Osero versus the broader Sky Ecosystem. This protocol will be specified in a future iteration of the Osero Artifact.

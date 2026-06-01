@@ -1,12 +1,12 @@
 ---
-id: beb54246-6454-4716-a381-be605560cba5
+id: 262ff1c9-9634-45a4-9f18-ed222352ddb4
 docNo: A.6.1.1.2.3.4.2
-name: Lite Peg Stability Module
+name: Policies and Parameters
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.4.2 - Lite Peg Stability Module [Core]
+###### A.6.1.1.2.3.4.2 - Policies and Parameters [Core]
 
-Control of the Lite PSM is currently being transitioned to Grove.
+The documents herein define the currently active policies for managing the Spark SubDAO Proxy, alongside relevant parameters for implementing the policies.

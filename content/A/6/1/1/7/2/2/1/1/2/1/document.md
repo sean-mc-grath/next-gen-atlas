@@ -1,5 +1,5 @@
 ---
-id: c0aff461-b4c5-4392-bf92-3db9ebe7a476
+id: d00595bb-b9c6-4663-8055-18332fa01647
 docNo: A.6.1.1.7.2.2.1.1.2.1
 name: Ozone Instance Configuration Document Location
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.2.1.1.2.1 - Ozone Instance Configuration Document Location [Core]
 
-This Instance's associated Instance Configuration Document is located at [A.6.1.1.7.2.2.1.2.1 - Ozone Instance Configuration Document](c41fe115-5145-438e-bcaf-9924996b4fcd).
+This Instance's associated Instance Configuration Document is located at [A.6.1.1.7.2.2.1.2.1 - Ozone Instance Configuration Document](960445d5-4b1c-406e-b05a-470e0cca6e71).

@@ -1,5 +1,5 @@
 ---
-id: f9d5c302-4695-436f-9a06-595c06da2fc9
+id: 4d0912c0-d103-43b2-a6bd-c764b83436ec
 docNo: A.6.1.1.5.2.5.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.5.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Obex's usage of the Integration Boost Primitive.
+The documents herein organize all base information relevant to Skybase's usage of the Integration Boost Primitive.

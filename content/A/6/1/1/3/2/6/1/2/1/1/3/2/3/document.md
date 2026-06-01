@@ -1,12 +1,15 @@
 ---
-id: 492f7297-f350-45d7-baca-88f1fb9f6b5c
+id: a3b52620-db3f-40fa-80d5-a7eacf52090c
 docNo: A.6.1.1.3.2.6.1.2.1.1.3.2.3
-name: Solana USDT
+name: USDC Ethereum Mainnet ALM Proxy Circle Cross-Chain Transfer Protocol Maximum
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.3.2.3 - Solana USDT [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.3.2.3 - USDC Ethereum Mainnet ALM Proxy Circle Cross-Chain Transfer Protocol Maximum [Core]
 
-The maximum mint, burn and swap for USDT on Solana are located herein
+The maximum amount of USDC that can be bridged to Ethereum Mainnet from the Avalanche ALM Proxy using the Circle Cross-Chain Transfer Protocol (`LIMIT_USDC_TO_CCTP_Ethereum`) is specified in the document herein.
+
+- `maxAmount` (USDC): Unlimited
+- `slope` (USDC/ day): Unlimited

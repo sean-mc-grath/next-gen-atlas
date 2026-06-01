@@ -1,15 +1,15 @@
 ---
-id: 99db86e0-e883-475e-a736-11aa5b3dab5e
+id: 997cbc11-99ee-4d26-87a8-a8a01e0a0537
 docNo: A.6.1.1.2.2.6.1.3.1.7.2.2.4.2
-name: Withdrawal Rate Limits
+name: Outflow Rate Limits
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.7.2.2.4.2 - Withdrawal Rate Limits [Core]
+###### A.6.1.1.2.2.6.1.3.1.7.2.2.4.2 - Outflow Rate Limits [Core]
 
-The withdrawal rate limits are:
+The outflow rate limits are:
 
-- `maxAmount`: N/A
-- `slope`: N/A
+- `maxAmount`: N/A - swap only
+- `slope`: N/A - swap only

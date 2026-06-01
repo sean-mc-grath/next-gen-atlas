@@ -1,5 +1,5 @@
 ---
-id: 35aaf86f-8a8e-487a-8f1d-65f263223da1
+id: ce4681b7-b94f-4acb-a2de-49b92b70245b
 docNo: A.6.1.1.2.2.6.1.3.1.3.1.2.4.2
 name: Outflow Rate Limits
 type: Core
@@ -11,5 +11,5 @@ childType: sections_and_primary_docs
 
 The outflow rate limits are:
 
-- `maxAmount`: This parameter will be specified in a future iteration of the Grove Artifact.
-- `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
+- `maxAmount`: Unlimited
+- `slope`: This parameter will be specified in a future iteration of the Spark Artifact.

@@ -1,5 +1,5 @@
 ---
-id: 652b94ef-66e3-40fe-ba80-4ce5c3d27f03
+id: 1eaa59a7-4c50-4ace-ba78-956b8a4d9219
 docNo: A.6.1.1.4.2.1.4.2.1.2
 name: Operational Process Definition
 type: Core
@@ -11,4 +11,4 @@ childType: sections_and_primary_docs
 
 The documents herein define the operational processes for minting and initial distribution of the tokens from the Genesis Supply.
 
-- These processes will be defined in a future iteration of the Skybase Artifact.
+- These processes will be defined in a future iteration of the Keel Artifact.

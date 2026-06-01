@@ -1,5 +1,5 @@
 ---
-id: e5ff6cc4-c1d2-4184-a266-010104a6a28f
+id: 0cea78ce-be5f-46f5-8a48-a5d313b60611
 docNo: A.6.1.1.4.2.5.1.2.1.1.3
 name: Custom Instance Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.1.2.1.1.3 - Custom Instance Parameters [Core]
 
-The documents herein define the custom parameters of the Sky.money App Instance of the Distribution Reward Primitive, if any.
+The documents herein define the custom parameters of the Solana Bridge Instance of the Distribution Reward Primitive, if any.

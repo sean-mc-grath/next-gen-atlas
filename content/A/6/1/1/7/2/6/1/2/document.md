@@ -1,5 +1,5 @@
 ---
-id: f9501c81-b5cd-4c07-b781-539974d39f1d
+id: d02fc174-54ea-4336-8f61-99f530ea533b
 docNo: A.6.1.1.7.2.6.1.2
 name: Multi-Instance Coordinator Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.6.1.2 - Multi-Instance Coordinator Document [Core]
 
-The documents herein provide general specifications of the Osero Liquidity Layer and define Osero's overarching strategy and operational framework for managing across all Instances.
+The documents herein provide general specifications of the Pattern Liquidity Layer and define Pattern's overarching strategy and operational framework for managing across all Instances.

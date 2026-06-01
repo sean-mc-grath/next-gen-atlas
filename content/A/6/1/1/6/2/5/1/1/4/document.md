@@ -1,5 +1,5 @@
 ---
-id: 7c88dfbb-08eb-40ac-92e9-8b934a630d2d
+id: e1234baf-b923-4837-a279-96a76208f78d
 docNo: A.6.1.1.6.2.5.1.1.4
 name: In Progress Invocations Directory
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.5.1.1.4 - In Progress Invocations Directory [Core]
 
-This document contains a Directory of all prospective Instances of the Distribution Reward Primitive whose Invocation is currently in progress. Invocations that are completed successfully are moved to [A.6.1.1.6.2.5.1.1.2 - Active Instances Directory](082222ab-1802-4eb6-91ee-22986f27a43c), whereas failed Invocations are Archived in [A.6.1.1.6.2.5.1.1.5 - Hub Data Repository](f10a7cf3-932b-4123-9a7d-c8813c50063f).
+This document contains a Directory of all prospective Instances of the Distribution Reward Primitive whose Invocation is currently in progress. Invocations that are completed successfully are moved to [A.6.1.1.6.2.5.1.1.2 - Active Instances Directory](6d07d8e0-e37e-47f0-8534-e0c67effd267), whereas failed Invocations are Archived in [A.6.1.1.6.2.5.1.1.5 - Hub Data Repository](27d2b846-1278-4cf6-9a2f-09114d659813).

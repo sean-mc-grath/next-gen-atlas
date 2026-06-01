@@ -1,12 +1,12 @@
 ---
-id: 421535cf-d79d-4e2f-92fa-020d53bd1aff
+id: e6fe9576-9677-4bed-b779-cd2a52e4fdc0
 docNo: A.6.1.1.3.2.6.1.1.2.1
-name: Solana
+name: Ethereum Mainnet
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.1.2.1 - Solana [Core]
+###### A.6.1.1.3.2.6.1.1.2.1 - Ethereum Mainnet [Core]
 
-The documents herein contain a Directory of all Instances on Solana of the Allocation System Primitive with Instance status of `Active`.
+The documents herein contain a Directory of all Instances on the Ethereum Mainnet of the Allocation System Primitive with Instance status of `Active`.

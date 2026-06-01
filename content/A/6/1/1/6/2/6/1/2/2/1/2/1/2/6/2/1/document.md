@@ -1,5 +1,5 @@
 ---
-id: 355f4606-5346-41d5-8ea7-2c4490d761e1
+id: f0117433-4568-4b4b-bed6-fce75f85939a
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.2.6.2.1
 name: Call swapUSDCToUSDS Function
 type: Core

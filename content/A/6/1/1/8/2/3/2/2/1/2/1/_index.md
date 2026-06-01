@@ -6,6 +6,6 @@ childCount: 3
 
 # Contents
 
-- [A.6.1.1.8.2.3.2.2.1.2.1.1 - Launch Agent 7 Holds Tokens Of Other Agents In Its SubProxy Account](1/document.md)
-- [A.6.1.1.8.2.3.2.2.1.2.1.2 - Launch Agent 7 Deducts Rebate From Ecosystem Upkeep Fees](2/document.md)
+- [A.6.1.1.8.2.3.2.2.1.2.1.1 - Osero Holds Tokens Of Other Agents In Its SubProxy Account](1/document.md)
+- [A.6.1.1.8.2.3.2.2.1.2.1.2 - Osero Deducts Rebate From Ecosystem Upkeep Fees](2/document.md)
 - [A.6.1.1.8.2.3.2.2.1.2.1.3 - Operational GovOps Reviews Rebate](3/document.md)

@@ -1,5 +1,5 @@
 ---
-id: a37d7fbb-8326-4419-8d1d-7056ec48254a
+id: aa4c9779-aa53-47ad-9780-a9978fae5334
 docNo: A.6.1.1.3.2.6.1.3.1.1.4.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.3.2.6.1.3.1.1.4.2 - Parameters [Core]
 
-The documents herein define the parameters of the Kamino USDG Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Centrifuge JTRSY USDS Vault Instance of the Allocation System Primitive.

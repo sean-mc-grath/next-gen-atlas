@@ -1,5 +1,5 @@
 ---
-id: a954b3b9-4230-448e-b926-e7daaad542c5
+id: b2270863-75e9-42f6-8c25-749a0f83dcb5
 docNo: A.6.1.1.5.2.1.4.2.1.1.4
 name: Token Address
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.1.4.2.1.1.4 - Token Address [Core]
 
-The address of OBEX will be specified in a future iteration of the Obex Artifact.
+The address of SKYBASE will be specified in a future iteration of the Skybase Artifact.

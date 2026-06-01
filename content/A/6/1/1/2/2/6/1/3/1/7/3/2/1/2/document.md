@@ -1,5 +1,5 @@
 ---
-id: 25ee9e5c-32d3-488a-82c2-495496964b23
+id: a0794c17-0668-4bae-a5b1-141c61db12ef
 docNo: A.6.1.1.2.2.6.1.3.1.7.3.2.1.2
 name: Target Protocol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.7.3.2.1.2 - Target Protocol [Core]
 
-Grove x Steakhouse USDC High Yield Vault V2
+Curve

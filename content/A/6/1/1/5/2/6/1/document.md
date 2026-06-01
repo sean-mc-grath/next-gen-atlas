@@ -1,5 +1,5 @@
 ---
-id: fe98c7e7-b7f8-4f2c-800a-bca5192576ac
+id: 24b63123-f30f-4dc3-aefa-74b4351c4baa
 docNo: A.6.1.1.5.2.6.1
 name: Allocation System Primitive
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.6.1 - Allocation System Primitive [Core]
 
-The documents herein contain all data and specifications for Obex's Allocation System Primitive Instances.
+The documents herein contain all data and specifications for Skybase's Instances of the Allocation System Primitive. See [A.2.2.9.1 - Allocation System Primitive](9db14ab7-bb4b-4751-8084-843bd4359f2a).

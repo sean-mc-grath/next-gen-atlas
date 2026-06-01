@@ -1,12 +1,12 @@
 ---
-id: 98930f9c-13eb-433c-b485-2fb0e37d0029
+id: afa6a37e-e7f1-4efb-bca7-f02bbbf5cf26
 docNo: A.6.1.1.2.3.1.3
-name: Agent-Specific Emergency Response
+name: Delegation Framework
 type: Core
 depth: 8
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.1.3 - Agent-Specific Emergency Response [Core]
+###### A.6.1.1.2.3.1.3 - Delegation Framework [Core]
 
-The documents herein specify Grove’s emergency response protocol in situations solely impacting Grove versus the broader Sky Ecosystem. This protocol will be specified in a future iteration of the Grove Artifact.
+The documents herein specify Spark’s governance delegation system, defining the rights and duties of Delegates and Delegators, as well as the processes for onboarding and offboarding Delegates.

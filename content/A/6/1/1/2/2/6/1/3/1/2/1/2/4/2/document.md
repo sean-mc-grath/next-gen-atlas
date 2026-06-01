@@ -1,5 +1,5 @@
 ---
-id: 0b80d875-47a9-4863-8cf9-7a564e49d7ff
+id: 6dc14672-e655-49fd-a351-45537408c74b
 docNo: A.6.1.1.2.2.6.1.3.1.2.1.2.4.2
 name: Outflow Rate Limits
 type: Core
@@ -11,5 +11,5 @@ childType: sections_and_primary_docs
 
 The outflow rate limits are:
 
-- `maxAmount`: Unlimited
-- `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
+- `maxAmount`: 0
+- `slope`: Unlimited

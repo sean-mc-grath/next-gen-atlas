@@ -1,12 +1,12 @@
 ---
-id: 8b3829dd-fb87-4b08-b1dc-224d7c993ee4
+id: 9b4ce799-3baa-42e8-a742-7e8deb377dfc
 docNo: A.6.1.1.2.3.5
-name: Ecosystem Accords
+name: Spark Savings Configuration
 type: Core
 depth: 7
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.5 - Ecosystem Accords [Core]
+###### A.6.1.1.2.3.5 - Spark Savings Configuration [Core]
 
-Grove has formally agreed to the Ecosystem Accords herein.
+The documents herein specify Spark's strategy and operational processes for managing parameters and liquidity for the Spark Savings protocol.

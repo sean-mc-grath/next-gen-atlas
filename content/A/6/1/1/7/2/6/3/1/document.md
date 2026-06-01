@@ -1,5 +1,5 @@
 ---
-id: 612c1dde-b718-4d81-8a0c-ce9ed6c018f7
+id: b971db81-6c85-4e95-9fb1-4556cd05e988
 docNo: A.6.1.1.7.2.6.3.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.6.3.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Asset Liability Management Rental Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Asset Liability Management Rental Primitive.

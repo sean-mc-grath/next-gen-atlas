@@ -1,5 +1,5 @@
 ---
-id: cbf426ee-7754-49c5-9040-b29a5126da39
+id: 72950044-a7ba-44bf-9910-1e655bfbbb76
 docNo: A.6.1.1.5.2.6.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.5.2.6.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Obex's usage of the Obex Liquidity Layer.
+The documents herein organize all base information relevant to Skybase's usage of the Allocation System Primitive.

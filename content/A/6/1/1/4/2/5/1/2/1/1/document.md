@@ -1,5 +1,5 @@
 ---
-id: 5455497f-bfb3-49a0-a788-0b7db4da799b
+id: 70bdfca7-9103-47a8-91eb-47c5eb727933
 docNo: A.6.1.1.4.2.5.1.2.1.1
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.1.2.1.1 - Parameters [Core]
 
-The documents herein define the parameters of the Sky.money App Instance of the Distribution Reward Primitive.
+The documents herein define the parameters of the Solana Bridge Instance of the Distribution Reward Primitive.

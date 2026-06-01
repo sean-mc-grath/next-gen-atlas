@@ -1,12 +1,12 @@
 ---
-id: 2df8d8c7-17ee-4427-a75b-fc3ce08913d4
+id: 9922dcf0-4562-445b-9a46-712f677cce64
 docNo: A.6.1.1.2.2.6.1.2.2.1.2.1.2.3
-name: PSM Functions
+name: Aave Functions
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3 - PSM Functions [Core]
+###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3 - Aave Functions [Core]
 
-The documents herein define the swap operations performed by the Grove Liquidity Layer in the PSM.
+The documents herein describe the general Spark Liquidity Layer operational procedures for depositing to and withdrawing from Aave lending pools.

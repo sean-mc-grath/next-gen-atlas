@@ -1,12 +1,12 @@
 ---
-id: 5da95711-2be7-4ff8-bbd1-245cd12f8b62
+id: db820c09-0b14-45ea-8367-d7a301718fb9
 docNo: A.6.1.1.2.2.6.1.3.1.13.1.2.1.3
-name: Asset Supplied By Grove Liquidity Layer
+name: Asset Supplied By Spark Liquidity Layer
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.13.1.2.1.3 - Asset Supplied By Grove Liquidity Layer [Core]
+###### A.6.1.1.2.2.6.1.3.1.13.1.2.1.3 - Asset Supplied By Spark Liquidity Layer [Core]
 
-USDC
+USAT

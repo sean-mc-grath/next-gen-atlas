@@ -1,5 +1,5 @@
 ---
-id: a407dee4-36ec-4499-a3e6-e01008dd56cf
+id: f9501c81-b5cd-4c07-b781-539974d39f1d
 docNo: A.6.1.1.8.2.6.1.2
 name: Multi-Instance Coordinator Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.6.1.2 - Multi-Instance Coordinator Document [Core]
 
-The documents herein provide general specifications of the Launch Agent 7 Liquidity Layer and define Launch Agent 7's overarching strategy and operational framework for managing across all Instances.
+The documents herein provide general specifications of the Osero Liquidity Layer and define Osero's overarching strategy and operational framework for managing across all Instances.

@@ -1,5 +1,5 @@
 ---
-id: eec6574a-8c01-4de9-8766-8185d6814a79
+id: e53ba12e-957c-48f8-b508-7190d07b4778
 docNo: A.6.1.1.4.2.5.2.2.2.1.8
 name: Custom Instance Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.5.2.2.2.1.8 - Custom Instance Parameters [Core]
 
-The documents herein define the custom parameters of the Curve Instance of the Integration Boost Primitive, if any.
+The documents herein define the custom parameters of the Drift Instance of the Integration Boost Primitive, if any.

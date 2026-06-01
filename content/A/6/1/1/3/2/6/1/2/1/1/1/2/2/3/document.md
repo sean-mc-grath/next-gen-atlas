@@ -1,12 +1,12 @@
 ---
-id: 844da5c2-cc3b-4bc2-8d2d-2ee9ee09f3a1
+id: 228514c4-9a74-4324-b93a-4c10025d4bc7
 docNo: A.6.1.1.3.2.6.1.2.1.1.1.2.2.3
-name: Solana ALM Controller’s PDA
+name: ALM Freezer Multisig (Avalanche) Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.2.1.1.1.2.2.3 - Solana ALM Controller’s PDA [Core]
+###### A.6.1.1.3.2.6.1.2.1.1.1.2.2.3 - ALM Freezer Multisig (Avalanche) Address [Core]
 
-The address of the instance’s PDA, configured for Keel is `EeWDutgcKNTdQGJkGRrWYmTXXuKnPUZNvXepbLkQrxW4`. This is the address that ‘owns’ any positions or tokens.
+The address of the Multisig that has the Freezer Role is: `0xB0113804960345fd0a245788b3423319c86940e5`.

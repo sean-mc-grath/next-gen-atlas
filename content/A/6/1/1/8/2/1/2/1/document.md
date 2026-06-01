@@ -1,5 +1,5 @@
 ---
-id: ec52fb9d-30d6-4ccb-830d-eb8878e58e64
+id: ccbf1b06-7d52-4355-8780-2618c68f1bfe
 docNo: A.6.1.1.8.2.1.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Launch Agent 7's usage of the Prime Transformation Primitive.
+The documents herein organize all base information relevant to Osero's usage of the Prime Transformation Primitive.

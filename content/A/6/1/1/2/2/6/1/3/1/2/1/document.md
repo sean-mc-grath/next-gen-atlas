@@ -1,12 +1,12 @@
 ---
-id: 8bc44388-0d97-4d5e-aa33-fdd1938f03ff
+id: bf8743ff-bd2e-4fb4-9b2f-2989f0361697
 docNo: A.6.1.1.2.2.6.1.3.1.2.1
-name: Ethereum Mainnet - Blackrock BUIDL-I Instance Configuration Document
+name: Ethereum Mainnet - Aave Prime USDS Instance Configuration Document
 type: Core
 depth: 12
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.2.1 - Ethereum Mainnet - Blackrock BUIDL-I Instance Configuration Document [Core]
+###### A.6.1.1.2.2.6.1.3.1.2.1 - Ethereum Mainnet - Aave Prime USDS Instance Configuration Document [Core]
 
-The documents herein contain the Instance Configuration Document for the Blackrock BUIDL-I Instance.
+The documents herein contain the Instance Configuration Document for the Aave Prime USDS Instance.

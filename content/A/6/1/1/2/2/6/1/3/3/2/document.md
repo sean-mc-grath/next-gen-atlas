@@ -1,12 +1,12 @@
 ---
-id: d47ec9c3-b308-453a-989a-7396504f6a99
+id: 014fccbf-4720-43f5-8dff-e58518c06f8c
 docNo: A.6.1.1.2.2.6.1.3.3.2
-name: Base - Steakhouse Prime Instant USDC Morpho Vault V2 Instance Configuration Document
+name: Aave
 type: Core
 depth: 11
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.3.2 - Base - Steakhouse Prime Instant USDC Morpho Vault V2 Instance Configuration Document [Core]
+###### A.6.1.1.2.2.6.1.3.3.2 - Aave [Core]
 
-The documents herein contain the Instance Configuration Document for the Steakhouse Prime Instant USDC Morpho Vault V2 Instance.
+The Arbitrum Instances of the Aave Protocol with `Active` Status are stored herein.

@@ -1,5 +1,5 @@
 ---
-id: 9062717c-fe70-4a96-b063-25fc05bf68da
+id: 6dd6571c-f210-4e9e-850a-206275d2074e
 docNo: A.6.1.1.2.2.1.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.1.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Grove’s usage of the Prime Transformation Primitive.
+The documents herein organize all base information relevant to Spark’s usage of the Prime Transformation Primitive.

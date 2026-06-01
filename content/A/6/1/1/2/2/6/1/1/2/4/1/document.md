@@ -1,5 +1,5 @@
 ---
-id: 8bf1db06-958b-4037-82f4-5b8463eb22a3
+id: 830b9c54-37df-41f1-9ae1-e114bc47636c
 docNo: A.6.1.1.2.2.6.1.1.2.4.1
 name: Aave
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.1.2.4.1 - Aave [Core]
 
-The Plasma Instances Directory of the Aave Protocol with `Active` Status are stored herein.
+The Avalanche Instances Directory of the Aave Protocol with `Completed` Status are stored herein

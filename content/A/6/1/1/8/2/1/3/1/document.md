@@ -1,5 +1,5 @@
 ---
-id: acd47616-d33c-4a8e-81cf-9f75cf83187d
+id: d46b399b-0432-4350-9e3c-d5cf3487764f
 docNo: A.6.1.1.8.2.1.3.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.8.2.1.3.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Launch Agent 7's usage of the Executor Transformation Primitive.
+The documents herein organize all base information relevant to Osero's usage of the Executor Transformation Primitive.

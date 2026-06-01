@@ -1,5 +1,5 @@
 ---
-id: 82200234-6b7c-4299-a552-66ceac3be5e6
+id: ceb1e104-908d-451c-bc18-b1df694b1caf
 docNo: A.6.1.1.4.2.2.1.2.1.1.1
 name: Operational Executor Agent
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.2.1.2.1.1.1 - Operational Executor Agent [Core]
 
-The Operational Facilitator and Operational GovOps for Ozone are specified in [A.6.1.2.2 - Operational Executor Agent Ozone](565660dd-7850-4c3a-8dba-554542bf103a).
+The Operational Facilitator and Operational GovOps for Amatsu are specified in [A.6.1.2.1 - Operational Executor Agent Amatsu](c57df14a-fde0-43f3-89ed-c2e4981d6bd5).

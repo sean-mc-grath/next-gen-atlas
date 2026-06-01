@@ -1,5 +1,5 @@
 ---
-id: fbc9a192-1171-4a09-a223-a5ce4bfdf227
+id: 4139b0ae-87f7-4b3f-aa48-78ee8efc1047
 docNo: A.6.1.1.2.2.6.1.3.1.11.1.2
 name: Parameters
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.11.1.2 - Parameters [Core]
 
-The documents herein define the parameters of the Agora AUSD Instance of the Allocation System Primitive.
+The documents herein define the parameters of the Uniswap v4 PYUSD/USDS Pool Instance of the Allocation System Primitive.

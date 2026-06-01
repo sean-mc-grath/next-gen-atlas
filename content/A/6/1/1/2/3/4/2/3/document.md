@@ -1,12 +1,12 @@
 ---
-id: 165fc3f7-39cf-4f4e-ae94-6460263b8a71
+id: 6a4870fa-73f1-4d49-b7ee-d531fb59a971
 docNo: A.6.1.1.2.3.4.2.3
-name: Data Repository
+name: Excess SubDAO Proxy Funds Disposition Policy
 type: Core
 depth: 9
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.3.4.2.3 - Data Repository [Core]
+###### A.6.1.1.2.3.4.2.3 - Excess SubDAO Proxy Funds Disposition Policy [Core]
 
-The documents herein contain data relevant to the Lite PSM.
+The documents herein define Spark’s policy for disposition of excess SubDAO Proxy funds above the target SubDAO Proxy value.

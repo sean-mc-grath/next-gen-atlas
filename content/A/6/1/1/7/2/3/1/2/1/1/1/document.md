@@ -1,5 +1,5 @@
 ---
-id: 0545120b-a962-479c-a35d-9e208e6fff17
+id: 14a3b7fc-37f3-4407-a59b-061df4b7fc73
 docNo: A.6.1.1.7.2.3.1.2.1.1.1
 name: Terms
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.3.1.2.1.1.1 - Terms [Core]
 
-Osero will pay 0.50% of its market capitalization per year in USDS.
+Pattern will pay 0.50% of its market capitalization per year in USDS.

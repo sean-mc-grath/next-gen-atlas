@@ -1,5 +1,5 @@
 ---
-id: 8eb04812-6fe7-43dc-a461-afa09b992cc8
+id: 41c58fff-ec4b-4bd1-bcb7-7bec6c9141b5
 docNo: A.6.1.1.4.2.1.4.2.1.1.2
 name: Token Symbol
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.1.4.2.1.1.2 - Token Symbol [Core]
 
-The symbol of Skybase's token is SKYBASE.
+The symbol of Keel’s token is KEEL.

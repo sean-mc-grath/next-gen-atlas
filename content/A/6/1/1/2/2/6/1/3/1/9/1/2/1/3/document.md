@@ -1,12 +1,12 @@
 ---
-id: 0d3d52df-eb9b-4df4-8023-295be72f1193
+id: 8d9ff794-c545-4179-8bb4-214943250467
 docNo: A.6.1.1.2.2.6.1.3.1.9.1.2.1.3
-name: Asset Supplied By Grove Liquidity Layer
+name: Asset Supplied By Users
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.9.1.2.1.3 - Asset Supplied By Grove Liquidity Layer [Core]
+###### A.6.1.1.2.2.6.1.3.1.9.1.2.1.3 - Asset Supplied By Users [Core]
 
-USDC
+wETH

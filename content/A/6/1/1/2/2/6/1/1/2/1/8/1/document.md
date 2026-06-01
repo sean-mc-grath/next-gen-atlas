@@ -1,12 +1,12 @@
 ---
-id: f43479d2-2c76-4a18-8e9b-f59f1e1b493b
+id: 3e92042e-1756-4c8f-a31d-6052176e87e5
 docNo: A.6.1.1.2.2.6.1.1.2.1.8.1
-name: Ethereum Mainnet - Securitize Tokenized AAA CLO Fund (STAC) Instance Configuration Document Location
+name: Ethereum Mainnet - Morpho Dai Instance Configuration Document Location
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.1.2.1.8.1 - Ethereum Mainnet - Securitize Tokenized AAA CLO Fund (STAC) Instance Configuration Document Location [Core]
+###### A.6.1.1.2.2.6.1.1.2.1.8.1 - Ethereum Mainnet - Morpho Dai Instance Configuration Document Location [Core]
 
-This Instance's associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.1.8.1 - Ethereum Mainnet - Securitize Tokenized AAA CLO Fund (STAC) Instance Configuration Document](a0c4fcd6-ebf9-4124-8767-cf14ab6ab397).
+This Instance’s associated Instance Configuration Document is located at [A.6.1.1.2.2.6.1.3.1.8.1 - Ethereum Mainnet - Morpho Dai Instance Configuration Document](626dd4bf-108b-48bd-a1e1-c26d290c3a72).

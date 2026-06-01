@@ -1,12 +1,12 @@
 ---
-id: ad0109ba-cdb8-40d8-8856-a1c21873af79
+id: a6215f0e-e4bd-4dc7-9afa-edbb9c09042c
 docNo: A.6.1.1.2.2.6.1.3.1.5.1.1
-name: RRC Framework Full Implementation Coverage
+name: RRC Framework Full Implementation
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.5.1.1 - RRC Framework Full Implementation Coverage [Core]
+###### A.6.1.1.2.2.6.1.3.1.5.1.1 - RRC Framework Full Implementation [Core]
 
 **`Pending`**

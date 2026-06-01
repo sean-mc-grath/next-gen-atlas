@@ -1,5 +1,5 @@
 ---
-id: 30a4ea54-3083-4a3b-add0-0d3c41f5fcd2
+id: f987a5d2-2fe4-450e-a57b-32c44ba2eb99
 docNo: A.6.1.1.7.2.2.2.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.2.2.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Root Edit Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Root Edit Primitive.

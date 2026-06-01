@@ -1,12 +1,12 @@
 ---
-id: f655efd0-cbce-4c42-9c80-64f8358a339e
+id: a4cb2345-64a9-4e1f-b084-c25f6df7082a
 docNo: A.6.1.1.2.2.6.1.2.1.1.1.2.5.3
-name: ALM Freezer Multisig Address
+name: ALM Freezer Multisig (Optimism) Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.2.1.1.1.2.5.3 - ALM Freezer Multisig Address [Core]
+###### A.6.1.1.2.2.6.1.2.1.1.1.2.5.3 - ALM Freezer Multisig (Optimism) Address [Core]
 
-The address of the Multisig that has the Freezer Role is `0xB0113804960345fd0a245788b3423319c86940e5`
+The address of the Multisig that has the Freezer Role is specified in [A.6.1.1.2.2.6.1.2.1.2.2.3.1 - Address](51777bdd-df5f-4a6e-93f5-8163d981f595).

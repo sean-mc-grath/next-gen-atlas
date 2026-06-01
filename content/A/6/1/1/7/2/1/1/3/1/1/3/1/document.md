@@ -1,5 +1,5 @@
 ---
-id: 96060edd-a089-499c-9e96-b90a89bc2c0c
+id: 5a466516-e901-4490-8d7c-22a31c82902c
 docNo: A.6.1.1.7.2.1.1.3.1.1.3.1
 name: StarGuard Max Delay
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.1.1.3.1.1.3.1 - StarGuard Max Delay [Core]
 
-The Osero StarGuard `maxDelay` is seven (7) days.
+The Pattern StarGuard `maxDelay` is seven (7) days.

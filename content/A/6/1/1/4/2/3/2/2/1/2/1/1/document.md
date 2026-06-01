@@ -1,12 +1,12 @@
 ---
-id: 0d37e672-8a82-433c-a5c7-f88ff248cb6a
+id: 06cd14d5-0f55-4ac0-8d9d-f9060e0fcc1b
 docNo: A.6.1.1.4.2.3.2.2.1.2.1.1
-name: Skybase Holds Tokens Of Other Agents In Its SubProxy Account
+name: Keel Holds Tokens Of Other Agents In Its SubProxy Account
 type: Core
 depth: 13
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.4.2.3.2.2.1.2.1.1 - Skybase Holds Tokens Of Other Agents In Its SubProxy Account [Core]
+###### A.6.1.1.4.2.3.2.2.1.2.1.1 - Keel Holds Tokens Of Other Agents In Its SubProxy Account [Core]
 
-Skybase keeps all tokens of other Agents it holds in its SubProxy account.
+Keel keeps all tokens of other Agents it holds in its SubProxy account.

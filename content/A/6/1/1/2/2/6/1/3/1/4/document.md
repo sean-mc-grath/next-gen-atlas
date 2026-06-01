@@ -1,5 +1,5 @@
 ---
-id: 39ed1591-d474-4ed1-a794-b178d64aa948
+id: b23e9a6b-e78a-486f-9f6e-07cfdb437bee
 docNo: A.6.1.1.2.2.6.1.3.1.4
 name: Ethena
 type: Core

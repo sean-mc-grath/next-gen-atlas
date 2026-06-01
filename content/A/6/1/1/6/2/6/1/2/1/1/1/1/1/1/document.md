@@ -1,5 +1,5 @@
 ---
-id: deb0a2c0-4a6c-403b-b9b4-79803de4fea8
+id: 0d4e4822-8b33-4306-9f32-c08cd4014484
 docNo: A.6.1.1.6.2.6.1.2.1.1.1.1.1.1
 name: Allocator Buffer Contract
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.6.2.6.1.2.1.1.1.1.1.1 - Allocator Buffer Contract [Core]
 
-The address of the ALLOCATOR_BUFFER contract is: `0x823459b55D79F0421f24a4828237F7ecb8D7F1ef`.
+The address of the ALLOCATOR_BUFFER contract is: `0x51E9681D7a05abFD33EfaFd43e5dd3Afc0093F1D`

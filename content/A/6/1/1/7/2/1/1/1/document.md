@@ -1,5 +1,5 @@
 ---
-id: e8203aca-ee78-41c6-ad35-8f7324d9a277
+id: a5f738ba-82b4-4a9a-a434-393f7a1da00d
 docNo: A.6.1.1.7.2.1.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.7.2.1.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Osero's usage of the Agent Creation Primitive.
+The documents herein organize all base information relevant to Pattern's usage of the Agent Creation Primitive.

@@ -1,5 +1,5 @@
 ---
-id: b2981f26-c563-4014-8460-36b74905a2a9
+id: 56203f5d-8205-48ac-a278-66218fda9c2e
 docNo: A.6.1.1.2.2.6.1.3.1.1.1.1
 name: RRC Framework Full Implementation
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.2.2.6.1.3.1.1.1.1 - RRC Framework Full Implementation [Core]
 
-**`Pending`**
+**`Covered`**

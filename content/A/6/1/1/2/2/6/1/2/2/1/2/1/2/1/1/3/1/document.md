@@ -1,5 +1,5 @@
 ---
-id: 137c1b88-c53c-42a2-95ed-6a4f42a41211
+id: c7b2c565-d1b5-4239-9139-89762423443d
 docNo: A.6.1.1.2.2.6.1.2.2.1.2.1.2.1.1.3.1
 name: Encode Mint Function Call
 type: Core

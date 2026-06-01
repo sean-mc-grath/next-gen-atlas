@@ -1,12 +1,12 @@
 ---
-id: 1bd446ed-d9e7-41a0-89c2-40291f9c0e36
+id: e40c4ab5-15a9-4d56-a01e-609388d38bac
 docNo: A.6.1.1.3.2.6.1.3.1.2.1.2.3
-name: Rate Limit Information
+name: Rate Limit IDs
 type: Core
 depth: 14
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.2.1.2.3 - Rate Limit Information [Core]
+###### A.6.1.1.3.2.6.1.3.1.2.1.2.3 - Rate Limit IDs [Core]
 
-The specific `Integration` account contains the rate limit information to control inflows into the Drift USDS Instance of the Allocation System Primitive.
+The specific `RateLimitID`(s) for this conduit’s inflow and outflow will be specified in a future iteration of the Grove Artifact.

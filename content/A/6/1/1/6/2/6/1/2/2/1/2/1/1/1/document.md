@@ -1,5 +1,5 @@
 ---
-id: f849be24-c82e-4b13-9a34-027dcaf03fb2
+id: 1a834a8b-d87b-4eed-8f17-8276a2ae2dee
 docNo: A.6.1.1.6.2.6.1.2.2.1.2.1.1.1
 name: Set Mint Recipient For Destination Domain
 type: Core

@@ -1,12 +1,12 @@
 ---
-id: 75920dcb-2cbb-4be7-b0a8-4ed1b5eef507
+id: 4377a68b-2bc0-4c7b-96e6-e7d5c6527bd9
 docNo: A.6.1.1.2.2.6.1.3.1.12.2.2.2.3
-name: Pool Address
+name: Paxos Deposit Address
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.2.2.6.1.3.1.12.2.2.2.3 - Pool Address [Core]
+###### A.6.1.1.2.2.6.1.3.1.12.2.2.2.3 - Paxos Deposit Address [Core]
 
-`0xbAFeAd7c60Ea473758ED6c6021505E8BBd7e8E5d`
+`0x2f7BE67e11A4D621E36f1A8371b0a5Fe16dE6B20`

@@ -1,12 +1,12 @@
 ---
-id: e14b47e9-9da0-475d-bfe7-001a7339f745
+id: a6946602-348a-408a-9cbf-d566efe96cbf
 docNo: A.6.1.1.3.2.6.1.3.1.1.3.2.2.2
-name: Underlying Asset Address
+name: Deposit Address (Mainnet)
 type: Core
 depth: 15
 childType: sections_and_primary_docs
 ---
 
-###### A.6.1.1.3.2.6.1.3.1.1.3.2.2.2 - Underlying Asset Address [Core]
+###### A.6.1.1.3.2.6.1.3.1.1.3.2.2.2 - Deposit Address (Mainnet) [Core]
 
-`Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB`
+`0x74A739EA1Dc67c5a0179ebad665D1D3c4b80B712`

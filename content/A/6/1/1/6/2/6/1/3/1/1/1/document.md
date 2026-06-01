@@ -1,5 +1,5 @@
 ---
-id: 50d86fb7-cacd-4f9b-adf4-7056cfe8cd97
+id: 7488a14c-2464-4649-b476-48ee93bb438f
 docNo: A.6.1.1.6.2.6.1.3.1.1.1
 name: Ethereum Mainnet - Maple USDC Instance Configuration Document
 type: Core

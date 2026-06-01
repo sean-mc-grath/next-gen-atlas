@@ -1,5 +1,5 @@
 ---
-id: df8efa45-85c4-4c66-b984-a5ddfc3f3522
+id: b001c1e5-89c6-4141-bc59-b4e7b86d5f47
 docNo: A.6.1.1.4.2.1.1.1
 name: Primitive Hub Document
 type: Core
@@ -9,4 +9,4 @@ childType: sections_and_primary_docs
 
 ###### A.6.1.1.4.2.1.1.1 - Primitive Hub Document [Core]
 
-The documents herein organize all base information relevant to Skybase's usage of the Agent Creation Primitive.
+The documents herein organize all base information relevant to Keel’s usage of the Agent Creation Primitive.

@@ -1,5 +1,5 @@
 ---
-id: 2e5c5930-3805-47c2-8c11-b05b8c5bdddc
+id: 587c4557-6622-49af-b64b-9fd48dbc85b1
 docNo: A.6.1.1.5.2.1.1.3.1.3.3
 name: Artifact Edit Proposal
 type: Core

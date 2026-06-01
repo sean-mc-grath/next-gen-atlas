@@ -1,5 +1,5 @@
 ---
-id: 5847fff3-ff82-4c01-ac24-7f06fac8c2a4
+id: 1903250a-4499-4ce4-bdcb-5835102a6553
 docNo: A.6.1.1.2.2.6.1.3.1.4.2
 name: Ethereum Mainnet - Ethena sUSDe Instance Configuration Document
 type: Core
