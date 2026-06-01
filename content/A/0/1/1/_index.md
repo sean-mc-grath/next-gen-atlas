@@ -1,7 +1,7 @@
 ---
 type: index
 path: content/A/0/1/1
-childCount: 62
+childCount: 63
 ---
 
 # Contents
@@ -53,18 +53,19 @@ childCount: 62
 - [A.0.1.1.45 - Prime Agent](45/document.md)
 - [A.0.1.1.46 - Executor Agent](46/document.md)
 - [A.0.1.1.47 - Halo Agent (HA)](47/document.md)
-- [A.0.1.1.48 - Operational Executor Agent](48/document.md)
-- [A.0.1.1.49 - Core Council Executor Agent](49/document.md)
-- [A.0.1.1.50 - Core Council](50/document.md)
-- [A.0.1.1.51 - GovOps](51/document.md)
-- [A.0.1.1.52 - Operational Executor GovOps](52/document.md)
-- [A.0.1.1.53 - Core Council GovOps](53/document.md)
-- [A.0.1.1.54 - Operational Executor Facilitator](54/document.md)
-- [A.0.1.1.55 - Core Council Executor Facilitator](55/document.md)
-- [A.0.1.1.56 - Sky Primitives](56/document.md)
-- [A.0.1.1.57 - Conformance](57/document.md)
-- [A.0.1.1.58 - Independent Governance](58/document.md)
-- [A.0.1.1.59 - Sky Generated Asset](59/document.md)
-- [A.0.1.1.60 - Generate Sky Asset Primitive](60/document.md)
-- [A.0.1.1.61 - Sentinel](61/document.md)
-- [A.0.1.1.62 - Laniakea](62/document.md)
+- [A.0.1.1.48 - Proto-Agent](48/document.md)
+- [A.0.1.1.49 - Operational Executor Agent](49/document.md)
+- [A.0.1.1.50 - Core Council Executor Agent](50/document.md)
+- [A.0.1.1.51 - Core Council](51/document.md)
+- [A.0.1.1.52 - GovOps](52/document.md)
+- [A.0.1.1.53 - Operational Executor GovOps](53/document.md)
+- [A.0.1.1.54 - Core Council GovOps](54/document.md)
+- [A.0.1.1.55 - Operational Executor Facilitator](55/document.md)
+- [A.0.1.1.56 - Core Council Executor Facilitator](56/document.md)
+- [A.0.1.1.57 - Sky Primitives](57/document.md)
+- [A.0.1.1.58 - Conformance](58/document.md)
+- [A.0.1.1.59 - Independent Governance](59/document.md)
+- [A.0.1.1.60 - Sky Generated Asset](60/document.md)
+- [A.0.1.1.61 - Generate Sky Asset Primitive](61/document.md)
+- [A.0.1.1.62 - Sentinel](62/document.md)
+- [A.0.1.1.63 - Laniakea](63/document.md)

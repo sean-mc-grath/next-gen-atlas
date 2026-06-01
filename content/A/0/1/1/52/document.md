@@ -1,12 +1,12 @@
 ---
-id: 80c7e2e1-a2af-47dd-80c7-aee6823cca91
+id: 1e73ee4b-823d-406a-af54-223b43bc8e42
 docNo: A.0.1.1.52
-name: Operational Executor GovOps
+name: GovOps
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.52 - Operational Executor GovOps [Core]
+###### A.0.1.1.52 - GovOps [Core]
 
-Operational Executor GovOps ("Operational GovOps") actors are GovOps actors that operate within Operational Executor Agents. Operational GovOps play a crucial role in implementing Prime Agent strategies, doing so by executing the technical specifications outlined in Primitive Configuration Documents of Agent Artifacts.
+Governance Operations ("GovOps") actors are specialized Ecosystem Actors operating within Executor Agent entities. They manage the technical implementation of Prime Agents’ Instances of Sky Primitives by carrying out on-chain/off-chain tasks necessary for Prime Agents’ operational and governance processes. They work in tandem with Executor Facilitators, who interpret the Atlas and the Agent Artifact.

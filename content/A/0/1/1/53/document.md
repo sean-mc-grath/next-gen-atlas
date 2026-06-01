@@ -1,12 +1,12 @@
 ---
-id: e512e890-629f-450f-a14d-a3ea06a369c0
+id: 80c7e2e1-a2af-47dd-80c7-aee6823cca91
 docNo: A.0.1.1.53
-name: Core Council GovOps
+name: Operational Executor GovOps
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.53 - Core Council GovOps [Core]
+###### A.0.1.1.53 - Operational Executor GovOps [Core]
 
-Core Council GovOps ("Core GovOps") actors are GovOps actors that operate within Core Executor Agents.
+Operational Executor GovOps ("Operational GovOps") actors are GovOps actors that operate within Operational Executor Agents. Operational GovOps play a crucial role in implementing Prime Agent strategies, doing so by executing the technical specifications outlined in Primitive Configuration Documents of Agent Artifacts.

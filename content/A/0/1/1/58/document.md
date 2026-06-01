@@ -1,12 +1,12 @@
 ---
-id: 6e1c1d71-7f57-4842-9767-7de8f27a532a
+id: cb66c28b-c05f-4ccc-ad44-f05aacf78b9c
 docNo: A.0.1.1.58
-name: Independent Governance
+name: Conformance
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.58 - Independent Governance [Core]
+###### A.0.1.1.58 - Conformance [Core]
 
-Independent Governance is the state of a Prime Agent that has a token and an established governance process by which the token's holders can produce binding decisions directing the Agent.
+Conformance characterizes the state in which a Synome Document accurately operationalizes the principles, rules, and processes specified by the Atlas Documents.

@@ -1,12 +1,12 @@
 ---
-id: ae14941a-635e-4022-af4d-2bec2827fbbf
+id: 453e9bfb-2776-486d-b451-35742e49e0ab
 docNo: A.0.1.1.56
-name: Sky Primitives
+name: Core Council Executor Facilitator
 type: Core
 depth: 5
 childType: sections_and_primary_docs
 ---
 
-###### A.0.1.1.56 - Sky Primitives [Core]
+###### A.0.1.1.56 - Core Council Executor Facilitator [Core]
 
-Sky Primitives are the core building blocks of the Sky ecosystem, serving as the primary interface between Agents and the Atlas. By providing a standardized set of tools and interfaces, Sky Primitives empower Prime Agents to create, innovate, and evolve the Sky Protocol in a decentralized manner. The Sky Primitives are also used by Executor Agents, which serve as the robust and standardized intermediary layer between Prime Agents and the Sky Protocol.
+Core Council Executor Facilitators ("Core Facilitator") interpret Artifacts and the Atlas on behalf of Core Executor Agents.
