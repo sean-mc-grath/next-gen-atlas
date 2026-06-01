@@ -103,7 +103,7 @@ I deliberately did **not** try to fully specify several adjacent areas:
   - I used Cursor to then directly create the files and amendments on the branch I had created in advance.
 
 - **Update references and review**
-  - As a final step, I used Cursor to update section references for any moved definitions, update any references to these across the repo, and review language and syntax for consistency and accuracy.
+  - As a final step, I used Cursor (Claude model) to update section references for any moved definitions, update any references to these across the repo, and review language and syntax for consistency and accuracy.
 
 ---
 
