@@ -1,6 +1,6 @@
 # Research Note – Halo Agents Slice (Definition, Taxonomy, Trust Boundaries)
 
-Branch: `sean-assessment` · Draft PR: [#2](https://github.com/sean-mc-grath/next-gen-atlas/pull/2)
+Branch: `sean-assessment` ·
 
 ---
 
