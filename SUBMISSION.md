@@ -1,6 +1,6 @@
 # SUBMISSION
 
-Branch: `sean-assessment` · Draft PR: [#2](https://github.com/sean-mc-grath/next-gen-atlas/pull/2)
+Branch: `sean-assessment` · PR: [#2](https://github.com/sean-mc-grath/next-gen-atlas/pull/2)
 
 Design rationale is also documented in [`Research Notes/sean-assessment.md`](Research%20Notes/sean-assessment.md).
 
